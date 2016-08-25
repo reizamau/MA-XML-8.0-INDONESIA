@@ -22,7 +22,7 @@
     <string name="default_hint">Cari apps, musik, video, buku…</string>
     <string name="network_unavailable">Tidak dapat terhubung ke jaringan</string>
     <string name="connect_and_retry">Hubungkan ke internet dan coba lagi</string>
-    <string name="web_search_results">Baidu</string>
+    <string name="web_search_results">Google</string>
     <string name="search_group_fold">Sembunyikan</string>
     <string name="search_group_unfold">Lagi</string>
     <string name="common_setting">Pengaturan</string>
@@ -31,20 +31,20 @@
     <string name="installed_apps_component">com.android.providers.applications/.ApplicationLauncher</string>
     <string name="browser_search_component">com.android.browser/.BookmarkSearch</string>
     <string name="apps_search_activity" />
-    <string name="google_search_base">http://www.google.com/m?hl=%1$s</string>
-    <string name="google_search_base_pattern">http://%1$s/m?hl=%2$s</string>
+    <string name="google_search_base">http://www.google.com/search?q=%1$s</string>
+    <string name="google_search_base_pattern">http://%1$s/search?q=%2$s</string>
     <string name="default_search_domain">.google.com</string>
-    <string name="google_suggest_base">http://www.google.com/complete/search?hl=%1$s&amp;client=android&amp;q=</string>
-    <string name="xiaomi_suggest_base">https://global.search.xiaomi.net/global/v3.1/sug</string>
-    <string name="xiaomi_homepage_suggest">http://global.search.xiaomi.net/global/v4/home</string>
-    <string name="xiaomi_homepage_hint">http://global.search.xiaomi.net/global/v4/hints</string>
-    <string name="baidu_suggest_base">http://m.baidu.com/su?wd=%s&amp;action=opensearch</string>
-    <string name="baidu_search_url_from_systemui">https://m.baidu.com/s?from=1013672c&amp;word=%s&amp;tn=ins</string>
-    <string name="baidu_search_url_from_launcher">https://m.baidu.com/s?from=1002253t&amp;word=%s&amp;tn=ins</string>
-    <string name="baidu_search_url_from_input">https://m.baidu.com/s?from=1013672d&amp;word=%s&amp;tn=ins</string>
-    <string name="baidu_search_url_from_default">https://m.baidu.com/s?from=1002253t&amp;word=%s&amp;tn=ins</string>
+    <string name="google_suggest_base">http://www.google.com/search?hl=%1$s&amp;client=android&amp;q=</string>
+    <string name="xiaomi_suggest_base">http://www.google.com/search?hl=%1$s&amp;client=android&amp;q=</string>
+    <string name="xiaomi_homepage_suggest">http://www.google.com/search?hl=%1$s&amp;client=android&amp;q=</string>
+    <string name="xiaomi_homepage_hint">http://www.google.com/search?hl=%1$s&amp;client=android&amp;q=</string>
+    <string name="baidu_suggest_base">http://www.google.com/search?q=%1$s</string>
+    <string name="baidu_search_url_from_systemui">http://www.google.com/search?q=%1$s</string>
+    <string name="baidu_search_url_from_launcher">http://www.google.com/search?q=%1$s</string>
+    <string name="baidu_search_url_from_input">http://www.google.com/search?q=%1$s</string>
+    <string name="baidu_search_url_from_default">http://www.google.com/search?q=%1$s</string>
     <string name="search_apps_url">market://search?q=%s&amp;ref=migs</string>
-    <string name="search_videos_url">https://video.browser.miui.com/v6/2/#page=search&amp;keyword=%s&amp;from=home&amp;entry=migs&amp;_miui_fullscreen=1</string>
+    <string name="search_videos_url">https://m.youtube.com/results?q=%1$s</string>
     <string name="xiaomi_hint">http://api.miuipro.ru/search/hint_en</string>
     <string name="xiaomi_source_url">https://search.browser.miui.com</string>
     <string name="app_name">Aplikasi pencarian</string>
