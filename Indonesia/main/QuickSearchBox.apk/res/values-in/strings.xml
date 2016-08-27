@@ -15,11 +15,11 @@
     <string name="distance_unit_meter">m</string>
     <string name="distance_unit_kilometer">km</string>
     <string name="cta_declaration_title">Syarat dan ketentuan</string>
-    <string name="cta_declaration">Fitur ini membutuhkan koneksi internet, akses lokasi, dan membaca kontak dan riwayat panggilan untuk dapat bekerja.</string>
+    <string name="cta_declaration">Aplikasi ini membutuhkan koneksi internet, akses lokasi, membaca kontak dan riwayat panggilan untuk dapat bekerja.</string>
     <string name="cta_declaration_ignore">Jangan tampilkan lagi</string>
     <string name="cta_declaration_positive_text">Ijinkan</string>
     <string name="cta_declaration_negative_text">Keluar</string>
-    <string name="default_hint">Cari apps, musik, video, buku…</string>
+    <string name="default_hint">Cari apl, musik, video, buku…</string>
     <string name="network_unavailable">Tidak dapat terhubung ke jaringan</string>
     <string name="connect_and_retry">Hubungkan ke internet dan coba lagi</string>
     <string name="web_search_results">Google</string>
@@ -39,13 +39,13 @@
     <string name="xiaomi_homepage_suggest">http://www.google.com/search?hl=%1$s&amp;client=android&amp;q=</string>
     <string name="xiaomi_homepage_hint">http://www.google.com/search?hl=%1$s&amp;client=android&amp;q=</string>
     <string name="baidu_suggest_base">http://www.google.com/search?q=%1$s</string>
-    <string name="baidu_search_url_from_systemui">http://www.google.com/search?q=%1$s</string>
-    <string name="baidu_search_url_from_launcher">http://www.google.com/search?q=%1$s</string>
-    <string name="baidu_search_url_from_input">http://www.google.com/search?q=%1$s</string>
-    <string name="baidu_search_url_from_default">http://www.google.com/search?q=%1$s</string>
+    <string name="baidu_search_url_from_systemui">https://www.google.co.id/search?q=%s&amp;tn=ins</string>
+    <string name="baidu_search_url_from_launcher">https://www.google.co.id/search?q=%s&amp;tn=ins</string>
+    <string name="baidu_search_url_from_input">https://www.google.co.id/search?q=%s&amp;tn=ins</string>
+    <string name="baidu_search_url_from_default">https://www.google.co.id/search?q=%s&amp;tn=ins</string>
     <string name="search_apps_url">market://search?q=%s&amp;ref=migs</string>
-    <string name="search_videos_url">https://m.youtube.com/results?q=%1$s</string>
-    <string name="xiaomi_hint">http://api.miuipro.ru/search/hint_en</string>
+    <string name="search_videos_url">https://www.youtube.com/results?search_query=%s</string>
+    <string name="xiaomi_hint">" "</string>
     <string name="xiaomi_source_url">https://search.browser.miui.com</string>
     <string name="app_name">Pencarian</string>
     <string name="search_widget">Pencarian</string>
@@ -55,9 +55,9 @@
     <string name="corpus_label_global">Semua</string>
     <string name="corpus_label_web">Web</string>
     <string name="corpus_description_web">Bookmark</string>
-    <string name="corpus_label_apps">Apps</string>
+    <string name="corpus_label_apps">Apl</string>
     <string name="corpus_description_apps">Aplikasi terinstall</string>
-    <string name="corpus_hint_apps">Cari apps</string>
+    <string name="corpus_hint_apps">Cari apl</string>
     <string name="menu_settings">Cari pengaturan</string>
     <string name="search_settings">Cari pengaturan</string>
     <string name="google_settings_category_title">Pencarian Google</string>
