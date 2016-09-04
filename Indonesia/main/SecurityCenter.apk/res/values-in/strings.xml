@@ -1148,10 +1148,10 @@ Coba gunakan kabel Ethernet lainnya untuk dihubungkan ke router. Jika Anda mencu
     <string name="preferred_app_entries_email">Email</string>
     <string name="security_scan_card_clean_now">Pindai</string>
     <string name="card_main_paysafe_title">Keamanan pembayaran</string>
-    <string name="card_main_paysafe_summary">Scan payment environment for potential risks</string>
+    <string name="card_main_paysafe_summary">Pindai pembayaran dari resiko keamanan </string>
     <string name="card_main_paysafe_action">Hidupkan</string>
     <string name="card_main_applock_title">Kunci aplikasi</string>
-    <string name="card_main_applock_summary">Protect private items with App lock</string>
+    <string name="card_main_applock_summary">Lindungi data pribadi dengan Kunci aplikasi</string>
     <string name="card_main_applock_action">Hidupkan</string>
     <string name="card_main_datasave_title">Penghemat data</string>
     <string name="card_main_datasave_summary">Compress data to save up to 20%</string>
@@ -1173,6 +1173,12 @@ Coba gunakan kabel Ethernet lainnya untuk dihubungkan ke router. Jika Anda mencu
     <string name="action_button_text_80_100">Optimalkan</string>
     <string name="action_button_text_60_80">Perbaiki</string>
     <string name="action_button_text_60">Perbaiki</string>
+    <string name="card_main_private_space_title">Ruang kedua</string>
+    <string name="card_main_private_space_summary">Gunakan ruang kedua seperti mempunyai 2 ponsel</string>
+    <string name="card_main_private_space_action">Buat</string>
+    <string name="card_main_xspace_title">Aplikasi ganda</string>
+    <string name="card_main_xspace_summary">Buat dua akun untuk aplikasi apapun</string>
+    <string name="card_main_xspace_action">Buat</string>
     <string name="system_info_remind">Agar orang lain tak dapat akses tanpa seizin Anda</string>
     <string name="Setting_lock">Setelan</string>
     <string name="btn_jump">Lewati</string>
@@ -1398,7 +1404,6 @@ atau masukkan sandi Kunci aplikasi"</string>
     <string name="information_setting">Setelan Kabar berita</string>
     <string name="load_only_under_wlan">Muat berita saat terhubung ke Wi-Fi</string>
     <string name="recommend_news">Sumber rekomendasi</string>
-    <string name="power_center_auto_shutdown_summary_default">Hidupkan atau matikan perangkat pada waktu yang dijadwalkan</string>
     <string name="power_center_custom_summary_default">Tingkatkan daya baterai dengan kustom profil</string>
     <string name="power_center_low_battery_title">Penghemat Baterai</string>
     <string name="power_center_low_battery_summary_default">Alihkan profil saat baterai lemah</string>
@@ -1505,7 +1510,6 @@ atau masukkan sandi Kunci aplikasi"</string>
     <string name="power_save_on_time_end_time_summary">Selesai</string>
     <string name="power_save_on_time_end_time_title">%1$d: %2$d</string>
     <string name="power_save_on_time_option_title">Dalam periode ini beralih ke</string>
-    <string name="power_save_on_time_option_summary">Di akhir periode ini, perangkat akan dialihkan kembali ke profil yg sering dipakai</string>
     <string name="power_save_on_time_default_time">00:00</string>
     <string name="power_save_on_time_goout_title">Setelah periode ini beralih ke</string>
     <string name="power_save_choose_recovery_mode">Pilih profil</string>
@@ -1525,4 +1529,6 @@ atau masukkan sandi Kunci aplikasi"</string>
     <string name="power_mode_my_mode">Profil saya</string>
     <string name="power_mode_my_mode_summary">Simpan setelan baterai saat ini</string>
     <string name="power_apply_toast">Beralih ke %s</string>
+    <string name="power_center_auto_shutdown_summary_default">Hidupkan atau matikan perangkat pada waktu yang dijadwalkan</string>
+    <string name="power_save_on_time_option_summary">Di akhir periode ini, perangkat akan dialihkan kembali ke profil yg sering dipakai</string>
 </resources>
