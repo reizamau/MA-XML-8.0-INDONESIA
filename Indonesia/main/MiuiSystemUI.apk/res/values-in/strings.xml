@@ -220,7 +220,7 @@ d MMMM"</string>
     <string name="save_mode_btn_ok">Oke</string>
     <string name="oldman_airplane_mode_text">pesawat</string>
     <string name="oldman_incall_text">panggilan</string>
-    <string name="notification_template_text">" ada pemberitahuan. Sentuh untuk melihat."</string>
+    <string name="notification_template_text">" ada notifikasi. Ketuk untuk lihat."</string>
     <string name="audio_effect_settings">Pilih tipe headphone</string>
     <string name="audio_effect_info">Optimalkan audio</string>
     <string name="audio_effect_custom">Konfigurasi</string>

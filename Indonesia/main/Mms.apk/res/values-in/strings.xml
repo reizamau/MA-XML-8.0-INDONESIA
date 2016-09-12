@@ -40,7 +40,8 @@ Upaya dibuat: %s."</string>
     <string name="add_slide_hint">Sentuh untuk buat slide baru</string>
     <string name="discard_slideshow">Buang slideshow</string>
     <string name="slide_show_part">Bagian %1$s/%2$s</string>
-    <string name="select_copy_text">pilih dan salin pesan teks</string>
+    <string name="select_copy_text">Pilih dan salin pesan teks</string>
+    <string name="show_delivery_status">Tampil status pengiriman</string>
     <string name="remove_text">Hapus teks</string>
     <string name="add_picture">Tambah gambar</string>
     <string name="remove_picture">Hapus gambar</string>
@@ -69,7 +70,7 @@ Upaya dibuat: %s."</string>
     <string name="forward_prefix">"Terusan: "</string>
     <string name="discard_message">Buang</string>
     <string name="discard_message_reason">Pesan Anda akan dibuang karena tidak ada penerima yang valid.</string>
-    <string name="has_invalid_recipient">Penerima tdk benar: &lt;%1$s></string>
+    <string name="has_invalid_recipient">Penerima tidak valid: &lt;%1$s></string>
     <string name="invalid_destination">Alamat tujuan tidak valid.</string>
     <string name="service_not_activated">Layanan tdk aktif pada jaringan</string>
     <string name="service_message_not_found">Pesan kedaluwarsa atau tidak tersedia</string>
@@ -261,6 +262,7 @@ Upaya dibuat: %s."</string>
     <string name="edit_nickname_for_nocontact">Anda perlu tambah penerima dulu</string>
     <string name="edit_nickname_for_nocontact_by_robot">Anda perlu tambah penerima dulu</string>
     <string name="nickname_placeholder">Nama panggilan</string>
+    <string name="no_delivery_report">Tak ada laporan terkirim</string>
     <string name="me">Saya</string>
     <string name="to_count">%d penerima</string>
     <string name="recipient_editor_count_format">%d</string>
@@ -366,7 +368,7 @@ Upaya dibuat: %s."</string>
     <string name="to_send_wrapper">Akan dikirim pada %s</string>
     <string name="group_message">Pesan grup</string>
     <string name="close">Tutup</string>
-    <string name="timed_message_expired_title">waktu %d pesan belum dikirim</string>
+    <string name="timed_message_expired_title">%d pesan waktu belum dikirim</string>
     <string name="timed_message_expired_title_2">Kirim pesan sekarang?</string>
     <string name="timed_message_to">ke</string>
     <string name="timed_message_in_total"> (%d pesan)</string>
@@ -481,6 +483,7 @@ Upaya dibuat: %s."</string>
     <string name="title_collapse_sp_messages">Grup notifikasi</string>
     <string name="pref_collapse_sp_messages_summary">Otomatis kelompokkan SMS notifikasi menjadi satu</string>
     <string name="sp_conversation_title">Notifikasi</string>
+    <string name="pref_smart_messages_settings">Pesan pintar</string>
     <string name="title_show_sms_template">Periksa SMS untuk kode verifikasi</string>
     <string name="pref_show_sms_template_summary">Otomatis salin dan isi kode verikasi</string>
     <string name="title_show_sms_template_in">Periksa SMS untuk OTP</string>
@@ -502,7 +505,7 @@ Upaya dibuat: %s."</string>
     <string name="user_agreement2">Persyaratan Layanan</string>
     <string name="user_agreement3">" dan "</string>
     <string name="user_agreement4">Kebijakan Privasi</string>
-    <string name="user_agreement5">Dengan menyentuh Oke, Anda menyetujui Persyaratan Layanan dan Kebijakan Privasi kami.</string>
+    <string name="user_agreement5">Dengan memilih Oke, Anda menyetujui Persyaratan Layanan dan Kebijakan Privasi kami.</string>
     <string name="menu_call">Panggil</string>
     <string name="menu_contact">Lihat info kontak</string>
     <string name="menu_new_contact">Kontak baru</string>

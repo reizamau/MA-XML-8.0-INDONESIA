@@ -92,7 +92,7 @@ Untuk mengaktivasi akun, klik tautan
     <string name="passport_input_vcode_hint">Masukkan kode verifikasi</string>
     <string name="passport_confirm">Oke</string>
     <string name="passport_login_notice">Memasuki…</string>
-    <string name="passport_login_check_find_device">Memeriksa status Cari perangkat…</string>
+    <string name="passport_login_check_find_device">Getting device security info…</string>
     <string name="passport_login_check_find_device_failed_title">Tidak dapat memeriksa status Cari perangkat</string>
     <string name="passport_login_find_device_bind">Perangkat ini tertaut dengan ID Akun Mi (%s) yang sudah ada.</string>
     <string name="passport_retry">Coba lagi</string>
@@ -196,12 +196,10 @@ Untuk mengaktivasi akun, klik tautan
     <string name="binded">Terhubung</string>
     <string name="nobind">Tidak terhubung</string>
     <string name="button_unbind">Putuskan</string>
-    <string name="unbind_weibo_description">Setelah memutuskan hubungan akun ini, Anda tidak dapat sinkron kontak dari Weibo atau menggunakan Akun Sina Weibo untuk masuk.</string>
     <string name="unbind_sns_description">Setelah memutuskan hubungan akun ini, Anda tidak dapat menggunakan info Akun %s untuk masuk ke Akun Mi Anda.</string>
     <string name="confirm_unbind">Putuskan hubungan akun ini?</string>
     <string name="binded_description" formatted="false">%s telah terhubung ke Akun Mi Anda. Profil Anda telah diperbarui dengan info dari Akun %s Anda.</string>
     <string name="update_contacts">Perbarui buku alamat</string>
-    <string name="update_contacts_description">Biarkan Sina Weibo menggunakan Akun Mi Anda utk sinkron kontak antar platform</string>
     <string name="updated_nothing">Diperbarui</string>
     <string name="access_token_expired_warning">Akun Weibo telah kedaluwarsa</string>
     <string name="access_token_invalid_warning">Akun Weibo tdk valid</string>
@@ -249,7 +247,6 @@ Untuk mengaktivasi akun, klik tautan
     <string name="sns_access_token_expired_warning">Masa waktu masuk akun habis. Masuk lagi untuk hubungkan kembali akun ini.</string>
     <string name="user_avatar_uploading">Tunggu sebentar…</string>
     <string name="user_avatar_update_title">Ganti foto profil</string>
-    <string name="account_none_binded_secure_phone">Tak ada nomor telepon</string>
     <string name="account_none_binded_info">Tak ada</string>
     <string name="account_bind_secure_phone_title">Tambah nomor telepon</string>
     <string name="account_bind_secure_email_title">Tambah email</string>

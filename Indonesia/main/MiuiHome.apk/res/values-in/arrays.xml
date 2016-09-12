@@ -61,4 +61,7 @@
         <item>Wallpaper</item>
         <item>Efek</item>
     </string-array>
+    <string-array name="quality_business_devices">
+        <item>Lithium</item>
+    </string-array>
 </resources>

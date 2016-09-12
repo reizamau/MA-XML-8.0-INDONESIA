@@ -69,7 +69,7 @@
     <string name="notif_send_success_multi">Kirim ke %1$d orang</string>
     <string name="notif_receive_progress">Menerima %1$s berkas…</string>
     <string name="notif_receive_cancel">%1$s berkas tidak tertransfer</string>
-    <string name="notif_receive_success">%1$s diterima</string>
+    <string name="notif_receive_success">Received files from %1$s</string>
     <string name="notif_receive_lockscreen">Ketuk untuk lihat rincian</string>
     <string name="sender_in_progress_title">Batal transfer?</string>
     <string name="sender_in_progress_later">Coba lagi nanti</string>

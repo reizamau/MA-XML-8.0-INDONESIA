@@ -193,8 +193,8 @@
     <string name="clearFrequentsConfirmation_title">Hapus kontak yang sering dihubungi?</string>
     <string name="clearFrequentsConfirmation">Hapus daftar kontak yang sering dihubungi di Kontak dan Telepon, dan paksa apl mail mempelajari preferensi pengalamatan Anda.</string>
     <string name="clearFrequentsProgress_title">Menghapus yang sering dihubungi…</string>
-    <string name="imei">"IMEI: "</string>
-    <string name="meid">"MEID: "</string>
+    <string name="imei">IMEI</string>
+    <string name="meid">MEID</string>
     <string name="voicemail">Pesan suara</string>
     <string name="unknown">Tak dikenal</string>
     <string name="private_num">Nomor pribadi</string>
@@ -643,6 +643,7 @@ Pilih salah satu opsi di bawah ini:"</string>
     <string name="button_join_service_number">Tambah nomor layanan</string>
     <string name="button_my_center">Profil</string>
     <string name="gallery">Galeri</string>
+    <string name="search_input_hint">Anda dapat cari nomor telepon atau layanan</string>
     <string name="import_from_sim">Impor dari kartu SIM</string>
     <string name="export_to_sim_title">Mengekspor…</string>
     <string name="import_from_sim1">Impor dari kartu SIM 1</string>
@@ -978,6 +979,7 @@ Kartu kontak dimatikan"</string>
     <string name="default_ringtone">Nada dering bawaan</string>
     <string name="recent_number">Terkini</string>
     <string name="cloud_antispam_mark">Tandai</string>
+    <string name="cloud_antispam_marked">Ditandai</string>
     <string name="antispam_mark_my_contribution">Membagikan info tanda</string>
     <string name="antispam_provider_format">Diidentifikasi oleh %s</string>
     <string name="type_mx_msg">Mi Message</string>

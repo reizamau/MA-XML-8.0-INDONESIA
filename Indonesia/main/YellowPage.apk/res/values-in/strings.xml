@@ -372,7 +372,7 @@ Periksa nomor seri Anda lagi."</string>
     <string name="tag_follow_yp_id">tag_follow_yp_id</string>
     <string name="tag_follow_status">tag_follow_status</string>
     <string name="follow_processing">memproses</string>
-    <string name="homepage_barcode_prompt">Scan to open home page</string>
+    <string name="homepage_barcode_prompt">Pindai untuk buka halaman utama</string>
     <string name="follow_label">Mengikuti %1$s</string>
     <string name="follow_success">Sekarang mengikuti %1$s.</string>
     <string name="nearby_yellow_page_title">Sekitar</string>

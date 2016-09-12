@@ -9,14 +9,14 @@
     <string name="edit_systemtime">Ubah waktu sistem</string>
     <string name="more_settings">Setelan lanjutan</string>
     <string name="vibrate_pref_summary">Getar saat alarm berbunyi</string>
-    <string name="label_pref_summary">Beri label alarm ini</string>
+    <string name="label_pref_summary">Label</string>
     <string name="force_touch_add_alarm">Tambah alarm</string>
     <string name="force_touch_enter_stopwatch">Stopwatch</string>
     <string name="force_touch_enter_timer">Timer</string>
     <string name="worldclock_title">Jam</string>
     <string name="stopwatch_title">Stopwatch</string>
     <string name="timer_title">Timer</string>
-    <string name="timer_alarm_dot_matrix_label">PEWAKTU</string>
+    <string name="timer_alarm_dot_matrix_label">TIMER</string>
     <string name="menu_add_worldclock">Tambah jam</string>
     <string name="menu_edit_timer_item">Ubah tugas timer</string>
     <string name="delete_timer_item_title">Hapus tugas timer</string>

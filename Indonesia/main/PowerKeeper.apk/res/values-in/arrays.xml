@@ -46,7 +46,7 @@
     </string-array>
     <string-array name="app_groups">
         <item>Mode ini</item>
-        <item>Tak terpilih</item>
+        <item>Tak ada yang dipilih</item>
         <item>Di mode terpilih lainnya</item>
     </string-array>
     <string-array name="hmode_app_groups">

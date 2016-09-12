@@ -210,9 +210,8 @@
     <string name="button_text_select_pic">Pilih</string>
     <string name="button_text_unselect_pic">Batal pilih</string>
     <string name="button_text_delete_pic">Hapus</string>
-    <string name="hint_clean_select_similar_image">Menghapus duplikat…</string>
+    <string name="hint_clean_select_items">Menghapus duplikat…</string>
     <string name="dialog_title_delete_image">Hapus gambar terpilih</string>
-    <string name="dialog_content_delete_image_confirm">Hapus %d foto?</string>
     <string name="button_text_restore_ignore">Urungkan</string>
     <string name="toast_selecte_group_restore_succeed">Foto dikembalikan</string>
     <string name="toast_must_select_before_restore">Pilih foto untuk dikembalikan</string>
@@ -409,6 +408,8 @@
     <string name="function_app_lock_title">%d apl mengandung risiko privasi</string>
     <string name="app_install_tips_go_to">Buka</string>
     <string name="app_install_tips_install_success">Berhasil instal %1$s</string>
+    <string name="deep_clean_uninstall_completed_tips">Berhasil uninstal</string>
+    <string name="deep_clean_completed_tips">Berhasil dibersihkan</string>
     <string name="deepclean_normal_item_summary_empty">Everything looks good, nothing to clear</string>
     <string name="low_memory_clean_dialog_title">Tidak ada cukup ruang</string>
     <string name="low_memory_clean_dialog_msg">Bersihkan setidaknya %1$s berkas dulu</string>
@@ -419,4 +420,13 @@
     <string name="low_memory_warning_dialog_cancel_button">Batal</string>
     <string name="deep_clean_normal_clean_progress_desc">%1$s berkas dibersihkan</string>
     <string name="deep_clean_data_path_clean_title">Bersihkan cache</string>
+    <string name="btn_text_quick_cleanup_appdata">Hapus data terpilih %1$s</string>
+    <string name="btn_text_quick_cleanup_large_file">Hapus berkas terpilih %1$s</string>
+    <string name="btn_text_quick_cleanup_video">Hapus video terpilih %1$s</string>
+    <string name="btn_text_quick_cleanup_apk">Hapus APK terpilih %1$s</string>
+    <string name="deepclean_install_info_desc2">Hapus apl untuk bebaskan ruang</string>
+    <string name="ad_install_success_dialog_title">%1$s terinstal. Buka sekarang?</string>
+    <string name="ad_install_success_dialog_lunch">Buka</string>
+    <string name="deepclean_empty">Semuanya terlihat baik</string>
+    <string name="scanning">Memindai…</string>
 </resources>

@@ -64,10 +64,10 @@
         <item quantity="other">Ditemukan %1$d berkas baru</item>
     </plurals>
     <plurals name="file_notify_title">
-        <item quantity="other">Menerima %1$d berkas apl %2$s</item>
+        <item quantity="other">Menerima %1$d berkas dari %2$s</item>
     </plurals>
     <plurals name="file_notify_title_wechat_video">
-        <item quantity="other">Menerima %1$d berkas WeChat</item>
+        <item quantity="other">Menerima %1$d berkas dari WeChat</item>
     </plurals>
     <plurals name="file_notify_title_wechat_video_expire">
         <item quantity="other">%1$d video WeChat akan segera kedaluwarsa</item>
@@ -110,5 +110,11 @@
     </plurals>
     <plurals name="follow_count">
         <item quantity="other">%1$s pengikut</item>
+    </plurals>
+    <plurals name="number_of_comment_flow">
+        <item quantity="other">%1$s comments</item>
+    </plurals>
+    <plurals name="user_sign_limt">
+        <item quantity="other">You can enter %d characters</item>
     </plurals>
 </resources>

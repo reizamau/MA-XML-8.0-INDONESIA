@@ -56,7 +56,7 @@
     <string name="lockscreen_access_pattern_cleared">Pola dibersihkan</string>
     <string name="lockscreen_access_pattern_cell_added">Sel ditambahkan</string>
     <string name="lockscreen_access_pattern_detected">Pola selesai</string>
-    <string name="memory_clear_result">%1$s dibersihkan | %2$s tersedia</string>
+    <string name="memory_clear_result">%1$sB dibersihkan | %2$sB tersedia</string>
     <string name="memory_clear_nothing_result">Tidak ada cache yang dapat dibersihkan</string>
     <string name="shutdown_confirm_title">Matikan perangkat sekarang?</string>
     <string name="shutdown_progress">Mematikan…</string>
@@ -78,10 +78,10 @@
     <string name="handy_mode_summary">Untuk tutup, sentuh bagian yang gelap</string>
     <string name="handy_mode_enter_dlg_title">Masuk mode Operasi satu tangan</string>
     <string name="handy_mode_enter_dlg_msg">Masuk mode Operasi satu tangan?</string>
-    <string name="screenshot_gesture_detect_alert_title">Three-finger screenshot</string>
-    <string name="screenshot_gesture_detect_alert_msg">Swipe down with three fingers to take a screenshot?</string>
-    <string name="screenshot_gesture_detect_alert_button">Turn on in the Settings</string>
-    <string name="screenshot_gesture_detect_alert_dont_again">"Don't show again"</string>
+    <string name="screenshot_gesture_detect_alert_title">Screenshot 3 jari</string>
+    <string name="screenshot_gesture_detect_alert_msg">Usap ke bawah dengan 3 jari untuk ambil screenshot?</string>
+    <string name="screenshot_gesture_detect_alert_button">Hidupkan di Setelan</string>
+    <string name="screenshot_gesture_detect_alert_dont_again">Jangan tampil lagi</string>
     <string name="permlab_manageLocationPolicy">Akses lokasi</string>
     <string name="permdesc_manageLocationPolicy">Izinkan apl untuk kelola kebijakan lokasi dan aturan app tertentu.</string>
     <string name="location_usage_restricted_title">Lokasi latar belakang dibatasi</string>
@@ -118,6 +118,7 @@
     <string name="auto_disable_screenbuttons_float_text">Sentuh untuk mematikan tombol navigasi</string>
     <string name="auto_disable_screenbuttons_enable_toast_text">Tombol navigasi diaktifkan</string>
     <string name="auto_disable_screenbuttons_disable_toast_text">Tombol navigasi dimatikan, ketuk ganda tombol apapun untuk kembali mengaktifkan</string>
+    <string name="auto_disable_screenbuttons_tap_again_exit_toast_text">Ketuk lagi untuk keluar</string>
     <string name="auto_disable_screenbuttons_prompts_title">Matikan tombol navigasi?</string>
     <string name="auto_disable_screenbuttons_prompts_message">Ketuk ganda pada tombol manapun untuk menghidupkan navigasi kembali kapanpun.</string>
     <string name="auto_disable_screenbuttons_prompts_ok">Oke</string>
