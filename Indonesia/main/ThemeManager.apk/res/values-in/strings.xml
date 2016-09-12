@@ -67,7 +67,6 @@
     <string name="resource_detail_recommend_other_themes">Pengguna juga suka</string>
     <string name="resource_detail_jump_to_online_title">Online</string>
     <string name="resource_detail_jump_to_same_author_title">Pembuat yang sama</string>
-    <string name="resource_detail_recommend_desiner_themes">%1$s tema</string>
     <string name="resource_detail_description_pic_text">Total %1$d ikon</string>
     <string name="local_resouce_creator_name">Pengembang: %1$s</string>
     <string name="resource_share_title">Berbagi</string>

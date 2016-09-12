@@ -150,7 +150,7 @@ Ketuk %s untuk mulai unduh lain kali Anda terhubung ke Wi-Fi."</string>
     <string name="settings_search_path_normal">Aplikasi sistem/Musik/Layanan dan setelan</string>
     <string name="settings_search_path_advance">Aplikasi terinstal/Musik/Layanan dan setelan/Setelan lanjutan</string>
     <string name="settings_search_title_main">Musik</string>
-    <string name="settings_search_key_main">Musik;Lagu</string>
+    <string name="settings_search_key_main">Music;Songs;Song</string>
     <string name="settings_search_title_desktop_lyric">Lirik Layar utama</string>
     <string name="settings_search_key_desktop_lyric">Lirik layar utama;Lirik;Musik;Lagu</string>
     <string name="settings_search_title_download_quality">Kualitas unduh</string>
@@ -760,7 +760,7 @@ Ketuk %s untuk mulai unduh lain kali Anda terhubung ke Wi-Fi."</string>
     <string name="follow">Ikuti</string>
     <string name="followed">Mengikuti</string>
     <string name="artist_favor">Pilihan</string>
-    <string name="artist_album">Ablums</string>
+    <string name="artist_album">Albums</string>
     <string name="artist_news">Berita</string>
     <string name="download_start_btn">Unduh gratis</string>
     <string name="already_download_btn">Mengunduh…</string>

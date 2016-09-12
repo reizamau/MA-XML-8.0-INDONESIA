@@ -17,8 +17,8 @@ ID perangkat harus alamat IMEI atau MAC yang valid. Tanpa ID perangkat, beberapa
     <string name="activate_phone_success_notif_title_msim">Kartu SIM %s teraktivasi</string>
     <string name="activate_phone_cancel_notif_title">Aktivasi kartu SIM dibatalkan</string>
     <string name="activate_phone_cancel_notif_title_msim">Aktivasi kartu SIM %s dibatalkan</string>
-    <string name="activate_status_title_activating">Mengaktivasi kartu SIM</string>
-    <string name="activate_status_title_activating_msim">Mengaktivasi kartu SIM %s</string>
+    <string name="activate_status_title_activating">Activating SIM card</string>
+    <string name="activate_status_title_activating_msim">Activating SIM card %s</string>
     <string name="activate_auto_sms_notification_title">Aktivasi kartu SIM</string>
     <string name="activate_auto_sms_notification_desc_2_cards">Sebuah SMS dikirim dari kartu SIM %s untuk aktivasi \"Cari perangkat\"</string>
     <string name="activate_auto_sms_notification_desc_1_card">SMS dikirim untuk aktivasi \"Cari perangkat\"</string>

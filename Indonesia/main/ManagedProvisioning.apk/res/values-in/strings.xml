@@ -49,4 +49,9 @@
     <string name="device_owner_error_package_invalid">Tidak dapat menggunakan aplikasi admin. Komponen hilang atau rusak. Hubungi departemen TI Anda.</string>
     <string name="device_owner_error_installation_failed">Tidak dapat memasang aplikasi admin</string>
     <string name="device_owner_error_package_not_installed">Aplikasi admin belum terpasang di perangkat Anda</string>
+    <string name="profile_owner_cancel_title">Berhenti menyiapkan?</string>
+    <string name="profile_owner_cancel_message">Yakin ingin berhenti menyiapkan?</string>
+    <string name="profile_owner_cancel_cancel">Tidak</string>
+    <string name="profile_owner_cancel_ok">Ya</string>
+    <string name="profile_owner_cancelling">Membatalkan...</string>
 </resources>

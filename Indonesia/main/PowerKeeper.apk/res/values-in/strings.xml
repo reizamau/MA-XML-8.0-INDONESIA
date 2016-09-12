@@ -153,4 +153,5 @@ Penghemat baterai akan memperlakukan apl penting secara selektif."</string>
     <string name="ragment_sys_listempty">Tak ada apl sistem</string>
     <string name="fragment_nonesys_listempty">Tak ada apl terinstal</string>
     <string name="app_invisible_title">Apl tersembunyi</string>
+    <string name="google_base_app_install_choice">\"%s\" butuh apl Kerangka Kerja Layanan Google bekerja dengan normal, unduh dan instal mereka?</string>
 </resources>

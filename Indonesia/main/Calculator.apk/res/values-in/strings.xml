@@ -278,8 +278,8 @@
     <string name="word_figure_big_unit_jiao">角</string>
     <string name="word_figure_big_unit_fen">分</string>
     <string name="city">Kota</string>
-    <string name="combine_loan">Combin loan</string>
-    <string name="commercial_loan">Commercial loan</string>
+    <string name="combine_loan">Kredit gabungan</string>
+    <string name="commercial_loan">Kredit komersil</string>
     <string name="day">hari</string>
-    <string name="dateformat">MM,dd,yyyy</string>
+    <string name="dateformat">dd/MM/yyyy</string>
 </resources>

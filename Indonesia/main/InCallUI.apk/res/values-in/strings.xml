@@ -15,7 +15,7 @@
     <string name="callFailed_server_error">Server bermasalah. Coba lagi nanti.</string>
     <string name="callFailed_noSignal">Tak ada sinyal</string>
     <string name="callFailed_limitExceeded">Melampaui batas ACM</string>
-    <string name="callFailed_powerOff">Radio mati</string>
+    <string name="callFailed_powerOff">Antena mati</string>
     <string name="callFailed_simError">Kartu SIM bermasalah</string>
     <string name="callFailed_outOfService">Di luar area layanan</string>
     <string name="callFailed_fdn_only">Panggilan keluar dibatasi oleh NPT.</string>

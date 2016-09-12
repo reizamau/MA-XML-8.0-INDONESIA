@@ -168,7 +168,7 @@ Jika Anda ganti kartu SIM, SMS aktivasi ulang fitur ini akan otomatis dikirim."<
     <string name="micloud_web_discription">Kunjungi i.mi.com</string>
     <string name="micloud_web_discription_international">Kunjungi www.mi.com/micloud</string>
     <string name="micloud_full_influence_title">Saat Mi Cloud Anda penuh…</string>
-    <string name="micloud_warn_low_title">Hampir penuh</string>
+    <string name="micloud_warn_low_title">Ruang hampir penuh</string>
     <string name="micloud_warn_low_sum">Mi Cloud 90% penuh.</string>
     <string name="micloud_warn_full_title">Ruang sudah penuh</string>
     <string name="micloud_warn_full_sum">Item baru tak akan disinkron dgn Mi Cloud.</string>
@@ -230,7 +230,7 @@ Ketuk Setelan untuk lihat pilihan lainnya."</string>
     <string name="micloud_main_sync_pending">Tunggu untuk sinkron</string>
     <string name="micloud_main_title_not_synced">Tidak tersinkron</string>
     <string name="micloud_main_message_not_synced">%s data tidak tersinkron</string>
-    <string name="micloud_main_data_unsynced">%d menunggu disinkron</string>
+    <string name="micloud_main_data_unsynced">Berkas menunggu utk disinkron: %d</string>
     <string name="micloud_main_detail">Lihat rincian</string>
     <string name="micloud_main_network_abnormal">Tidak dapat terhubung ke jaringan</string>
     <string name="micloud_main_sync_init">Memperoleh info</string>
@@ -241,7 +241,7 @@ Ketuk Setelan untuk lihat pilihan lainnya."</string>
     <string name="micloud_main_synced_data_count">%d item tersinkron</string>
     <string name="micloud_main_wlan_sync_data_count">%d item menunggu disinkron</string>
     <string name="micloud_main_space_full">Penyimpanan cloud penuh</string>
-    <string name="micloud_main_space_low">Hampir penuh</string>
+    <string name="micloud_main_space_low">Ruang hampir penuh</string>
     <string name="micloud_main_update_space">Beli ruang.</string>
     <string name="micloud_main_space_full_title">Penyimpanan cloud penuh</string>
     <string name="micloud_main_memory_low_title">Penyimpanan internal telepon hampir penuh</string>
@@ -415,7 +415,7 @@ Pencadangan terakhir %2$s"</string>
     <string name="micloud_battery_low_notification_title">Baterai lemah</string>
     <string name="micloud_battery_low_notification_message">Isi daya untuk sinkron</string>
     <string name="micloud_upgrade_member">Beli ruang</string>
-    <string name="micloud_notif_title_depend_wifi">%d menunggu disinkron</string>
+    <string name="micloud_notif_title_depend_wifi">Berkas menunggu utk disinkron: %d</string>
     <string name="micloud_notif_content_depend_wifi">Hubung ke Wi-Fi untuk sinkron.</string>
     <string name="micloud_notif_title_master_depend_wifi">Tidak dapat sinkron dengan Mi Cloud</string>
     <string name="micloud_notif_content_master_depend_wifi">Hubungkan ke Wi-Fi dulu.</string>

@@ -187,10 +187,12 @@
     <string name="tab_title_my_reports">Laporan saya</string>
     <string name="nothing">--</string>
     <string name="feedback_id">ID: %d</string>
+    <string name="feedback_jira_key">JIRA Key: %s</string>
     <string name="feedback_collect_log_failed">Gagal mendapatkan log</string>
     <string name="feedback_package_log_failed">Tidak dapat mengkompres log</string>
     <string name="submit_feedback_info_failed">Tidak dapat mengirim laporan</string>
     <string name="post_miui_bbs_failed">Tidak dapat taruh di Forum</string>
+    <string name="upload_log_failed">Tidak dapat kirim log</string>
     <string name="feedback_detail_tile">Perkembangan</string>
     <string name="feedback_tracking">Lacak isu</string>
     <string name="feedback_status_more">Rincian</string>

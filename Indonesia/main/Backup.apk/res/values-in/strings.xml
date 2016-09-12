@@ -128,10 +128,10 @@ Ukuran pembaruan Delta:%2$s"</string>
     <string name="button_finish">Selesai</string>
     <string name="progress_backup_hint">Mencadangkan…</string>
     <string name="cancel_backup">Hentikan</string>
+    <string name="cancel_restore">Hentikan</string>
     <string name="restore_contact">Pulihkan kontak</string>
     <string name="restore_contact_content">Pemulihan mungkin akan menggandakan kontak.</string>
     <string name="progress_restore_hint">Memulihkan…</string>
-    <string name="cancel_restore">Hentikan</string>
     <string name="restore_failed">Tdk dpt dipulihkan</string>
     <string name="local_select_sysdata">Sistem</string>
     <string name="local_select_userapp">Apl</string>
@@ -230,6 +230,7 @@ Ukuran pembaruan Delta:%2$s"</string>
     <string name="state_waiting">Tunggu sebentar…</string>
     <string name="state_mounting">Mengakses penyimpanan router…</string>
     <string name="abort_backup_confirm">Pencadangan belum selesai. Tetap hentikan?</string>
+    <string name="abort_restore_confirm">Pemulihan belum selesai. Tetap hentikan?</string>
     <string name="feature_title_call_log">Riwayat panggilan</string>
     <string name="feature_title_mms">MMS</string>
     <string name="feature_title_account">Akun Mi</string>

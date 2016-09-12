@@ -16,6 +16,8 @@
          jarak jauh beberapa fitur keamanan perangkat Android Anda."</string>
     <string name="account_security_title">Keamanan perangkat</string>
     <string name="account_set_up_change_type_note">Jika Anda ingin tukar setelan antara POP3 dan IMAP, hapus akun Anda dan buat yang baru sesuai dengan setelan yang Anda inginkan.</string>
+    <string name="account_setting">Akun</string>
+    <string name="account_setting_keywords">Accounts;mail accounts</string>
     <string name="account_settings_action">Setelan akun</string>
     <string name="account_settings_background_attachments_label">Unduh lampiran</string>
     <string name="account_settings_background_attachments_summary">Unduh lampiran dengan Wi-Fi</string>
@@ -141,7 +143,9 @@
     <string name="actionbar_large_unread_count">%1$d+ belum dibaca</string>
     <string name="activity_folder_selection">Pilih folder</string>
     <string name="activity_mailbox_selection">Pilih akun</string>
+    <string name="ad_merge">Iklan &amp; Notifikasi</string>
     <string name="add_account">Tambah akun</string>
+    <string name="add_account_keywords">Tambah akun;tambah akun email</string>
     <string name="add_attachment">Tambah lampiran</string>
     <string name="add_calendar">Ingatkan</string>
     <string name="add_label">Tambah folder</string>
@@ -191,6 +195,8 @@
     <string name="auto_advance_label">Arus hapus pesan</string>
     <string name="auto_advance_summary">Pilih pesan mana yang digulir setelah hapus sebuah pesan</string>
     <string name="auto_sync_off">Sinkron otomatis nonaktif.</string>
+    <string name="battery_saver">Penghemat baterai</string>
+    <string name="battery_saver_keywords">battery saver;mail battery</string>
     <string name="bcc">Bcc</string>
     <string name="bcc_heading">"Bcc: "</string>
     <string name="blank_feedback_toast">Anda perlu menulis masukan</string>
@@ -231,6 +237,10 @@
     <string name="compose_send">Kirim</string>
     <string name="compose_sent">Email terkirim</string>
     <string name="confirm">Oke</string>
+    <string name="confirm_before_delete">Konfirmasi sebelum hapus</string>
+    <string name="confirm_before_delete_keywords">confirm before deleting;delete confirm</string>
+    <string name="confirm_before_send">Konfirmasi sebelum kirim</string>
+    <string name="confirm_before_send_keywords">confirm before sending;send confirm</string>
     <string name="confirm_delete_conversation_title">Hapus</string>
     <string name="confirm_discard_text">Buang pesan ini?</string>
     <string name="confirm_response">Mengirim…</string>
@@ -278,6 +288,8 @@
     <string name="conversation_item_mark_read">Telah dibaca</string>
     <string name="conversation_item_mark_unread">Belum dibaca</string>
     <string name="conversation_photo_welcome_text">Sentuh gambar pengirim utk memilih percakapan itu.</string>
+    <string name="conversation_view">Tampilan percakapan</string>
+    <string name="conversation_view_keywords">conversation view;mail conversation</string>
     <string name="copied">Tersalin</string>
     <string name="copy_email">Salin alamat email</string>
     <string name="copy_number">Salin nomor telepon</string>
@@ -291,6 +303,8 @@
     <string name="default_signature">Dikirim dari telepon Mi saya</string>
     <string name="del_account_questionnair_hint">Mengapa Anda menghapus akun ini?</string>
     <string name="delete">Hapus</string>
+    <string name="delete_message_flow">Arus hapus pesan</string>
+    <string name="delete_message_flow_keywords">delete message flow;delete redirect</string>
     <string name="deleted">Terhapus</string>
     <string name="device_activity_btn_str">Aktivasi</string>
     <string name="device_activity_lint_str">Aktifkan pembaruan menyeluruh layanan email dan aktivasi setelan keamanan</string>
@@ -335,6 +349,8 @@
     <string name="edit_quick_response_dialog">Balasan cepat</string>
     <string name="email_netease">NetEase Mail</string>
     <string name="email_qq">QQ Mail</string>
+    <string name="email_setting">Email</string>
+    <string name="email_setting_keywords">Accounts;Add account;mail accounts;add mail account;confirm before deleting;delete confirm;confirm before sending;send confirm;delete message flow;delete redirect;conversation view;mail conversation;battery saver;mail battery;send feedback;upload logs</string>
     <string name="email_sina">Sina Mail</string>
     <string name="empty_account_tip">Tidak dapat menemukan akun</string>
     <string name="empty_email_tip">Tidak dapat kirim pesan kosong</string>
@@ -605,6 +621,16 @@
     <string name="password_expired_dialog_content_fmt">Data untuk %s telah dihapus dari perangkat. Anda dapat kembalikan dengan mengubah PIN atau sandi layar kunci. Anda ingin ubah sekarang?\"</string>
     <string name="password_expired_dialog_title">Sandi layar kunci kedaluwarsa</string>
     <string name="password_expired_ticker">PIN atau sandi layar kunci kedaluwarsa.</string>
+    <string name="path_about_account_setting">Email/Setting/Accounts</string>
+    <string name="path_about_add_account">Email/Setting/Add account</string>
+    <string name="path_about_battery_saver">Email/Setting/Battery saver</string>
+    <string name="path_about_confirm_before_delete">Email/Setting/Confirm before deleting</string>
+    <string name="path_about_confirm_before_send">Email/Setting/Confirm before sending</string>
+    <string name="path_about_conversation_view">Email/Setting/Conversation view</string>
+    <string name="path_about_delete_message_flow">Email/Setting/Delete message flow</string>
+    <string name="path_about_email_setting">Email/Setting</string>
+    <string name="path_about_send_feed_back">Email/Setting/Send feedback</string>
+    <string name="path_about_upload_logs">Email/Setting/Upload logs</string>
     <string name="perference_change_pw_notnull_tips">Masukkan sandi</string>
     <string name="perference_change_pw_ok_tips">Sandi telah diubah</string>
     <string name="perference_setup_pop_del">Hapus email dari server</string>
@@ -653,7 +679,7 @@
     <string name="preference_sender_image_description">Tampil foto profil di sebelah nama pengirim di kotak masuk</string>
     <string name="preference_sender_image_title">Tampil foto profil di kotak masuk</string>
     <string name="preferences_signature_dialog_title">Tanda tangan</string>
-    <string name="preferences_signature_summary_not_set">Not set</string>
+    <string name="preferences_signature_summary_not_set">Belum disetel</string>
     <string name="preferences_signature_title">Tanda tangan</string>
     <string name="preview_attachment">Pratinjau</string>
     <string name="previous_action">Kembali</string>
@@ -743,6 +769,8 @@
     <string name="selected_lable">Terpilih</string>
     <string name="send">Kirim</string>
     <string name="send_failed">Pesan tidak terkirim.</string>
+    <string name="send_feed_back">Kirim masukan</string>
+    <string name="send_feed_back_keywords">send feedback</string>
     <string name="sender_whitelist_cleared">Gambar tidak akan otomatis ditampilkan.</string>
     <string name="senders_split_token">, </string>
     <string name="sending">Mengirim…</string>
@@ -780,7 +808,7 @@
     <string name="sort_attachment">Urut per</string>
     <string name="storage">Penyimpanan</string>
     <string name="str_select_all">Pilih semua</string>
-    <string name="str_select_none">Deselect</string>
+    <string name="str_select_none">Batal pilih</string>
     <string name="subject_and_snippet" formatted="false">%s — %s</string>
     <string name="subject_hint">Subjek</string>
     <string name="sync_error">Tidak dapat sinkron.</string>
@@ -827,6 +855,8 @@
     <string name="upload_log_success">Berhasil dikirim, kami akan kembali kepada Anda segera.</string>
     <string name="upload_log_title">Kirim log untuk bantu kami meningkatkan Mail</string>
     <string name="upload_log_yes">Kirim</string>
+    <string name="upload_logs">Unggah log</string>
+    <string name="upload_logs_keywords">upload logs</string>
     <string name="uploading_logs">Tunggu sebentar…</string>
     <string name="validation_failed_prompt">Tidak dapat verifikasi akun, periksa setelan server untuk %s</string>
     <string name="via_domain">via %1$s</string>
@@ -844,7 +874,4 @@
     <string name="yidianzixun">Yi Dian Zixun</string>
     <string name="you_are_in_mobile_network">Kirim log dengan koneksi data seluler? Jika Anda melampaui batas paket data, maka Anda dapat dikenakan biaya tambahan oleh operator.</string>
     <string name="zip_viewer_no_file">Tak ada berkas.</string>
-    <string name="chat_view_description">Tampil thread email dalam bagian percakapan</string>
-    <string name="chat_view_title">Tampilan percakapan</string>
-    <string name="tip_cannot_switchview_in_unread_folder">Tak dapat ganti tampilan pada mode penggabungan surat belum dibaca</string>
 </resources>

@@ -25,6 +25,7 @@
     <string name="menu_restore">Pulihkan</string>
     <string name="menu_delete_forever">Hapus selamanya</string>
     <string name="menu_send_as_image">Kirim sebagai gambar</string>
+    <string name="menu_new_folder">Folder baru</string>
     <string name="sns_desc_image_preview">Pratinjau pesan</string>
     <string name="hidden_notes_fragment_title">Catatan tersembunyi</string>
     <string name="toast_notes_hidden">Berhasil disembunyikan</string>
@@ -46,10 +47,13 @@
     <string name="empty_folder_hint">"Tak ada folder
 Ketuk tanda tambah untuk buat folder"</string>
     <string name="error_hide_empty_note">Tidak dapat menyembunyikan catatan kosong</string>
+    <string name="error_send_empty_note">Tidak dapat kirim catatan kosong</string>
+    <string name="error_send_empty_note_to_weibo">Tidak dapat kirim catatan kosong ke Weibo</string>
     <string name="recover_notes_hint">Terjadi kesalahan, pergi ke i.mi.com untuk memulihkan catatan.</string>
     <string name="force_touch_menu_add">Tambah catatan</string>
     <string name="pref_title_skip_confirm_for_quick_delete">Cepat hapus</string>
     <string name="pref_desc_skip_confirm_for_quick_delete">Jangan tanya konfirmasi hapus catatan ketika menggunakan gerakan</string>
+    <string name="alert_title_hidden_note">Menerima pengingat catatan tersembunyi</string>
     <string name="app_name">Catatan</string>
     <string name="app_widget">Catatan</string>
     <string name="widget_havenot_content">Ketuk untuk buat catatan. Tahan widget untuk ubah ukuran.</string>
@@ -102,7 +106,7 @@ Ketuk tanda tambah untuk buat folder"</string>
     <string name="all_folder_name">Semua catatan</string>
     <string name="hint_foler_name">Nama</string>
     <string name="search_label">Mencari…</string>
-    <string name="search_hint">Cari catatan</string>
+    <string name="search_hint">Search notes</string>
     <string name="search_setting_description">Cari teks di catatan Anda</string>
     <string name="search">Catatan</string>
     <string name="button_new_note">Baru</string>

@@ -560,10 +560,11 @@
     </string-array>
     <string-array name="screen_key_long_press_action">
         <item>Tak ada</item>
-        <item>Tampil apl terkini</item>
+        <item>Tampilkan apl terkini</item>
         <item>Jalankan Asisten</item>
-        <item>Jalankan Google now</item>
+        <item>Jalankan aplikasi Google now</item>
         <item>Tutup apl terkini</item>
+        <item>Jalankan pencarian cepat</item>
         <item>Tampil menu</item>
     </string-array>
     <string-array name="screen_key_long_press_timeout">
@@ -571,6 +572,16 @@
         <item>1 detik</item>
         <item>1,5 detik</item>
         <item>2 detik</item>
+    </string-array>
+    <string-array name="long_press_volume_down_action">
+        <item>None</item>
+        <item>Street-snap(need to select mode in camera)</item>
+        <item>Public Transportation Shortcuts</item>
+    </string-array>
+    <string-array name="long_press_volume_down_action_value">
+        <item>none</item>
+        <item>Street-snap</item>
+        <item>public_transportation_shortcuts</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
         <item>1 detik</item>
@@ -687,7 +698,7 @@ Catatan: Hanya untuk Ubuntu 8.04!"</item>
         <item>Galeri</item>
         <item>Musik</item>
         <item>Email</item>
-        <item>Video</item>
+        <item>Putar video</item>
     </string-array>
     <string-array name="network_speed_slow_summary">
         <item>Jaringan lambat karena lalu lintas terlalu padat</item>
@@ -856,5 +867,17 @@ Catatan: Hanya untuk Ubuntu 8.04!"</item>
     <string-array name="screen_key_position_action">
         <item>Tombol Menu di kiri, tombol Kembali di kanan</item>
         <item>Tombol Kembali di kiri, tombol Menu di kanan</item>
+    </string-array>
+    <string-array name="anr_record_interval_entries">
+        <item>10 det</item>
+        <item>20 det</item>
+        <item>30 det</item>
+        <item>1 mnt</item>
+    </string-array>
+    <string-array name="anr_record_interval_values">
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>60</item>
     </string-array>
 </resources>

@@ -124,8 +124,8 @@ Luar jam sibuk: %1$s | %2$s terpakai"</string>
     <string name="pref_specified_adjust">Atur kustom batas data</string>
     <string name="pref_automatic_adjust">Sinkron guna data operator</string>
     <string name="pref_open_adjust_traffic">Perbarui penggunaan data tiap hari dengan statistik dari operator</string>
-    <string name="pref_auto_adjust_traffic">Auto-sinkron stats guna data</string>
-    <string name="pref_auto_adjust_settings">Setelan auto-sinkron stats guna data</string>
+    <string name="pref_auto_adjust_traffic">Otomatis sesuaikan stats guna data</string>
+    <string name="pref_auto_adjust_settings">Setelan otomatis sesuaikan stats guna data</string>
     <string name="pref_adjust_data_usage">Template pesan operator</string>
     <string name="pref_setting_operators_message">Ubah pesan yg perangkat Anda kirim ke operator utk sinkron statistik penggunaan data</string>
     <string name="adjust_traffic_carrier_summary_today">Diperbarui hari ini di %s</string>
@@ -718,11 +718,11 @@ Coba gunakan kabel Ethernet lainnya untuk dihubungkan ke router. Jika Anda mencu
     <string name="power_save_mode_end_time">Akhir</string>
     <string name="notification_charging_title">Mengisi daya</string>
     <string name="charging_text_time_calculating">Menghitung waktu isi daya…</string>
-    <string name="charging_text_battery_nearly_full">Hampir pernuh</string>
+    <string name="charging_text_battery_nearly_full">Hampir penuh</string>
     <string name="charging_text_battery_full_time">Terakhir kali isi daya</string>
     <string name="charging_text_battery_perfect">Baterai penuh</string>
     <string name="resource_securitycenter_settings">Keamanan</string>
-    <string name="keywords_securitycenter_settings">Konsumsi baterai;Perizinan;Daftar blokir;Penggunaan data;Kalibrasi paket data;Uji jaringan;Kunci aplikasi;Penghemat baterai;Hemat baterai;Panas;Hidupkan;Matikan;Baterai;Cepat habis;Mulai ulang;Root;Lokasi;Akses kontak;Blokir;Daftar blokir pintar;Penipuan;Sales;Telemarketer,Agen;Data;Lalu lintas data;Kalibrasi;Hubungan;Internet;Uji;Sandi;Privasi;Akses;Perlindungan</string>
+    <string name="keywords_securitycenter_settings">ROOT;Battery usage;Permissions;Blocklist;Data usage;Calibrate data plan;Test network;App lock;Save battery;Battery saver;Heating;Turn on;Turn off;Battery;Draining;Autostart;ROOT;Location;Access contacts;Block;Black list;Smart blocklist;Fraud;Sales;Telemarketer;Agents;Data;Traffic;Calibrate;Connection;Internet;Test;Password;Privacy;Access;Protection</string>
     <string name="path_securitycenter_settings">Aplikasi sistem/Keamanan</string>
     <string name="resource_securitycenter">Keamanan</string>
     <string name="keywords_securitycenter">Keamanan;Periksa;Pindai</string>
@@ -1050,13 +1050,13 @@ Coba gunakan kabel Ethernet lainnya untuk dihubungkan ke router. Jika Anda mencu
     <string name="history_details_title">Rincian riwayat</string>
     <string name="title_data_flow">Kontrol data seluler</string>
     <string name="summary_data_flow">Kontrol data seluler untuk mencegah biaya tambahan</string>
-    <string name="title_telecom_operator">Kalibrasi</string>
+    <string name="title_telecom_operator">Penyesuaian otomatis</string>
     <string name="summary_telecom_operator">Dptkan statistik penggunaan data bulanan dari operator</string>
     <string name="title_flow_verify">Bandingkan perhitungan</string>
     <string name="summary_flow_verify">Belum sinkron statistik data penggunaan operator dlm %d hari</string>
     <string name="summary_never_flow_verify">Nomor ini belum diverifikasi dengan operator Anda</string>
-    <string name="title_flow_verify_failed">Tidak dapat kalibrasi 5 hari berturut-turut</string>
-    <string name="summary_flow_verify_failed">Kalibrasi</string>
+    <string name="title_flow_verify_failed">Tidak dapat sesuaikan 5 hari berturut-turut</string>
+    <string name="summary_flow_verify_failed">Otomatis sesuaikan penggunaan data untuk mencegah biaya tambahan</string>
     <string name="title_flow_notification">Notifikasi data seluler</string>
     <string name="summary_flow_notification">Tampil statistik penggunaan data bulanan Anda di bar notifikasi</string>
     <string name="title_flow_purchase">Beli data seluler</string>
@@ -1077,9 +1077,9 @@ Coba gunakan kabel Ethernet lainnya untuk dihubungkan ke router. Jika Anda mencu
     <string name="summary_cloud_space_full">Dapatkan ruang penyimpanan ekstra dan akses ke fitur lainnya</string>
     <string name="title_miui_update">Pembaruan tersedia</string>
     <string name="summary_miui_update">Pembaruan tersedia utk %s.</string>
-    <string name="title_virus_cloudscan">Cloud virus scan</string>
+    <string name="title_virus_cloudscan">Pindai virus cloud</string>
     <string name="summary_virus_cloudscan">Unggah nama dan rincian apl, pindai dgn definisi virus online</string>
-    <string name="title_cleaner_cloudscan">Cloud trash scan</string>
+    <string name="title_cleaner_cloudscan">Pindai sampah cloud</string>
     <string name="summary_cleaner_cloudscan">Unggah dan bandingkan nama folder dengan definisi online</string>
     <string name="title_live_talk_purchase">Hidupkan paket Top-up</string>
     <string name="summary_live_talk_purchase">Hemat 70% dari biaya telepon Anda</string>
@@ -1087,7 +1087,7 @@ Coba gunakan kabel Ethernet lainnya untuk dihubungkan ke router. Jika Anda mencu
     <string name="summary_xiaomi_roaming">RMB 0.01/MB untuk roaming data seluler.</string>
     <string name="toast_network_switch">Apl ini dapat terhubung ke internet</string>
     <string name="toast_flow_notification">Notifikasi penggunaan data dihidupkan</string>
-    <string name="toast_auto_traffic_correct">Automatic calibration is on</string>
+    <string name="toast_auto_traffic_correct">Penggunaan data telah otomatis disesuaikan</string>
     <string name="toast_show_notification">Ditampilkan di bar notifikasi</string>
     <string name="toast_virus_cloudscan">Pindai virus akan menggunakan definisi online</string>
     <string name="toast_cleaner_cloudscan">Pembersih akan menggunakan definisi online</string>
@@ -1102,9 +1102,9 @@ Coba gunakan kabel Ethernet lainnya untuk dihubungkan ke router. Jika Anda mencu
     <string name="title_flow_rank">Penggunaan data seluler</string>
     <string name="title_consume_power_rank">Konsumsi baterai</string>
     <string name="title_payment_risk">Risiko pembayaran ditemukan</string>
-    <string name="summary_payment_risk">"Looks like payment environment isn't secure"</string>
+    <string name="summary_payment_risk">Sepertinya lingkungan pembayaran tidak aman</string>
     <string name="title_consume_power">Ditemukan masalah baterai</string>
-    <string name="summary_consume_power">Heating issues found, they can affect battery life span</string>
+    <string name="summary_consume_power">Ada masalah panas, hal ini dapat mempengaruhi masa pakai baterai</string>
     <string name="pref_category_title_lock_screen_memory_clean">Bersihkan di layar kunci</string>
     <string name="pref_title_lock_screen_memory_clean">Bersihkan di layar kunci</string>
     <string name="pref_summary_lock_screen_memory_clean">Otomatis bersihkan saat perangkat terkunci</string>
@@ -1148,13 +1148,13 @@ Coba gunakan kabel Ethernet lainnya untuk dihubungkan ke router. Jika Anda mencu
     <string name="preferred_app_entries_email">Email</string>
     <string name="security_scan_card_clean_now">Pindai</string>
     <string name="card_main_paysafe_title">Keamanan pembayaran</string>
-    <string name="card_main_paysafe_summary">Pindai pembayaran dari resiko keamanan </string>
+    <string name="card_main_paysafe_summary">Pindai lingkungan pembayaran untuk memeriksa kemungkinan adanya risiko</string>
     <string name="card_main_paysafe_action">Hidupkan</string>
     <string name="card_main_applock_title">Kunci aplikasi</string>
     <string name="card_main_applock_summary">Lindungi data pribadi dengan Kunci aplikasi</string>
     <string name="card_main_applock_action">Hidupkan</string>
     <string name="card_main_datasave_title">Penghemat data</string>
-    <string name="card_main_datasave_summary">Compress data to save up to 20%</string>
+    <string name="card_main_datasave_summary">Kompres data untuk hemat hingga 20%</string>
     <string name="card_main_datasave_action">Hidupkan</string>
     <string name="card_main_deepclean_title">Pembersihan lanjutan</string>
     <string name="card_main_deepclean_summary">Hapus berkas tak penting</string>
@@ -1174,10 +1174,10 @@ Coba gunakan kabel Ethernet lainnya untuk dihubungkan ke router. Jika Anda mencu
     <string name="action_button_text_60_80">Perbaiki</string>
     <string name="action_button_text_60">Perbaiki</string>
     <string name="card_main_private_space_title">Ruang kedua</string>
-    <string name="card_main_private_space_summary">Gunakan ruang kedua seperti mempunyai 2 ponsel</string>
+    <string name="card_main_private_space_summary">Menggunakan Ruang kedua seperti memiliki dua perangkat.</string>
     <string name="card_main_private_space_action">Buat</string>
     <string name="card_main_xspace_title">Aplikasi ganda</string>
-    <string name="card_main_xspace_summary">Buat dua akun untuk aplikasi apapun</string>
+    <string name="card_main_xspace_summary">Buat akun ganda untuk aplikasi apa saja</string>
     <string name="card_main_xspace_action">Buat</string>
     <string name="system_info_remind">Agar orang lain tak dapat akses tanpa seizin Anda</string>
     <string name="Setting_lock">Setelan</string>
@@ -1315,8 +1315,8 @@ atau masukkan sandi Kunci aplikasi"</string>
     <string name="scan_status_safe">Aman</string>
     <string name="scan_status_risk">Berisiko</string>
     <string name="header_info_scan_progress">%d%%</string>
-    <string name="safepay_alert_dialog_title_risk">&lt;font color=#ec2700>Risk found! Interrupt current payment!&lt;/font></string>
-    <string name="safepay_alert_dialog_title_unknown">"&lt;font color=#f59c00>Couldn't check payment security. Connect to the internet and try again.&lt;/font>"</string>
+    <string name="safepay_alert_dialog_title_risk">&lt;font color=#ec2700>Ditemukan risiko! Hentikan pembayaran sekarang!&lt;/font></string>
+    <string name="safepay_alert_dialog_title_unknown">&lt;font color=#f59c00>Tidak dapat periksa keamanan pembayaran. Hubung ke internet dan coba lagi.&lt;/font></string>
     <string name="safepay_alert_dialog_button_risk">Perbaiki</string>
     <string name="safepay_alert_dialog_button_unknown">Periksa lagi</string>
     <string name="safepay_alert_dialog_button_continue">Lanjut</string>
@@ -1389,10 +1389,10 @@ atau masukkan sandi Kunci aplikasi"</string>
     <string name="optimize_result_button_onekey_restore">Pulihkan</string>
     <string name="optimize_result_button_onekey_open">Hidupkan</string>
     <string name="optimize_result_button_operators_diagnose">Diagnostik operator</string>
-    <string name="optimize_result_button_correct_now">Kalibrasi</string>
+    <string name="optimize_result_button_correct_now">Sesuaikan</string>
     <string name="optimize_result_button_cooldown_now">Dinginkan</string>
     <string name="optimize_result_button_consume_power_analysis">Pindai baterai</string>
-    <string name="optimize_result_button_purchase_flow">Beli data seluler</string>
+    <string name="optimize_result_button_purchase_flow">Lihat semua</string>
     <string name="optimize_result_button_purchase">Beli</string>
     <string name="optimize_result_button_cloudspace">Tambah penyimpanan cloud</string>
     <string name="optimize_result_title_system_default_settings">Setelan awal telah diganti</string>
@@ -1404,6 +1404,7 @@ atau masukkan sandi Kunci aplikasi"</string>
     <string name="information_setting">Setelan Kabar berita</string>
     <string name="load_only_under_wlan">Muat berita saat terhubung ke Wi-Fi</string>
     <string name="recommend_news">Sumber rekomendasi</string>
+    <string name="power_center_auto_shutdown_summary_default">Hidupkan atau matikan perangkat pada waktu yang dijadwalkan</string>
     <string name="power_center_custom_summary_default">Tingkatkan daya baterai dengan kustom profil</string>
     <string name="power_center_low_battery_title">Penghemat Baterai</string>
     <string name="power_center_low_battery_summary_default">Alihkan profil saat baterai lemah</string>
@@ -1510,6 +1511,7 @@ atau masukkan sandi Kunci aplikasi"</string>
     <string name="power_save_on_time_end_time_summary">Selesai</string>
     <string name="power_save_on_time_end_time_title">%1$d: %2$d</string>
     <string name="power_save_on_time_option_title">Dalam periode ini beralih ke</string>
+    <string name="power_save_on_time_option_summary">Di akhir periode ini, perangkat akan dialihkan kembali ke profil yg sering dipakai</string>
     <string name="power_save_on_time_default_time">00:00</string>
     <string name="power_save_on_time_goout_title">Setelah periode ini beralih ke</string>
     <string name="power_save_choose_recovery_mode">Pilih profil</string>
@@ -1529,6 +1531,4 @@ atau masukkan sandi Kunci aplikasi"</string>
     <string name="power_mode_my_mode">Profil saya</string>
     <string name="power_mode_my_mode_summary">Simpan setelan baterai saat ini</string>
     <string name="power_apply_toast">Beralih ke %s</string>
-    <string name="power_center_auto_shutdown_summary_default">Hidupkan atau matikan perangkat pada waktu yang dijadwalkan</string>
-    <string name="power_save_on_time_option_summary">Di akhir periode ini, perangkat akan dialihkan kembali ke profil yg sering dipakai</string>
 </resources>

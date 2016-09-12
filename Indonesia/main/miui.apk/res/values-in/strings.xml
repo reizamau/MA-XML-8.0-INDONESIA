@@ -23,6 +23,7 @@
     <string name="action_mode_deselect_all">Batal pilih</string>
     <string name="select_all">Pilih semua</string>
     <string name="deselect_all">Batal pilih</string>
+    <string name="instruction">Instructions</string>
     <string name="abc_action_bar_up_description">Navigasi atas</string>
     <string name="abc_action_bar_home_description">Navigasi beranda</string>
     <string name="time_picker_label_hour">J</string>

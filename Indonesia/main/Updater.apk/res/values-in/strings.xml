@@ -32,7 +32,7 @@
     <string name="download_title_first">Mendapatkan info…</string>
     <string name="download_title_full_download">Mendapatkan info…</string>
     <string name="download_title">Mengunduh (%s)</string>
-    <string name="uncrypt_title">Uncrypting (%s)</string>
+    <string name="uncrypt_title">Dekripsi (%s)</string>
     <string name="apply_title">Memperbarui (%s)</string>
     <string name="timer_title">Perangkat akan mulai ulang dalam %d dtk.</string>
     <string name="progress_title_checking">Memeriksa pembaruan…</string>
@@ -70,7 +70,7 @@
     <string name="notification_reboot_seccess_des">Ketuk untuk lihat info pembaruan.</string>
     <string name="notification_share">Berbagi</string>
     <string name="notification_downloading">Mengunduh pembaruan…</string>
-    <string name="notification_uncrypting">Uncrypting update</string>
+    <string name="notification_uncrypting">Mendekripsi pembaruan…</string>
     <string name="notification_updating">Memperbarui…</string>
     <string name="set_network_title">Hubungkan ke Wi-Fi</string>
     <string name="set_network_msg">Untuk unduh pembaruan ini, hubungkan ke jaringan Wi-Fi.</string>
@@ -153,8 +153,8 @@ http://zhushou.xiaomi.com"</string>
     <string name="my_rank">"Status pembaruan: "</string>
     <string name="no_log">Ringkasan tidak tersedia</string>
     <string name="notification_fail_msg">Coba mengunduh ROM utuh</string>
-    <string name="notification_uncrypt_title_hm">Mulai ulang utk terapkan</string>
-    <string name="notification_uncrypt_summary_hm">Sentuh untuk mulai ulang perangkat.</string>
+    <string name="notification_uncrypt_title_hm">Mulai ulang untuk terapkan</string>
+    <string name="notification_uncrypt_summary_hm">Tap to reboot your device</string>
     <string name="log_share">Berbagi</string>
     <string name="notification_restart">Perbarui lagi</string>
     <string name="autosetmode">Setelan</string>
@@ -200,7 +200,7 @@ Tetapi Anda dapat ikut serta Senin depan."</string>
     <string name="my_expect_update">Harapan</string>
     <string name="get_update_error">Tidak bisa mendapatkan info pembaruan</string>
     <string name="active_xiaomi_account_title">Aktivasi Akun Mi</string>
-    <string name="active_xiaomi_account_msg">Utk aktivasi Akun Mi Anda, pergi ke https://account.xiaomi.com/pass/serviceLogin.</string>
+    <string name="active_xiaomi_account_msg">Untuk aktivasi Akun Mi Anda, pergi ke https://account.xiaomi.com/pass/serviceLogin.</string>
     <string name="active_xiaomi_account">Aktif</string>
     <string name="update_comment_title">Komentar</string>
     <string name="next">Berikutnya</string>

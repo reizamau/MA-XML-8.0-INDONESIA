@@ -21,7 +21,7 @@
     <string name="notification_recording">Merekam…</string>
     <string name="notification_recording_ticker">Telepon diheningkan</string>
     <string name="notification_playback">Memutar…</string>
-    <string name="notification_stopped">Rekaman berhenti</string>
+    <string name="notification_stopped">Recording complete</string>
     <string name="notification_warning">Penyimpanan rendah (krg dr %d mnt)</string>
     <string name="record_list">Rekaman</string>
     <string name="record_list_fm">Rekaman FM</string>
@@ -29,9 +29,7 @@
     <string name="record_list_cloud">Rekaman tersinkron</string>
     <string name="record_list_cloud_fm">Rekaman FM tersinkron</string>
     <string name="record_list_cloud_call">Rekaman panggilan tersinkron</string>
-    <string name="call_record">Rekaman panggilan (%d)</string>
-    <string name="fm_record">Rekaman radio (%d)</string>
-    <string name="cloud_record">%d tersinkron</string>
+    <string name="call_record">Rekaman panggilan</string>
     <string name="no_file">Kosong</string>
     <string name="alert_message_delete_record_title">Hapus rekaman?</string>
     <string name="alert_message_delete_record">Menghapus rekaman ini dari perangkat, juga akan menghapusnya dari Mi Cloud. Hapus sekarang?</string>
@@ -135,4 +133,8 @@
     <string name="recognition_error_downloading">Mengunduh</string>
     <string name="recognition_status_downloading">Mengunduh</string>
     <string name="runtime_permission_ungranted">Tidak dapat menggunakan Perekam karena tidak diizinkan</string>
+    <string name="btn_clear_records">Hapus rekaman (%d item)</string>
+    <string name="alert_message_clear_records">Hapus rekaman terpilih?</string>
+    <string name="clear_records">Hapus sinkron rekaman</string>
+    <string name="choose_call_records_count">%d item</string>
 </resources>

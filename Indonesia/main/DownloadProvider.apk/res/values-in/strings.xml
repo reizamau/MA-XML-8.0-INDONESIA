@@ -43,8 +43,8 @@
     <string name="notify_disabled_net_by_app">Koneksi internet dibatasi oleh apl Keamanan</string>
     <string name="notify_only_wifi_download">Menunggu Wi-Fi</string>
     <string name="notify_install_guide_title">Berhasil instal %s</string>
-    <string name="notify_install_guide_msg">Installed successfully</string>
-    <string name="notify_install_guide_forward_text">Open</string>
+    <string name="notify_install_guide_msg">Berhasil instal</string>
+    <string name="notify_install_guide_forward_text">Buka</string>
     <string name="app_label">Pengelola Unduhan</string>
     <string name="permlab_downloadManager">Akses pengelola unduhan.</string>
     <string name="permdesc_downloadManager">Mengizinkan apl mengakses pengelola unduhan dan menggunakannya untuk mengunduh file. Apl berbahaya dapat menggunakan ini untuk mengganggu unduhan dan mengakses informasi pribadi.</string>
