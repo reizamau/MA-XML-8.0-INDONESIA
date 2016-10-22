@@ -96,6 +96,9 @@
     <string name="resource_purchase_getting_order">Mengambil info pesanan…</string>
     <string name="resource_purchase_waiting_payment">Menunggu info pembayaran…</string>
     <string name="resource_purchase_verifying_payment">Memverifikasi info pembayaran…</string>
+    <string name="resource_purchase_continue_to_pay">Lanjut bayar %s</string>
+    <string name="resource_purchase_vip_pay_failed">Tidak dapat bayar dengan VIP.</string>
+    <string name="resource_purchase_common_error">Tidak dapat memproses, coba lagi nanti.</string>
     <string name="resource_download_trial">Coba gratis</string>
     <string name="resource_apply_trial">Coba sekarang</string>
     <string name="resource_on_trial">Mencoba: %1$s</string>
@@ -280,7 +283,8 @@
     <string name="favorite_list">Favorit</string>
     <string name="favorite_list_format">%1$s favorit</string>
     <string name="purchased_list">Terbeli</string>
-    <string name="purchased_list_format">%1$s terbeli</string>
+    <string name="purchased_list_current">MIUI 8</string>
+    <string name="purchased_list_legacy">Tema terbeli</string>
     <string name="my_gifts">Hadiah</string>
     <string name="my_gifts_purchased">Terbeli</string>
     <string name="my_gifts_received">Diterima</string>
@@ -384,8 +388,8 @@
     <string name="theme_apply_audio_dialog_item_ringtone">Nada dering</string>
     <string name="theme_apply_audio_dialog_item_notification">Notifikasi</string>
     <string name="theme_apply_audio_dialog_item_alarm">Alarm</string>
-    <string name="dev_options">Pilihan Pengembang</string>
-    <string name="dev_options_summary">Sumber Web</string>
+    <string name="dev_options">Opsi pengembang</string>
+    <string name="dev_options_summary">Sumber web</string>
     <string name="change_host_hint">Ganti host</string>
     <string name="no_data">Tidak dapat terhubung ke jaringan</string>
     <string name="reload">Coba lagi</string>

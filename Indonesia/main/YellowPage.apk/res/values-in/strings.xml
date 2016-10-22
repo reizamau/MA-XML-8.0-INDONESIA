@@ -271,8 +271,8 @@ Periksa nomor seri Anda lagi."</string>
     <string name="express_address_warning_no_area">Butuh area</string>
     <string name="express_address_warning_no_full_address">Butuh alamat</string>
     <string name="exapress_save_address_to_contact">Simpan alamat di kontak</string>
-    <string name="express_sender_region">Lokasi pengirim</string>
-    <string name="express_addressee_region">Lokasi penerima</string>
+    <string name="express_sender_region">Daerah pengirim</string>
+    <string name="express_addressee_region">Daerah penerima</string>
     <string name="express_select_address">Alamat</string>
     <string name="express_address_info">Info alamat</string>
     <string name="express_address_name">Nama</string>

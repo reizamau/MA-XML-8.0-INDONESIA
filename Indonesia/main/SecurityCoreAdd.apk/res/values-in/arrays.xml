@@ -11,7 +11,7 @@
         <item>Perhatian</item>
     </string-array>
     <string-array name="switch_apps_msg_confirms">
-        <item>Data apl bisa hilang setelah apl dipindahkan ke Ruang pertama.</item>
+        <item>Data apl akan hilang setelah apl dipindahkan ke Ruang pertama.</item>
         <item>Data apl bisa hilang setelah apl dipindahkan ke Ruang kedua.</item>
         <item>Apl digunakan di kedua ruang.</item>
     </string-array>

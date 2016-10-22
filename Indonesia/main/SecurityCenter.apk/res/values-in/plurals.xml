@@ -28,7 +28,7 @@
         <item quantity="other">"%d jam "</item>
     </plurals>
     <plurals name="power_center_battery_minute">
-        <item quantity="other">"%d mnt "</item>
+        <item quantity="other">"%d menit "</item>
     </plurals>
     <plurals name="deep_clean_auto_memory_clean">
         <item quantity="other">Setelah %1$d menit</item>
@@ -37,7 +37,7 @@
         <item quantity="other">Menyelesaikan %d masalah baterai</item>
     </plurals>
     <plurals name="quick_optimize_issue_found">
-        <item quantity="other">Menemukan %d masalah baterai</item>
+        <item quantity="other">%d masalah baterai ditemukan</item>
     </plurals>
     <plurals name="quick_optimize_issue_count">
         <item quantity="other">%d masalah baterai</item>
@@ -124,6 +124,6 @@
         <item quantity="other">%d virus terhapus</item>
     </plurals>
     <plurals name="optimize_result_button_add_score">
-        <item quantity="other">+%d poin</item>
+        <item quantity="other">+%d</item>
     </plurals>
 </resources>

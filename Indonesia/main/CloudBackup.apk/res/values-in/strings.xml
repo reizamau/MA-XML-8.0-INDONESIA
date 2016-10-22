@@ -18,7 +18,7 @@
     <string name="cloud_backup_detail_state_summary">Apl, Layar utama, dan setelan sistem</string>
     <string name="cloud_backup_detail_frequence">Jadwal pencadangan</string>
     <string name="cloud_back_up_interval_long">7 hari</string>
-    <string name="cloud_back_up_interval_short">Tiap hari</string>
+    <string name="cloud_back_up_interval_short">hari</string>
     <string name="cloud_backup_detail_frequence_day">Cadangkan tiap %1$s</string>
     <string name="cloud_backup_detail_time">Pencadangan terakhir: %1$s</string>
     <string name="cloud_backup_detail_manage">Kelola cadangan</string>

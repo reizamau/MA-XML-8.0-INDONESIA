@@ -269,4 +269,6 @@
     <string name="home_screen">Layar utama</string>
     <string name="wallpaper_scroll_type_tips">Gambar latar bergulir</string>
     <string name="no_detail_page">Tak ada rincian halaman</string>
+    <string name="notification_installed">Berhasil instal</string>
+    <string name="notification_open_button">Buka</string>
 </resources>

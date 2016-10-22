@@ -21,7 +21,7 @@
     <string name="notification_recording">Merekam…</string>
     <string name="notification_recording_ticker">Telepon diheningkan</string>
     <string name="notification_playback">Memutar…</string>
-    <string name="notification_stopped">Recording complete</string>
+    <string name="notification_stopped">Berhenti merekam</string>
     <string name="notification_warning">Penyimpanan rendah (krg dr %d mnt)</string>
     <string name="record_list">Rekaman</string>
     <string name="record_list_fm">Rekaman FM</string>
@@ -46,7 +46,9 @@
     <string name="status_bar_recording">Merekam…</string>
     <string name="status_bar_back">Ketuk untuk kembali ke Perekam</string>
     <string name="status_bar_recording_pause">Perekam dijeda</string>
-    <string name="low_battery_error">Baterai yg tersisa kurang dari 5%. Utk memastikan rekaman Anda tdk hilang, perekaman telah dijeda dan disimpan.</string>
+    <string name="low_battery_error_title">Baterai lemah</string>
+    <string name="low_battery_error">Baterai kurang dari 5%. Matikan dan simpan rekaman Anda agar tidak hilang.</string>
+    <string name="low_battery_error_confirm">Oke</string>
     <string name="record_name_hour">.</string>
     <string name="sound_recorder_settings">Setelan</string>
     <string name="preference_led_indicator">Notifikasi layar kunci</string>
@@ -136,5 +138,9 @@
     <string name="btn_clear_records">Hapus rekaman (%d item)</string>
     <string name="alert_message_clear_records">Hapus rekaman terpilih?</string>
     <string name="clear_records">Hapus sinkron rekaman</string>
-    <string name="choose_call_records_count">%d item</string>
+    <string name="choose_call_records_count">%d rekaman</string>
+    <string name="network_tip_dialog_title">Butuh koneksi internet</string>
+    <string name="network_tip_dialog_content">Mesin pengenalan ucapan perlu terhubung ke internet agar dapat bekerja dengan normal.</string>
+    <string name="network_tip_dialog_ok">Izinkan</string>
+    <string name="network_tip_dialog_cancel">Batal</string>
 </resources>

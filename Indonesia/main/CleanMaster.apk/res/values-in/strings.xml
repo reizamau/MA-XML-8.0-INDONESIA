@@ -53,8 +53,8 @@
     <string name="pref_summary_auto_update_cleanup_db">Pembaruan terakhir: %s</string>
     <string name="pref_title_manual_check_cleanup_db_update">Periksa pembaruan</string>
     <string name="pref_category_title_garbage_cleanup_check">Notifikasi</string>
-    <string name="pref_title_garbage_cleanup_check_time">Jadwal</string>
     <string name="pref_summary_garbage_cleanup_check_time">Jadwal rutin pembersihan</string>
+    <string name="pref_title_garbage_cleanup_check_time">Jadwal</string>
     <string name="pref_summary_garbage_cleanup_check_size">Otomatis bersihkan saat sampah mencapai ukuran tertentu</string>
     <string name="pref_title_garbage_cleanup_check_size">Batas ukuran sampah</string>
     <string name="pref_title_garbage_cleanup_size">Batas ukuran sampah</string>
@@ -62,13 +62,10 @@
     <string name="pref_title_expand_cache_group">Tampil item cache</string>
     <string name="pref_summary_expand_cache_group">Otomatis tampilkan rincian cache</string>
     <string name="pref_category_title_auto_clean_settings">Pembersihan otomatis</string>
-    <string name="pref_section_auto_clean_and_alert">Pembersihan otomatis</string>
-    <string name="pref_title_auto_clean_and_alert">Pembersihan otomatis</string>
+    <string name="pref_title_clean_alert">Clean automatically</string>
     <string name="pref_summary_auto_clean_and_alert">Jadwalkan pembersih untuk otomatis bekerja</string>
     <string name="pref_category_title_other_clean_settings">Setelan tambahan</string>
-    <string name="pref_title_garbage_process_mode">Notifikasi</string>
     <string name="pref_summary_garbage_process_mode">Tampil notifikasi saat pembersih berjalan</string>
-    <string name="pref_title_garbage_auto_clean_content">Item untuk dibersihkan</string>
     <string name="pref_summary_garbage_auto_clean_content">Pilih item untuk dibersihkan secara otomatis</string>
     <string name="pref_content_cleanup_white_list_none">Tak ada</string>
     <string name="pref_title_open_optimizer_cloud_scan">Unggah nama berkas</string>
@@ -351,7 +348,6 @@
     <string name="cached_garbage">Cache</string>
     <string name="grabage_rank_title">Dibersihkan hari ini</string>
     <string name="flow_rank_title">Penggunaan data</string>
-    <string name="unlike">Tidak</string>
     <string name="hot_today">Populer hari ini</string>
     <string name="see_more">Lainnya</string>
     <string name="sponsored">Disponsori</string>
@@ -390,7 +386,7 @@
     <string name="deepclean_video_summary_empty">Semuanya dalam kondisi baik</string>
     <string name="hints_video_download">Video terunduh</string>
     <string name="hints_video_camera">Video terekam</string>
-    <string name="summary_delete_video">>Hapus video terpilih secara permanen?</string>
+    <string name="summary_delete_video">Delete selected videos permanently?</string>
     <string name="empty_title_video">Tak ada video untuk dihapus</string>
     <string name="information_setting">Setelan Kabar berita</string>
     <string name="load_only_under_wlan">Muat berita saat terhubung ke Wi-Fi</string>
@@ -410,9 +406,9 @@
     <string name="app_install_tips_install_success">Berhasil instal %1$s</string>
     <string name="deep_clean_uninstall_completed_tips">Berhasil uninstal</string>
     <string name="deep_clean_completed_tips">Berhasil dibersihkan</string>
-    <string name="deepclean_normal_item_summary_empty">Everything looks good, nothing to clear</string>
+    <string name="deepclean_normal_item_summary_empty">Semuanya terlihat baik, tak ada yang perlu dibersihkan</string>
     <string name="low_memory_clean_dialog_title">Tidak ada cukup ruang</string>
-    <string name="low_memory_clean_dialog_msg">Bersihkan setidaknya %1$s berkas dulu</string>
+    <string name="low_memory_clean_dialog_msg">Bersihkan setidaknya 100MB berkas dulu</string>
     <string name="low_memory_clean_dialog_ok_button">Oke</string>
     <string name="low_memory_warning_dialog_title">Tidak ada cukup ruang</string>
     <string name="low_memory_warning_dialog_msg">Bebaskan ruang untuk lanjutkan</string>
@@ -429,4 +425,5 @@
     <string name="ad_install_success_dialog_lunch">Buka</string>
     <string name="deepclean_empty">Semuanya terlihat baik</string>
     <string name="scanning">Memindai…</string>
+    <string name="buy_a_new_phone">Storage Upgrade</string>
 </resources>

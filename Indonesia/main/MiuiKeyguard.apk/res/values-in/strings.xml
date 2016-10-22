@@ -68,6 +68,7 @@
     <string name="accessibility_enter_lock_wallpaper">Ketuk untuk buka Komedi putar Wallpaper</string>
     <string name="lock_wallpaper_learn_more">Lainnya</string>
     <string name="lock_wallpaper_enter">Masuk</string>
+    <string name="custom_lock_wallpaper_enter">Masuk</string>
     <string name="fingerprint_enter_second_psw_title">Masukkan sandi Ruang kedua</string>
     <string name="fingerprint_enter_second_psw_msg">Masukkan sandi Ruang kedua setelah mulai ulang perangkat agar dapat menggunakan pengidentifikasian sidik jari</string>
 </resources>

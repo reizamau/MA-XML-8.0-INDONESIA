@@ -30,7 +30,7 @@
     <string name="view_indexes_item_tommorrow">Besok</string>
     <string name="activity_main_update_time">Diperbarui %1$s</string>
     <string name="activity_main_update_time_right_now">baru saja</string>
-    <string name="activity_main_refresh_fail">Tidak dapat terhubung ke jaringan</string>
+    <string name="refresh_fail">Tidak dapat terhubung ke jaringan</string>
     <string name="activity_find_city_dialog_cancel">Batal</string>
     <string name="activity_find_city_dialog_set">Setelan</string>
     <string name="activity_find_city_dialog_title">Akses lokasi</string>
@@ -163,4 +163,5 @@ Ketuk layar utk tambah atau ubah posisi kota secara manual"</string>
     <string name="unit_wind">Satuan kecepatan angin</string>
     <string name="set">Setelan</string>
     <string name="global_aqi">IKU: %1$s %2$s</string>
+    <string name="common_loading_text">Tunggu sebentar…</string>
 </resources>

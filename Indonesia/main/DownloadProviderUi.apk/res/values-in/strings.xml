@@ -11,7 +11,7 @@
     <string name="download_running">Mengunduh…</string>
     <string name="download_success">Pengunduhan selesai</string>
     <string name="download_error">Tidak dapat mengunduh</string>
-    <string name="download_error_insufficient_space">Ruang penyimpanan tidak cukup</string>
+    <string name="download_error_insufficient_space">Tidak ada cukup ruang</string>
     <string name="dialog_title_not_available">Tidak dapat mengunduh</string>
     <string name="dialog_failed_body">Coba mengunduh berkas ini nanti atau hapus dari antrian?</string>
     <string name="dialog_title_queued_body">Berkas tidak siap</string>
@@ -417,7 +417,7 @@ Mempercepat pengunduhan antar semua perangkat Anda."</string>
     <string name="no_share_files">Tidak dapat berbagi berkas yang telah dihapus</string>
     <string name="no_share_files_content">Beberapa berkas yang Anda ingin berbagi telah dihapus. Berkas-berkas lainnya telah berhasil dibagikan.</string>
     <string name="all_share_files_content">Berkas-berkas yang Anda pilih telah dihapus.</string>
-    <string name="save_text">Hemat %1$s CNY</string>
+    <string name="save_text">Hemat RMB %1$s</string>
     <string name="sniff_copyright_text">Tidak dapat menampilkan hasil karena isu hak cipta</string>
     <string name="extend">Lainnya</string>
     <string name="task_fail">Gagal</string>

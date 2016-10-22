@@ -20,6 +20,7 @@
     <string name="status_bar_toggle_paper_mode">Mode Baca</string>
     <string name="status_bar_toggle_midrop">Mi Drop</string>
     <string name="status_bar_toggle_cast">Proyeksi</string>
+    <string name="status_bar_toggle_edit">Lainnya</string>
     <string name="screen_rotation_freeze_message">Rotasi-otomatis nonaktif.</string>
     <string name="perm_send_push_dspt">Izinkan pesan dorong Mi</string>
     <string name="perm_send_push_lab">Kirim pesan dorong</string>
@@ -56,7 +57,7 @@
     <string name="lockscreen_access_pattern_cleared">Pola dibersihkan</string>
     <string name="lockscreen_access_pattern_cell_added">Sel ditambahkan</string>
     <string name="lockscreen_access_pattern_detected">Pola selesai</string>
-    <string name="memory_clear_result">%1$s dibersihkan | %2$s tersedia</string>
+    <string name="memory_clear_result">%1$sB dibersihkan | %2$sB tersedia</string>
     <string name="memory_clear_nothing_result">Tidak ada cache yang dapat dibersihkan</string>
     <string name="shutdown_confirm_title">Matikan perangkat sekarang?</string>
     <string name="shutdown_progress">Mematikan…</string>
@@ -65,6 +66,7 @@
     <string name="screen_on_proximity_sensor_title">Cegah memanggil di saku</string>
     <string name="screen_on_proximity_sensor_summary">Jangan tutup area jingga layar</string>
     <string name="screen_on_proximity_sensor_hint">Untuk mematikan fitur ini, tekan tombol Kembali dan Volume atas secara bersamaan.</string>
+    <string name="screen_on_proximity_sensor_hint_has_navigation_bar">Untuk matikan fitur ini, tekan tombol Volume naik.</string>
     <string name="screen_button_notification_title">Tombol navigasi dimatikan</string>
     <string name="screen_button_notification_text">Untuk menghidupkannya, tekan tombol Beranda dan Daya bersamaan.</string>
     <string name="screen_paper_mode_enter_toast">Mode baca hidup. Untuk mematikan fitur ini, pergi ke Setelan > Tampilan > Mode Baca.</string>

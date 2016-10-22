@@ -136,11 +136,6 @@
         <item>Silakan mulai tanpa saya.</item>
         <item>Maaf, saya tidak bisa. Kita harus menjadwalkan ulang.</item>
     </string-array>
-    <string-array name="prefEntries_alerts_vibrateWhen">
-        <item>Selalu</item>
-        <item>Hanya saat senyap</item>
-        <item>Tidak pernah</item>
-    </string-array>
     <string-array name="widget_style_list">
         <item>Transparan</item>
         <item>Latar belakang putih</item>
@@ -260,6 +255,11 @@
         <item>Jangan</item>
         <item>Waktu</item>
         <item>Jumlah</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>Selalu</item>
+        <item>Saat dering diheningkan</item>
+        <item>Jangan</item>
     </string-array>
     <string-array name="reminder_minutes_labels">
         <item>0 menit</item>

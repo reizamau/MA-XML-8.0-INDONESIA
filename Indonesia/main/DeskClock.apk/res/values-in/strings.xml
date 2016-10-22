@@ -17,6 +17,7 @@
     <string name="stopwatch_title">Stopwatch</string>
     <string name="timer_title">Timer</string>
     <string name="timer_alarm_dot_matrix_label">TIMER</string>
+    <string name="symbol_colon">:</string>
     <string name="menu_add_worldclock">Tambah jam</string>
     <string name="menu_edit_timer_item">Ubah tugas timer</string>
     <string name="delete_timer_item_title">Hapus tugas timer</string>
@@ -28,6 +29,8 @@
     <string name="alarm_ascending_mode_summary">Volume alarm naik bertahap</string>
     <string name="close_alarm">Tutup alarm</string>
     <string name="timer_notify_text">Tunda atau tutup timer.</string>
+    <string name="upcoming_alarm"> Upcoming alarm</string>
+    <string name="upcoming_alarm_hint">You can close this alarm in advance</string>
     <string name="start">Mulai</string>
     <string name="pause">Jeda</string>
     <string name="reset">Ulang</string>

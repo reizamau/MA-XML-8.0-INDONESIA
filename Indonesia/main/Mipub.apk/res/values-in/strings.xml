@@ -196,8 +196,8 @@
     <string name="menu_mark">Tandai</string>
     <string name="menu_yellowpage">Lihat %s</string>
     <string name="menu_more">Lainnya</string>
-    <string name="msglist_continue_to_pull_for_more">Tarik untuk lihat lebih banyak</string>
-    <string name="msglist_release_to_more">Lepas untuk lihat lebih banyak</string>
+    <string name="msglist_continue_to_pull_for_more">Tarik untuk lihat lainnya</string>
+    <string name="msglist_release_to_more">Lepas untuk lihat lainnya</string>
     <string name="msglist_more_refreshing">Menyegarkan…</string>
     <string name="msglist_no_more_to_refresh">Sudah yang terbaru</string>
     <string name="view_hms_details">Rincian</string>

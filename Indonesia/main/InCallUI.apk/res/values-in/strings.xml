@@ -72,7 +72,6 @@
     <string name="card_title_in_call_short">Dlm panggilan</string>
     <string name="onscreenEndCallText">Akhiri</string>
     <string name="calling_via_template">Panggil via %s</string>
-    <string name="contactPhoto">Foto kontak</string>
     <string name="respond_via_sms_custom_message">Tulis respons sendiri...</string>
     <string name="manageConferenceLabel">Kelola panggilan konferensi</string>
     <string name="emergency_call_dialog_number_for_display">Nomor darurat</string>
@@ -102,9 +101,10 @@
     <string name="description_image_button_star">bintang</string>
     <string name="description_image_button_zero">nol</string>
     <string name="description_image_button_pound">pagar</string>
-    <string name="description_image_button_answer">Geser ke atas untuk angkat</string>
-    <string name="description_image_button_reject">Geser ke bawah untuk tolak</string>
-    <string name="description_image_button_message_enter">Geser ke atas untuk balas dengan pesan</string>
+    <string name="description_image_button_answer">Answer</string>
+    <string name="description_image_button_video_answer">Video call</string>
+    <string name="description_image_button_reject">Decline</string>
+    <string name="description_image_button_message_enter">Reply with message</string>
     <string name="description_image_button_message_exit">Sembunyikan pesan</string>
     <string name="description_image_button_hangup">Akhiri</string>
     <string name="description_image_button_dialpad">Papan panggilan</string>
@@ -215,6 +215,7 @@
     <string name="alert_dialog_yes">Ya</string>
     <string name="alert_dialog_no">Tidak</string>
     <string name="alert_dialog_dismiss">Tutup</string>
+    <string name="contactPhoto">Contact photo</string>
     <string name="call_self">Tidak dapat panggil nomor sendiri</string>
     <string name="dial_with_gsm_phone">Panggilan biasa</string>
     <string name="purchase_now">Top up</string>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="search_title_mms">Pesan</string>
-    <string name="search_keyword_mms">Pesan;SMS;MMS;Teks;Tulis pesan</string>
+    <string name="search_keyword_mms">Pesan;SMS;MMS;Teks;Tulis pesan;Ketik pesan;Tulis SMS</string>
     <string name="search_path_mms">Setelan/Aplikasi sistem/Pesan</string>
     <string name="pref_summary_manage_sim_messages">Kelola pesan yang disimpan di kartu SIM Anda</string>
     <string name="pref_title_manage_sim_messages">Penyimpanan kartu SIM</string>
@@ -360,7 +360,7 @@ Upaya dibuat: %s."</string>
     <string name="wap_push_title">[WAP Dorong] </string>
     <string name="message_too_big_for_audio">Pesan terlalu besar</string>
     <string name="add_timing">Waktu</string>
-    <string name="pref_title_system_mms_priority">Setel sebagai default</string>
+    <string name="pref_title_system_mms_priority">Setel sebagai bawaan</string>
     <string name="pref_summary_on_system_mms_priority">Setel apl MIUI Pesan sebagai apl bawaan untuk kirim dan terima MMS</string>
     <string name="pref_summary_off_system_mms_priority">Pakai apl pihak ketiga utk kirim dan terima MMS</string>
     <string name="title_timed_message_dialog">Atur waktu pesan</string>
@@ -436,8 +436,6 @@ Upaya dibuat: %s."</string>
     <string name="private_message">Pesan pribadi</string>
     <string name="private_protect">Sandi</string>
     <string name="private_new_notification">Notifikasi pesan</string>
-    <string name="enable_password_protect">Butuh sandi</string>
-    <string name="enable_visible_pattern_title">Perlihatkan pola</string>
     <string name="importing_progress_private_message">Mengimpor…</string>
     <string name="exporting_progress_private_message">Mengekspor…</string>
     <string name="confirm_export_dialog_title">Hapus dari kontak pribadi</string>
@@ -485,7 +483,7 @@ Upaya dibuat: %s."</string>
     <string name="sp_conversation_title">Notifikasi</string>
     <string name="pref_smart_messages_settings">Pesan pintar</string>
     <string name="title_show_sms_template">Periksa SMS untuk kode verifikasi</string>
-    <string name="pref_show_sms_template_summary">Otomatis salin dan isi kode verikasi</string>
+    <string name="pref_show_sms_template_summary">Turn on to use the smart features of Mi Message, such as copying codes, checking balance, etc.</string>
     <string name="title_show_sms_template_in">Periksa SMS untuk OTP</string>
     <string name="pref_show_sms_template_in_summary">Secara otomatis mendeteksi sandi sekali pakai dalam SMS</string>
     <string name="title_allow_network_access">Otomatis perbarui info</string>
@@ -495,7 +493,7 @@ Upaya dibuat: %s."</string>
     <string name="sp_mark_as_read_title">Tandai seluruh notifikasi sebagai terbaca?</string>
     <string name="sp_mark_as_read">Tandai semua pesan sbg terbaca?</string>
     <string name="sp_mark_as_read_progress">Mengerjakan…</string>
-    <string name="sp_mark_as_read_menu_title">Tandai sebagai terbaca</string>
+    <string name="sp_mark_as_read_menu_title">Tandai sudah dibaca</string>
     <string name="sp_category_title_prefix">%s</string>
     <string name="sp_category_all">Semua pesan layanan</string>
     <string name="sp_category_bank">Pesan notifikasi bank</string>
@@ -560,9 +558,9 @@ Upaya dibuat: %s."</string>
     <string name="menu_send_as_common">Kirim sebagai SMS</string>
     <string name="message_sent">Terkirim</string>
     <string name="mx2_type_description">[%s]</string>
-    <string name="open_audio_record_panel">Buka panel rekam audio</string>
-    <string name="hold_to_talk">Tahan untuk bicara</string>
-    <string name="slide_up_to_cancel">Geser ke atas untuk batalkan</string>
+    <string name="open_audio_record_panel">Buka panel perekaman audio</string>
+    <string name="hold_to_talk">Tahan pembicaraan</string>
+    <string name="slide_up_to_cancel">Geser ke atas untuk pembatalan</string>
     <string name="release_cancel">Lepas untuk batal</string>
     <string name="warning_show">Kirim setelah %dd</string>
     <string name="audio_playing_seconds">%d\"</string>
@@ -575,6 +573,9 @@ Upaya dibuat: %s."</string>
     <string name="snippet_audio">[audio]</string>
     <string name="snippet_picture">[picture]</string>
     <string name="audio_download_failed">Tidak dapat unduh audio</string>
+    <string name="audio_message_expired">This voice message has expired.</string>
+    <string name="audio_message_mx_offline">"Couldn't download audio. Mi Message is offline or isn't available."</string>
+    <string name="audio_sim_card_mismatching">No network connection or wrong SIM card is installed. Install the SIM card from which the message was sent and connect to the network.</string>
     <string name="hms_uri_param_err">URL tidak boleh kosong</string>
     <string name="pref_title_sms_validity_period">Masa kedaluwarsa SMS</string>
     <string name="pref_title_mms_validity_period">Masa kedaluwarsa MMS</string>
@@ -636,7 +637,7 @@ Upaya dibuat: %s."</string>
     <string name="fake_cell_alert_hint">Kelihatannya pesan ini dikirim oleh nomor telepon yang berbeda dari yang ditampilkan. Hati-hati terhadap pesan yang memuat konten permintaan penagihan/pembayaran.</string>
     <string name="fake_cell_safe_hint">Pesan ini aman</string>
     <string name="fake_cell_checking_hint">Memeriksa keamanan…</string>
-    <string name="fake_cell_timeout_hint">Tidak dapat periksa keamanan</string>
+    <string name="fake_cell_timeout_hint">Tidak dapat memeriksa keamanan</string>
     <string name="fake_cell_detection_entry">Stasiun basis palsu deteksi</string>
     <string name="delete_wild_sims">Hapus nomor</string>
     <string name="delete_wild_sims_title">Hapus nomor terpilih</string>
@@ -660,5 +661,13 @@ Upaya dibuat: %s."</string>
     <string name="block_support_text">Didukung oleh Antiy.</string>
     <string name="force_touch_new_message_title">Pesan baru</string>
     <string name="pref_delivery_ringtone">Notifikasi suara</string>
-    <string name="pref_summary_delivery_ringtone">Terima notifikasi suara saat berhasil kirim pesan.</string>
+    <string name="pref_summary_delivery_ringtone">Terima notifikasi suara saat berhasil mengirim pesan.</string>
+    <string name="privacy_password_set_password">Setel</string>
+    <string name="privacy_password_title1">Setel sandi</string>
+    <string name="privacy_password_message1">Privacy protection password works for photos, notes, and hidden folders.</string>
+    <string name="privacy_password_title2">Gunakan Sandi perlindungan privasi</string>
+    <string name="privacy_password_message2">Use Privacy protection password. It works for photos, notes and hidden folders.</string>
+    <string name="privacy_password_title3">Perbarui sandi</string>
+    <string name="privacy_password_message3">Messaging password will be replaced with Privacy protection password which works for photos, notes, and hidden folders.</string>
+    <string name="privacy_password_title4">Sandi telah diperbarui</string>
 </resources>

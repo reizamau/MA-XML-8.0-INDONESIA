@@ -574,12 +574,12 @@
         <item>2 detik</item>
     </string-array>
     <string-array name="long_press_volume_down_action">
-        <item>None</item>
-        <item>Street-snap(need to select mode in camera)</item>
-        <item>Public Transportation Shortcuts</item>
+        <item>Tak ada</item>
+        <item>Mode Ambil gambar cepat (pilih di Kamera)</item>
+        <item>Pintasan transportasi publik</item>
     </string-array>
     <string-array name="long_press_volume_down_action_value">
-        <item>none</item>
+        <item>one</item>
         <item>Street-snap</item>
         <item>public_transportation_shortcuts</item>
     </string-array>
@@ -849,10 +849,11 @@ Catatan: Hanya untuk Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="common_password_business_names">
         <item>Layar kunci</item>
-        <item>Mode Anak</item>
-        <item>Berkas Saya</item>
-        <item>Kunci apl</item>
-        <item>Ruang kedua</item>
+        <item>Privacy password</item>
+        <item>Child mode</item>
+        <item>File Explorer</item>
+        <item>App lock</item>
+        <item>Second space</item>
     </string-array>
     <string-array name="alarm_repeat_type">
         <item>Tiap hari</item>
@@ -864,14 +865,21 @@ Catatan: Hanya untuk Ubuntu 8.04!"</item>
         <item>Hari kerja</item>
         <item>Khusus</item>
     </string-array>
+    <string-array name="privacy_password_function_specfication_names">
+        <item>Messages</item>
+        <item>Photos</item>
+        <item>Files</item>
+        <item>Notes</item>
+        <item>Child mode</item>
+    </string-array>
     <string-array name="screen_key_position_action">
         <item>Tombol Menu di kiri, tombol Kembali di kanan</item>
         <item>Tombol Kembali di kiri, tombol Menu di kanan</item>
     </string-array>
     <string-array name="anr_record_interval_entries">
-        <item>10 det</item>
-        <item>20 det</item>
-        <item>30 det</item>
+        <item>10 dtk</item>
+        <item>20 dtk</item>
+        <item>30 dtk</item>
         <item>1 mnt</item>
     </string-array>
     <string-array name="anr_record_interval_values">
@@ -879,5 +887,9 @@ Catatan: Hanya untuk Ubuntu 8.04!"</item>
         <item>20</item>
         <item>30</item>
         <item>60</item>
+    </string-array>
+    <string-array name="screen_button_style">
+        <item>Gaya tangan kiri</item>
+        <item>Gaya tangan kanan</item>
     </string-array>
 </resources>

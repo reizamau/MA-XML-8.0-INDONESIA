@@ -38,11 +38,12 @@
     <string name="voice_report_incoming_call">Panggilan masuk</string>
     <string name="voice_report_unknown_num">Nomor tak dikenal</string>
     <string name="incall_error_call_failed">Tidak dapat buat panggilan.</string>
+    <string name="notification_missedCall_call_back_miui">Panggil</string>
     <string name="dial_vt_fail_prompt">Jaringan saat ini tidak mendukung VoLTE. Ganti ke panggilan suara biasa?</string>
     <string name="dial_conference_fail_prompt">Tidak dapat panggil konferensi langsung karena jaringan saat ini tidak mendukung VoLTE.</string>
-    <string name="can_not_dial_while_vt_prompt">Tidak dapat panggil saat berlangsung panggilan video</string>
+    <string name="can_not_dial_while_vt_prompt">Tidak dapat panggil saat panggilan video berlangsung</string>
+    <string name="can_not_dial_vt_while_voice_prompt">Tidak dapat buat panggilan video saat ada panggilan suara berlangsung</string>
     <string name="voice_dial_out">Panggilan suara</string>
-    <string name="notification_missedCall_call_back_miui">Panggil</string>
     <string name="userCallActivityLabel">Telepon</string>
     <string name="enable_account_preference_title">Akun panggilan</string>
     <string name="outgoing_call_not_allowed_user_restriction">Hanya panggilan darurat yang diizinkan oleh pemilik perangkat.</string>

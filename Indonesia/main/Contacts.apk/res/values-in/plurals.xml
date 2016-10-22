@@ -64,7 +64,7 @@
         <item quantity="other">%1$d email</item>
     </plurals>
     <plurals name="hint_account_contacts">
-        <item quantity="other">Ditemukan %1$d item</item>
+        <item quantity="other">%1$d item ditemukan</item>
     </plurals>
     <plurals name="pick_favorites_contacts_list_title">
         <item quantity="other">%1$d favorit</item>

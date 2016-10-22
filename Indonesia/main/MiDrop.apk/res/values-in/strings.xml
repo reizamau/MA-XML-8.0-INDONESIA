@@ -27,7 +27,7 @@
     <string name="title_activity_reception">ReceptionActivity</string>
     <string name="transmission_click_send">kirim</string>
     <string name="newText">Teks Baru</string>
-    <string name="transmission_connect">Tidak dapat menemukan penerima</string>
+    <string name="transmission_connect">"Couldn't find recipient?"</string>
     <string name="receiver_notification_turn_on">Penerima harus menghidupkan Mi Drop</string>
     <string name="receiver_notification_turn_on_help">Hidupkan untuk cari perangkat dan kirim berkas.</string>
     <string name="sender_file_num">Menunggu %1$d berkas</string>
@@ -64,12 +64,12 @@
     <string name="receiver_succeed_view">Lihat berkas</string>
     <string name="notif_send_progress">Mengirim ke %1$s…</string>
     <string name="notif_send_cancel">Transfer ke %1$s terputus</string>
-    <string name="notif_send_cancel_multi">Transfer ke %1$s+%2$ terputus</string>
+    <string name="notif_send_cancel_multi">Transfer ke %1$s+%2$d terputus</string>
     <string name="notif_send_success">Kirim ke %1$s</string>
     <string name="notif_send_success_multi">Kirim ke %1$d orang</string>
     <string name="notif_receive_progress">Menerima %1$s berkas…</string>
     <string name="notif_receive_cancel">%1$s berkas tidak tertransfer</string>
-    <string name="notif_receive_success">Received files from %1$s</string>
+    <string name="notif_receive_success">Menerima berkas dari %1$s</string>
     <string name="notif_receive_lockscreen">Ketuk untuk lihat rincian</string>
     <string name="sender_in_progress_title">Batal transfer?</string>
     <string name="sender_in_progress_later">Coba lagi nanti</string>

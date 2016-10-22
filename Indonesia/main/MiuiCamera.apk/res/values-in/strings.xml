@@ -166,14 +166,9 @@ Apl lain dapat akses informasi ini bersama dengan gambar yang tersimpan."</strin
     <string name="pref_video_speed_entry_normal">Standar</string>
     <string name="pref_video_speed_entry_fast">Cepat</string>
     <string name="pref_video_speed_entry_slow">Lambat</string>
-    <string name="pano_too_fast_prompt">Terlalu cepat</string>
     <string name="pano_how_to_use_prompt_to_move">Mulai gerakkan perlahan</string>
     <string name="pano_how_to_use_prompt_go_on_moving">Berlanjut…</string>
-    <string name="pano_dialog_waiting_previous">Menunggu panorama sebelumnya selesai</string>
-    <string name="pano_dialog_panorama_failed">Tdk dpt simpan panorama</string>
-    <string name="pano_dialog_title">Panorama</string>
     <string name="pref_camera_panoramamode_title">Panorama</string>
-    <string name="pano_review_saving_indication_str">Menyimpan…</string>
     <string name="tap_to_focus">Ketuk untuk fokus</string>
     <string name="tap_to_exposure">Ketuk untuk atur manual pencahayaan</string>
     <string name="accessibility_shutter_button">Tombol Rana</string>
@@ -364,4 +359,17 @@ Jarak objek tidak boleh lebih dari 2 meter."</string>
     <string name="button_front_camera_title">Foto selfie</string>
     <string name="button_normal_video_title">Rekam video</string>
     <string name="button_fisheye_camera_title">Mata ikan</string>
+    <string name="pref_camera_groupshot_mode_title">GroupShot</string>
+    <string name="simple_mode_button_text_groupshot">Turn off GroupShot</string>
+    <string name="pref_groupshot_with_primitive_title">Save primitive picture in groupshot mode</string>
+    <string name="pref_camera_mono_mode_title">Mono</string>
+    <string name="simple_mode_button_text_mono">Turn off Mono</string>
+    <string name="title_snap_double_confirm">Please confirm again</string>
+    <string name="message_snap_double_confirm">Current Long press the volume key is NFC mode, confirm the replacement?</string>
+    <string name="snap_confirmed">Confirm</string>
+    <string name="snap_cancel">Cancel</string>
+    <string name="pref_camera_raw_title">RAW</string>
+    <string name="simple_mode_button_text_raw">Turn off RAW</string>
+    <string name="toast_saving">Saving photos…</string>
+    <string name="cannot_connect_camera_volte_call">Panggilan video sedang berlangsung, coba lagi nanti.</string>
 </resources>

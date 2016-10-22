@@ -257,6 +257,8 @@ Ukuran pembaruan Delta:%2$s"</string>
     <string name="notif_restore_complete_title">Pemulihan berhasil</string>
     <string name="notif_trans_sending_completed">Data berhasil dikirim</string>
     <string name="notif_trans_receiving_completed">Data berhasil diterima</string>
+    <string name="notif_trans_sending_failed">Data sent failed</string>
+    <string name="notif_trans_receiving_failed">Data received failed</string>
     <string name="custom_progress">%d item</string>
     <string name="remote_receive">Terima</string>
     <string name="click_to_view">Ketuk untuk lihat</string>

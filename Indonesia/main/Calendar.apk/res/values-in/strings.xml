@@ -2,7 +2,6 @@
 <resources>
     <string name="download">Unduh</string>
     <string name="set_as_wallpaper">Setel sebagai wallpaper</string>
-    <string name="app_label">Kalender</string>
     <string name="when_label">Kapan:</string>
     <string name="timezone_label">Zona waktu</string>
     <string name="today">Hari ini</string>
@@ -102,7 +101,6 @@
     <string name="preferences_clear_search_history_summary">Hapus semua penelusuran yang telah Anda lakukan</string>
     <string name="search_history_cleared">Riwayat penelusuran dihapus.</string>
     <string name="preferences_alerts_title">Pemberitahuan</string>
-    <string name="preferences_alerts_vibrateWhen_title">Getar</string>
     <string name="preferences_alerts_popup_title">Pemberitahuan munculan</string>
     <string name="preferences_default_reminder_title">Waktu pengingat default</string>
     <string name="preferences_default_reminder_dialog">Waktu pengingat default</string>
@@ -131,6 +129,7 @@
     <string name="template_announce_item_index">Acara %1$s dari %2$s.</string>
     <string name="acessibility_selected_marker_description">Acara terpilih</string>
     <string name="do_not_check">JANGAN dicentang -></string>
+    <string name="app_label">Kalender</string>
     <string name="button_day">Hari</string>
     <string name="button_week">Minggu</string>
     <string name="button_month">Bulan</string>
@@ -154,7 +153,7 @@
     <string name="setting_about_calendar_version">Versi kalender:</string>
     <string name="setting_about_imei">IMEI:</string>
     <string name="no_visiable_calendar_title">Pilih akun kalender</string>
-    <string name="no_visiable_calendar_message">You need to select a calendar account. Tap \"Select Account\" to continue.</string>
+    <string name="no_visiable_calendar_message">Anda harus pilih akun kalender. Ketuk \"Pilih akun\" untuk lanjutkan.</string>
     <string name="no_visiable_calendar_select_account">Pilih akun</string>
     <string name="event_info_reminders_label_1">Pengingat</string>
     <string name="event_info_reminders_label_more">Pengingat %d</string>
@@ -185,14 +184,16 @@
     <string name="month_medium_october">Okt</string>
     <string name="month_medium_november">Nov</string>
     <string name="month_medium_december">Des</string>
-    <string name="preferences_alerts_vibrate_title">Vibrate and ringtone</string>
-    <string name="preferences_alerts_ringtone_title">Sound</string>
+    <string name="preferences_alerts_vibrate_title">Getaran dan nada dering</string>
+    <string name="preferences_alerts_ringtone_title">Suara</string>
+    <string name="preferences_notification_ringtone_title">Suara</string>
     <string name="pref_title_no_remind">Tak ada pengingat</string>
     <string name="pref_title_notification_remind">Notifikasi pengingat</string>
     <string name="pref_title_alert_remind">Pop-up pengingat</string>
     <string name="pref_title_alarm_remind">Alarm pengingat</string>
     <string name="pref_error_no_ringtone_select">Nada dering bawaan</string>
     <string name="alarm_label">Tutup</string>
+    <string name="preferences_alerts_vibrateWhen_title">Getar</string>
     <string name="event_date_format">dd/MM</string>
     <string name="event_full_date_format">dd/MM/yyyy</string>
     <string name="local_calendar_display_name">Kalender lokal</string>

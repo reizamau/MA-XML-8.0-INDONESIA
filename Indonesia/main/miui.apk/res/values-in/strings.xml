@@ -23,7 +23,7 @@
     <string name="action_mode_deselect_all">Batal pilih</string>
     <string name="select_all">Pilih semua</string>
     <string name="deselect_all">Batal pilih</string>
-    <string name="instruction">Instructions</string>
+    <string name="instruction">Petunjuk</string>
     <string name="abc_action_bar_up_description">Navigasi atas</string>
     <string name="abc_action_bar_home_description">Navigasi beranda</string>
     <string name="time_picker_label_hour">J</string>
@@ -582,4 +582,5 @@
     <string name="no_network">Tidak dapat terhubung ke jaringan</string>
     <string name="webview_reload">Coba lagi</string>
     <string name="hybrid_provider">Didukung oleh %1$s</string>
+    <string name="xiaomi_mobile">Xiaomi Mobile</string>
 </resources>

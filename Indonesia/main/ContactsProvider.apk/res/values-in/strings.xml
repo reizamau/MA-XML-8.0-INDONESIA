@@ -3,10 +3,10 @@
     <string name="sharedUserLabel">Apl Inti Android</string>
     <string name="app_label">Penyimpanan Kontak</string>
     <string name="provider_label">Kontak</string>
-    <string name="upgrade_msg">Updating contacts database.</string>
-    <string name="upgrade_out_of_memory_notification_ticker">Update requires more memory.</string>
-    <string name="upgrade_out_of_memory_notification_title">Updating storage for contacts</string>
-    <string name="upgrade_out_of_memory_notification_text">Tap to complete the update.</string>
+    <string name="upgrade_msg">Memperbarui basis data kontak.</string>
+    <string name="upgrade_out_of_memory_notification_ticker">Pembaruan butuh memori yang lebih banyak.</string>
+    <string name="upgrade_out_of_memory_notification_title">Memperbarui penyimpanan untuk kontak</string>
+    <string name="upgrade_out_of_memory_notification_text">Ketuk untuk menyelesaikan pembaruan.</string>
     <string name="default_directory">Kontak</string>
     <string name="local_invisible_directory">Lainnya</string>
     <string name="read_write_all_voicemail_label">Akses semua surat suara</string>

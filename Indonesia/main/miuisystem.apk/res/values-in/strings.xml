@@ -119,4 +119,12 @@
     <string name="carousel">Carousel</string>
     <string name="toyrobot">Mainan robot</string>
     <string name="daydream">Daydream</string>
+    <string name="cta_permission_delimiter">, </string>
+    <string name="cta_permission_and"> dan </string>
+    <string name="cta_title">Persyaratan Penggunaan</string>
+    <string name="cta_message_license">Dengan menggunakan produk ini, Anda menyetujui Persyaratan Layanan dan Kebijakan Privasi kami.</string>
+    <string name="cta_message_permission">Apl ini butuh %2$s agar dapat bekerja dengan normal.</string>
+    <string name="cta_check_reminder">Jangan tampil lagi</string>
+    <string name="cta_button_quit">Keluar</string>
+    <string name="cta_button_continue">Setuju</string>
 </resources>

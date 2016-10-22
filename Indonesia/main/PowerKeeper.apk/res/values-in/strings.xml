@@ -53,9 +53,9 @@
     <string name="power_dialog_new_event_fail">Tidak dapat menambahkan acara baru</string>
     <string name="power_optimize_activity_profile_file_error">Penghemat baterai bermasalah</string>
     <string name="foreground_change">Apl berjalan di latar depan</string>
-    <string name="screen_on">Layar Hidup</string>
-    <string name="screen_off">Layar Mati</string>
-    <string name="screen_off_10_min">Layar Mati melebihi 10 menit</string>
+    <string name="screen_on">Layar hidup</string>
+    <string name="screen_off">Layar mati</string>
+    <string name="screen_off_10_min">Layar mati lebih dari 10 menit</string>
     <string name="full_screen_enter">Masuk ke layar penuh</string>
     <string name="full_screen_exit">Keluar dari layar penuh</string>
     <string name="background">Apl berjalan di latar belakang</string>

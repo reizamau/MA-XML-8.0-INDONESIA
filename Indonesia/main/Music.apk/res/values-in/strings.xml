@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="dialog_insufficient_space_on_external">Unduhan gagal. Tidak ada cukup ruang di kartu SD.</string>
+    <string name="dialog_insufficient_space_on_external">Gagal mengunduh. Tidak ada cukup ruang di kartu SD.</string>
     <string name="dialog_insufficient_space_on_cache">Unduhan gagal. Tidak cukup ruang di ruang penyimpanan internal.</string>
-    <string name="auto_restart_under_wifi">Berkas akan diunduh ketika perangkat terhubung ke Wi-Fi</string>
-    <string name="task_already_exist">Tugas telah berjalan</string>
+    <string name="auto_restart_under_wifi">Berkas akan diunduh saat perangkat terhubung ke Wi-Fi</string>
+    <string name="task_already_exist">Tugas telah ada</string>
     <string name="privacy_tip_title">Gunakan Akselerator Xunlei?</string>
-    <string name="privacy_tip_content">Gunakan Xunlei Akselerator untuk mempercepat unduhan? Host URL unduhan akan diunggah ke server Xunlei. Rincian Akun Mi anda akan diunggah untuk dicek apakah anda memiliki langganan aktif apapun untuk layanan ini.</string>
+    <string name="privacy_tip_content">Gunakan Xunlei Akselerator untuk mempercepat unduhan? Host URL unduhan akan diunggah ke server Xunlei. Rincian Akun Mi Anda akan diunggah untuk dicek apakah Anda memiliki langganan aktif untuk layanan ini.</string>
     <string name="privacy_tip_cancel">Batal</string>
     <string name="privacy_tip_ok">Oke</string>
-    <string name="privacy_notif_title">Akselerator Unduh Xunlei aktif</string>
+    <string name="privacy_notif_title">Akselerator Unduh Xunlei dihidupkan</string>
     <string name="privacy_notif_content">Ketuk untuk lihat rincian.</string>
     <string name="notif_text_engine_on">Mempercepat…</string>
-    <string name="notif_text_engine_off">Akselerator Xunlei nonaktif.</string>
+    <string name="notif_text_engine_off">Akselerator Xunlei mati.</string>
     <string name="notif_title_single_downloading">Mengunduh %1$s</string>
     <string name="notif_title_multiple_downloading">Mengunduh %1$d berkas</string>
     <string name="notif_title_file_size">%1$d total</string>
@@ -150,7 +150,7 @@ Ketuk %s untuk mulai unduh lain kali Anda terhubung ke Wi-Fi."</string>
     <string name="settings_search_path_normal">Aplikasi sistem/Musik/Layanan dan setelan</string>
     <string name="settings_search_path_advance">Aplikasi terinstal/Musik/Layanan dan setelan/Setelan lanjutan</string>
     <string name="settings_search_title_main">Musik</string>
-    <string name="settings_search_key_main">Music;Songs;Song</string>
+    <string name="settings_search_key_main">Musik;Lagu</string>
     <string name="settings_search_title_desktop_lyric">Lirik Layar utama</string>
     <string name="settings_search_key_desktop_lyric">Lirik layar utama;Lirik;Musik;Lagu</string>
     <string name="settings_search_title_download_quality">Kualitas unduh</string>
@@ -189,6 +189,7 @@ Ketuk %s untuk mulai unduh lain kali Anda terhubung ke Wi-Fi."</string>
     <string name="toast_stream_normal">Sekarang diputar dalam kualitas Standar. Beli Paket Lagu Premium untuk menikmati streaming kualitas tinggi.</string>
     <string name="toast_download_error_by_vip_required">Beli Paket Lagu Premium untuk unduh lagu ini.</string>
     <string name="toast_download_error_by_count_limit">Anda telah habis menggunakan batas unduhan bulan ini.</string>
+    <string name="toast_download_error_by_not_login">Masuk ke Akun Mi dan coba lagi.</string>
     <string name="vip_required_with_song">\"Beli Paket Lagu Premium untuk memutar “%s”. Kami telah lompati lagu ini dulu.\"</string>
     <string name="vip_required">Beli Paket Lagu Premium untuk memutar lagu ini. Kami telah lompati lagu ini dulu.</string>
     <string name="alaka_required">Lagu ini tidak tersedia.</string>
@@ -380,6 +381,7 @@ Ketuk %s untuk mulai unduh lain kali Anda terhubung ke Wi-Fi."</string>
     <string name="order_process_fail">Tdk dpt memberi kuasa akun Anda. Tunggu sebentar dan coba lagi.</string>
     <string name="no_song_downloaded">Tidak dapat terhubung ke server</string>
     <string name="download_processing">Mengunduh…</string>
+    <string name="download_fail_to_fetch_info">Tidak dapat mengunduh</string>
     <string name="presonal_center">Setelan akun</string>
     <string name="not_login">Tidak masuk</string>
     <string name="download">Unduh</string>
@@ -531,7 +533,8 @@ Ketuk %s untuk mulai unduh lain kali Anda terhubung ke Wi-Fi."</string>
     <string name="sync_only_in_wifi">Hanya sinkron dengan Wi-Fi</string>
     <string name="sync_only_in_wifi_summary">Sinkron musik Anda antar seluruh perangkat dengan Mi Cloud. Menggunakan data seluler untuk sinkron musik dapat meningkatkan penggunaan data Anda. Jika melampaui batas paket data, dapat dikenakan biaya tambahan oleh operator.</string>
     <string name="multichoice">Pilih</string>
-    <string name="cp_info_first">Layanan streaming musik online terutama didukung oleh Ultimate Inc.</string>
+    <string name="cp_info_first">"Layanan streaming musik online
+terutama didukung oleh Ultimate Inc."</string>
     <string name="cp_info_second">service1@ultimobi.com</string>
     <string name="male_artist">Artis pria</string>
     <string name="female_artist">Artis wanita</string>
@@ -636,6 +639,7 @@ Ketuk %s untuk mulai unduh lain kali Anda terhubung ke Wi-Fi."</string>
     <string name="share_text_list">"Daftar putar dari Mi Musik: "</string>
     <string name="share_text_song">"Lagu di Mi Musik: "</string>
     <string name="share_append_text">Dari @MIUI</string>
+    <string name="share_image_error">Tidak dapat berbagi gambar karena masalah pengunduhan</string>
     <string name="repeat_current_notif">Mengulangi lagu tertentu.</string>
     <string name="repeat_all_notif">Mengulangi semua lagu.</string>
     <string name="shuffle_on_notif">Acak daftar dihidupkan.</string>
@@ -736,6 +740,7 @@ Ketuk %s untuk mulai unduh lain kali Anda terhubung ke Wi-Fi."</string>
     <string name="othor_song_in_album">Lagu lain dari album ini</string>
     <string name="ad_extension">Promosi</string>
     <string name="ad_close">Tutup</string>
+    <string name="ad_mark">M</string>
     <string name="download_traffic_dialog_msg">Memakai koneksi data seluler untuk unduh musik dapat meningkatkan penggunaan data</string>
     <string name="download_traffic_dialog_position_button">Tetap unduh</string>
     <string name="download_traffic_dialog_negative_button">Tunggu Wi-Fi</string>
@@ -757,10 +762,12 @@ Ketuk %s untuk mulai unduh lain kali Anda terhubung ke Wi-Fi."</string>
     <string name="pulluprefreshrecyclerview_loading_running">Memuat…</string>
     <string name="pulluprefreshrecyclerview_loading_finished">Berhasil memuat</string>
     <string name="pulluprefreshrecyclerview_loading_error">Tidak dapat memuat</string>
+    <string name="loadercontainer_loading">Tunggu sebentar…</string>
+    <string name="network_error_and_retry">Tidak terhubung, ketuk coba lagi</string>
     <string name="follow">Ikuti</string>
     <string name="followed">Mengikuti</string>
     <string name="artist_favor">Pilihan</string>
-    <string name="artist_album">Albums</string>
+    <string name="artist_album">Album</string>
     <string name="artist_news">Berita</string>
     <string name="download_start_btn">Unduh gratis</string>
     <string name="already_download_btn">Mengunduh…</string>
@@ -768,7 +775,7 @@ Ketuk %s untuk mulai unduh lain kali Anda terhubung ke Wi-Fi."</string>
     <string name="download_done_btn">Terunduh</string>
     <string name="online_favor">Pilihan</string>
     <string name="online_bill">Peringkat</string>
-    <string name="online_recommend">Rekomendasi</string>
+    <string name="online_recommend">Daftar putar</string>
     <string name="online_fm">FM</string>
     <string name="online_special">Spesial</string>
     <string name="billboard_song_subtitle">— %s</string>
@@ -787,4 +794,17 @@ Ketuk %s untuk mulai unduh lain kali Anda terhubung ke Wi-Fi."</string>
     <string name="local_page_artist">Mengikuti artis</string>
     <string name="local_page_custom_title">Untuk kamu</string>
     <string name="local_page_custom_subtitle">Lagu baru setiap hari</string>
+    <string name="talkback_radar">Pengenalan music</string>
+    <string name="talkback_search">Cari</string>
+    <string name="talkback_play">Main / Jeda</string>
+    <string name="talkback_next">Lagu berikut</string>
+    <string name="talkback_pre">Lagu sebelum</string>
+    <string name="talkback_download">Unduh</string>
+    <string name="talkback_share">Berbagi</string>
+    <string name="talkback_mode">Mainkan daftar putar terus-menerus</string>
+    <string name="talkback_device">Mainkan di perangkat lain</string>
+    <string name="talkback_more">Menu lainnya</string>
+    <string name="talkback_favorite">Suka lagu ini</string>
+    <string name="talkback_progress">Bilah kemajuan</string>
+    <string name="talkback_back">Kembali</string>
 </resources>

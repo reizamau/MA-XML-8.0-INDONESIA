@@ -52,4 +52,5 @@
     <string name="altitude_uncalibrate_msg">Tidak dapat kalibrasi ketinggian dengan akurat tanpa GPS atau koneksi data seluler.</string>
     <string name="altitude_uncalibrate_refresh">Coba lagi</string>
     <string name="altitude_uncalibrate_cancel">Batal</string>
+    <string name="altitude_longitude_Degree_format" formatted="false">"%d°%d'%d\""</string>
 </resources>
