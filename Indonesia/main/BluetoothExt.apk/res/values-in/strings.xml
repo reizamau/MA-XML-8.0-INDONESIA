@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="bluetooth_dun_acceptance_dialog_text">%1$s meminta akses DUN. Berikan akses ke %2$s?</string>
+  <string name="bluetooth_dun_request">Permintaan DUN</string>
+  <string name="bluetooth_ftp_acceptance_dialog_text">%1$s Meminta akses berkas dan folder. Berikan akses ke %2$s?</string>
+  <string name="bluetooth_ftp_request">Meminta sambungan ftp</string>
+  <string name="bluetooth_mas_acceptance_dialog_text">%1$s meminta akses perpesanan. Berikan akses ke %2$s?</string>
+  <string name="bluetooth_mas_request">Meminta membaca pesan</string>
+  <string name="bluetooth_remember_choice">Selalu ijinkan</string>
+  <string name="bluetooth_sap_acceptance_dialog_text">%1$s Meminta akses SIM. Berikan akses ke %2$s?</string>
+  <string name="bluetooth_sap_request">Meminta SAP</string>
+  <string name="defaultname">carkit</string>
+  <string name="dun_acceptance_timeout_message">Waktu penyandingan dengan %1$s telah habis</string>
+  <string name="dun_notif_message">Sentuh untuk terhubung ke \"%1$s\".</string>
+  <string name="dun_notif_ticker">Permintaan Bluetooth DUN</string>
+  <string name="dun_notif_title">Sesi permintaan kunci untuk DUN</string>
+  <string name="ftp_acceptance_dialog_header">Akses folder perangkat</string>
+  <string name="ftp_acceptance_dialog_title">%1$s meminta akses folder perangkat. Berikan akses ke %2$s?</string>
+  <string name="ftp_acceptance_timeout_message">Waktu permintaan sambungan oleh %1$s telah habis</string>
+  <string name="ftp_authentication_timeout_message">Waktu penyandingan dengan %1$s telah habis</string>
+  <string name="ftp_notif_active_session">Sesi Bluetooth FTP aktif</string>
+  <string name="ftp_notif_connected">"Bluetotoh File Transfer Access  ke \"%1$s\"."</string>
+  <string name="ftp_notif_message">Sentuh untuk terhubung ke \"%1$s\".</string>
+  <string name="ftp_notif_ticker">Perminyaan sambungan Bluetooth</string>
+  <string name="ftp_notif_title">Sesi permintaan kunci untuk FTP</string>
+  <string name="ftp_session_key_dialog_header">Dibutuhkan sesi kunci Bluetooth</string>
+  <string name="ftp_session_key_dialog_title">Masukkan kunci untuk %1$s</string>
+  <string name="map_acceptance_dialog_header">Akses folder perangkat</string>
+  <string name="map_acceptance_dialog_title">%1$s meminta akses folder perangkat. Berikan akses ke %2$s?</string>
+  <string name="map_acceptance_timeout_message">Waktu penyandingan dengan %1$s telah habis</string>
+  <string name="map_alert_conn_failed_message">Sambungan Bluetooth MAP gagal.</string>
+  <string name="map_authentication_timeout_message">Waktu memasukkan kunci dengan  %1$s telah habis</string>
+  <string name="map_notif_active_session">Sesi Bluetooth MAP aktif</string>
+  <string name="map_notif_connected">"Akses Pesan Bluetooth  ke \"%1$s\"."</string>
+  <string name="map_notif_message">Sentuh untuk terhubung dengan \"%1$s\".</string>
+  <string name="map_notif_ticker">Meminta sambungan Bluetooth</string>
+  <string name="map_notif_title">Sesi permintaan kunci untuk MAP</string>
+  <string name="map_session_key_dialog_header">Dibutuhkan sesi kunci Bluetooth</string>
+  <string name="map_session_key_dialog_title">Type session key for %1$s</string>
+  <string name="process"/>
+  <string name="sap_acceptance_timeout_message">Waktu penyandingan dengan %1$s telah habis</string>
+  <string name="sap_notif_message">Sentuh untuk terhubung dengan \"%1$s\".</string>
+  <string name="sap_notif_ticker">Permintaan akses Bluetooth SIM</string>
+  <string name="sap_notif_title">Dibutuhkan sesi kunci untuk SAP</string>
+</resources>
