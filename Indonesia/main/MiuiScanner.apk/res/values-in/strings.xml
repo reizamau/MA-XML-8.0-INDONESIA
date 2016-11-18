@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">Pemindai</string>
     <string name="impunity_declaration_title">Persyaratan Layanan</string>
-    <string name="impunity_declaration_content">Aplikasi ini butuh koneksi internet agar dapat bekerja dengan normal.</string>
+    <string name="impunity_declaration_content">This app needs to connect to the internet and location services to work normally.</string>
     <string name="impunity_declaration_positive_text">Izinkan</string>
     <string name="impunity_declaration_negative_text">Keluar</string>
     <string name="accessibility_shutter_button">Rana</string>

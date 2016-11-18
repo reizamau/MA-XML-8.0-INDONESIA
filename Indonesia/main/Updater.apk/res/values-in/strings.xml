@@ -114,7 +114,7 @@ http://zhushou.xiaomi.com"</string>
     <string name="auto_dialog_msg_check_again">"Anda harus menyetujui Kebijakan Privasi terbaru kami sebelum perbarui sistem. "</string>
     <string name="auto_button_examine_immediately">Lihat</string>
     <string name="auto_button_sure_cancel">Batal</string>
-    <string name="auto_update_sum">Otomatis unduh pembaruan saat terhubung ke Wi-Fi</string>
+    <string name="auto_update_sum">Download updates when connected to Wi-Fi and install at night</string>
     <string name="updater_nonetwork">Tidak dapat terhubung ke jaringan</string>
     <string name="updater_nonetwork_clause">Tidak dapat terhubung ke jaringan</string>
     <string name="updater_nolog">Tak ada ringkasan pembaruan.</string>
@@ -176,9 +176,6 @@ http://zhushou.xiaomi.com"</string>
     <string name="confirm_local_package_wipe_title">Hapus data?</string>
     <string name="confirm_local_package_wipe_msg">Seluruh data pribadi akan dihapus. Pastikan Anda telah mencadangkan semua yang ingin disimpan sebelum memulai proses.</string>
     <string name="confirm_local_package_wipe_btn">Hapus dan perbarui</string>
-    <string name="dialog_reboot_title">Pembaruan sistem</string>
-    <string name="dialog_reboot_message">Proses pembaruan membutuhkan 5-20 menit. Jaga agar perangkat tetap hidup dan jangan mulai ulang saat pembaruan berlangsung.</string>
-    <string name="dialog_reboot_yes">Perbarui</string>
     <string name="delay_update_text">Perbarui nanti</string>
     <string name="dialog_delay_update_title">Pembaruan tersedia</string>
     <string name="dialog_delay_update_msg">Perangkat akan mulai ulang untuk menerapkan pembaruan jika hidup dan terisi daya minimal 30%</string>

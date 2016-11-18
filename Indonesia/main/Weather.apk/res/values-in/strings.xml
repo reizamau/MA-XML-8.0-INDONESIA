@@ -29,6 +29,7 @@
     <string name="view_indexes_item_today">Hari ini</string>
     <string name="view_indexes_item_tommorrow">Besok</string>
     <string name="activity_main_update_time">Diperbarui %1$s</string>
+    <string name="activity_main_update_time_expire">Data expired</string>
     <string name="activity_main_update_time_right_now">baru saja</string>
     <string name="refresh_fail">Tidak dapat terhubung ke jaringan</string>
     <string name="activity_find_city_dialog_cancel">Batal</string>
@@ -124,8 +125,6 @@ Ketuk layar utk tambah atau ubah posisi kota secara manual"</string>
     <string name="video_dialog_no_play" />
     <string name="video_dialog_play" />
     <string name="ads_extension" />
-    <string name="close">Tutup</string>
-    <string name="hide_topic">Sembunyi</string>
     <string name="install">Instal</string>
     <string name="open">Buka</string>
     <string name="daily_forecast_detail_date">d/M</string>
@@ -164,4 +163,5 @@ Ketuk layar utk tambah atau ubah posisi kota secara manual"</string>
     <string name="set">Setelan</string>
     <string name="global_aqi">IKU: %1$s %2$s</string>
     <string name="common_loading_text">Tunggu sebentar…</string>
+    <string name="change_alert">Periksa koneksi jaringan dan coba lagi</string>
 </resources>

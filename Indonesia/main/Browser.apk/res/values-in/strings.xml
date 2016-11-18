@@ -284,7 +284,7 @@ Tinggalkan halaman ini?"</string>
     <string name="ok">Oke</string>
     <string name="edit">Ubah</string>
     <string name="replace">Ganti</string>
-    <string name="isreplace">Telah ada berkas ini, ganti?</string>
+    <string name="isReplacePage">Berkas ini telah ada, ganti?</string>
     <string name="rlz_access_point">Y1</string>
     <string name="uploads_disabled">Unggah berkas dinonaktifkan</string>
     <string name="dont_remind_again">Ingat pilihan ini</string>
@@ -356,7 +356,7 @@ Tinggalkan halaman ini?"</string>
     <string name="action_menu_bookshelf">Buku</string>
     <string name="action_menu_useful_page">Tambah pintasan</string>
     <string name="action_menu_useful_page_added">Ditambahkan ke halaman awal</string>
-    <string name="save_to">Simpan ke</string>
+    <string name="add_favorites_to">Tambah favorit ke</string>
     <string name="sendstartpage">Halaman awal</string>
     <string name="senddesktop">Layar utama</string>
     <string name="start_save_page_capture">Menyimpan screenshot…</string>
@@ -826,4 +826,5 @@ Halaman yang Anda lihat tak akan muncul di riwayat."</string>
     <string name="view_document_downloaded_files">Lihat berkas unduhan di Unduhan</string>
     <string name="no_app_open_document">Tidak menemukan apl untuk tangani aksi ini</string>
     <string name="not_allowed_open">Tidak dapat pakai Browser saat proses penghidupan telepon pertama kali atau setelah kembali ke setelan pabrik</string>
+    <string name="low_memory_toast">Tidak dapat menggunakan Browser karena memori rendah</string>
 </resources>

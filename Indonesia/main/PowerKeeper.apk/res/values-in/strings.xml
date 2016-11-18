@@ -77,7 +77,7 @@
     <string name="power_config_app_launch_title">Latar depan</string>
     <string name="power_config_app_background_title">Latar belakang</string>
     <string name="power_config_app_full_screen_title">Layar penuh</string>
-    <string name="power_config_phone_charging_title">Mengisi daya</string>
+    <string name="power_config_phone_charging_title">"Mengisi daya "</string>
     <string name="power_config_phone_idle_title">Diam</string>
     <string name="power_config_cpu_mode_title">Mode CPU</string>
     <string name="power_config_cpu_freq_title">Frekuensi CPU</string>

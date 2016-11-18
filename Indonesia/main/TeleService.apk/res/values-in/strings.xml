@@ -1167,7 +1167,7 @@ Kartu SIM Anda akan dihapus setelah 1x upaya gagal lagi."</string>
     <string name="call_record_on_summary">Hidup</string>
     <string name="call_record_off_summary">Mati</string>
     <string name="preference_dial_pad_touch_tone_off">Mati</string>
-    <string name="msim_disable_sim_card_summary_telecom_vice_card_inEcm">"Don't restrict your secondary SIM in emergency callback mode."</string>
+    <string name="msim_disable_sim_card_summary_telecom_vice_card_inEcm">Jangan larang kartu SIM kedua Anda di mode Panggil Balik Darurat.</string>
     <string name="simFdnContacts_empty">Tak ada nomor panggilan tetap.</string>
     <string name="dtmf_tone_entries_normal">Normal</string>
     <string name="dtmf_tone_entries_long">Panjang</string>
@@ -1196,7 +1196,7 @@ Kartu SIM Anda akan dihapus setelah 1x upaya gagal lagi."</string>
     <string name="sim_roaming_settings_title">Mi Roaming</string>
     <string name="sim_roaming_settings_summary">Hubung ke jaringan data seluler saat roaming</string>
     <string name="lable_network_not_supported">Jaringan tidak didukung</string>
-    <string name="change_data_preference_4g_only_prompt">Looks like you have a 4G only SIM card. Set it as default for mobile data?</string>
+    <string name="change_data_preference_4g_only_prompt">Sepertinya Anda memiliki kartu SIM dengan 4G saja. Setel sebagai bawaan untuk data seluler?</string>
     <string name="pick_outgoing_call_phone_type">Buat panggilan</string>
     <string name="pick_outgoing_sip_phone">"Pakai akun panggilan internet "</string>
     <string name="remember_my_choice">Selalu pakai untuk panggilan internet</string>

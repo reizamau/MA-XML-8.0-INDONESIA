@@ -27,10 +27,12 @@
     <string name="alarm_disabled">Nonaktif</string>
     <string name="alarm_ascending_mode_title">Menaikkan volume</string>
     <string name="alarm_ascending_mode_summary">Volume alarm naik bertahap</string>
+    <string name="setting_alarm_arriving_title">Notifikasi sebelum berdering</string>
+    <string name="setting_alarm_arriving_summary">Kirim sebuah notifikasi sebelum berdering</string>
     <string name="close_alarm">Tutup alarm</string>
     <string name="timer_notify_text">Tunda atau tutup timer.</string>
-    <string name="upcoming_alarm"> Upcoming alarm</string>
-    <string name="upcoming_alarm_hint">You can close this alarm in advance</string>
+    <string name="upcoming_alarm"> Alarm akan bunyi</string>
+    <string name="upcoming_alarm_hint">Anda dapat mematikan alarm terlebih dahulu</string>
     <string name="start">Mulai</string>
     <string name="pause">Jeda</string>
     <string name="reset">Ulang</string>
@@ -77,7 +79,7 @@
     <string name="birthday_alarm_summary">Putar \"Selamat Ulang Tahun\" daripada suara alarm bawaan pada hari ulang tahun Anda</string>
     <string name="turn_off_a_repeat_alarm">Matikan pengulangan alarm</string>
     <string name="skip_alarm_once_hint">Matikan sekali pada %s</string>
-    <string name="skip_alarm_date_format">%1$s(%2$s)</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="turn_off_this_repeat_alarm">Matikan pengulangan alarm</string>
     <string name="today">Hari ini</string>
     <string name="tomorrow">Besok</string>

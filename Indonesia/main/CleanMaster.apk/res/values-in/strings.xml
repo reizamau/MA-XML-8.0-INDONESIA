@@ -15,8 +15,9 @@
     <string name="update_date_format">dd/MM/yyyy</string>
     <string name="activity_title_garbage_cleanup">Pembersih</string>
     <string name="activity_title_scanfinish">Pemindaian selesai</string>
+    <string name="empty_title_photos">Tak ada foto ditemukan</string>
     <string name="empty_title_garbage_cache">Kosong</string>
-    <string name="empty_title_ad">Tak ada berkas iklan</string>
+    <string name="empty_title_ad">Tak ada berkas tak berguna ditemukan</string>
     <string name="empty_title_apk">Tak ada paket instal</string>
     <string name="empty_title_residual">Tak ada sisa</string>
     <string name="btn_text_quick_cleanup">Bersihkan</string>
@@ -62,7 +63,7 @@
     <string name="pref_title_expand_cache_group">Tampil item cache</string>
     <string name="pref_summary_expand_cache_group">Otomatis tampilkan rincian cache</string>
     <string name="pref_category_title_auto_clean_settings">Pembersihan otomatis</string>
-    <string name="pref_title_clean_alert">Clean automatically</string>
+    <string name="pref_title_clean_alert">Pembersihan otomatis</string>
     <string name="pref_summary_auto_clean_and_alert">Jadwalkan pembersih untuk otomatis bekerja</string>
     <string name="pref_category_title_other_clean_settings">Setelan tambahan</string>
     <string name="pref_summary_garbage_process_mode">Tampil notifikasi saat pembersih berjalan</string>
@@ -81,7 +82,7 @@
     <string name="toast_garbage_cleanup_success">Pembersihan selesai</string>
     <string name="toast_add_white_list_success">" ditambahkan ke pengecualian"</string>
     <string name="hints_cache_header_left">Berkas cache</string>
-    <string name="hints_ad_header_left">Berkas iklan</string>
+    <string name="hints_ad_header_left">Berkas tak berguna</string>
     <string name="hints_apk_header_left">Paket</string>
     <string name="hints_residual_header_left">Sisa</string>
     <string name="hints_memory_header_left">Memori</string>
@@ -108,7 +109,7 @@
     <string name="hints_loading_text">Memuat…</string>
     <string name="toast_removed_from_white_list">" dihapus dari pengecualian"</string>
     <string name="white_list_cache_header">Berkas cache: %d</string>
-    <string name="white_list_ad_header">Berkas iklan: %d</string>
+    <string name="white_list_ad_header">Berkas tak berguna: %d</string>
     <string name="white_list_apk_header">Paket instal: %d</string>
     <string name="white_list_large_file_header">Berkas besar dan video: %d</string>
     <string name="white_list_residual_header">Sisa: %d</string>
@@ -177,6 +178,7 @@
     <string name="dialog_title_uninstall_apps">Uninstal</string>
     <string name="dialog_title_backup_and_uninstall_apps">Cadang dan uninstal</string>
     <string name="dialog_msg_uninstall_apps">Uninstal apl ini?</string>
+    <string name="dialog_msg_uninstall_apps_xspace">Uninstall these apps?（including clone apps）?</string>
     <string name="dialog_msg_backup_and_uninstall_apps">Cadangkan dan uninstal apl terpilih?</string>
     <string name="toast_backup_is_running">Pencadangan sedang berjalan</string>
     <string name="toast_backup_uninstall_failed">Tidak dapat mencadangkan %d apl</string>
@@ -309,7 +311,7 @@
     <string name="open_browser">Buka di browser</string>
     <string name="title_share_link">Berbagi URL</string>
     <string name="connecting">Menghubungkan…</string>
-    <string name="clear_bigfiles">Hapus berkas besar, foto duplikat, dan item tak berguna lainnya</string>
+    <string name="clear_bigfiles">Hapus berkas besar, foto duplikat, dan berkas tak berguna lainnya</string>
     <string name="clear_immediately">Bersihkan sekarang</string>
     <string name="clear_safe_notify">Bar notifikasi keamanan</string>
     <string name="nb_clear_set">Bersihkan ROM, lihat info baterai dan daftar blokir di bar notifikasi</string>
@@ -386,7 +388,7 @@
     <string name="deepclean_video_summary_empty">Semuanya dalam kondisi baik</string>
     <string name="hints_video_download">Video terunduh</string>
     <string name="hints_video_camera">Video terekam</string>
-    <string name="summary_delete_video">Delete selected videos permanently?</string>
+    <string name="summary_delete_video">Hapus video terpilih secara permanen?</string>
     <string name="empty_title_video">Tak ada video untuk dihapus</string>
     <string name="information_setting">Setelan Kabar berita</string>
     <string name="load_only_under_wlan">Muat berita saat terhubung ke Wi-Fi</string>

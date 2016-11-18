@@ -27,7 +27,7 @@
     <string name="title_activity_reception">ReceptionActivity</string>
     <string name="transmission_click_send">kirim</string>
     <string name="newText">Teks Baru</string>
-    <string name="transmission_connect">"Couldn't find recipient?"</string>
+    <string name="transmission_connect">Tidak dapat menemukan penerima?</string>
     <string name="receiver_notification_turn_on">Penerima harus menghidupkan Mi Drop</string>
     <string name="receiver_notification_turn_on_help">Hidupkan untuk cari perangkat dan kirim berkas.</string>
     <string name="sender_file_num">Menunggu %1$d berkas</string>

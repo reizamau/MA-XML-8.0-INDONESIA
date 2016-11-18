@@ -1,19 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="download_finished">
-        <item quantity="other">&amp;lt;font color=\"red\">%d lagu&amp;lt;/font> diunduh</item>
+        <item quantity="other">&lt;font color=\"red\">%d lagu&lt;/font> diunduh</item>
     </plurals>
     <plurals name="download_running">
-        <item quantity="other">&amp;lt;font color=\"red\">%d lagu&amp;lt;/font> sedang diunduh</item>
+        <item quantity="other">&lt;font color=\"red\">%d lagu&lt;/font> sedang diunduh</item>
     </plurals>
     <plurals name="Ntracks_search_result">
         <item quantity="other">%d lagu ditemukan</item>
-    </plurals>
-    <plurals name="Nalert_msg_vip_songs_for_download_upgrade">
-        <item quantity="other">\"Anda hanya dapat unduh %d Lagu Premium bulan ini. Naikkan level Paket Lagu Premium untuk unduh lebih banyak lagi. \"</item>
-    </plurals>
-    <plurals name="Nalert_msg_vip_songs_for_download_limited">
-        <item quantity="other">\" Anda hanya dapat unduh %d lagu premium bulan ini. Tetap unduh lagu yang dipilih?\"</item>
     </plurals>
     <plurals name="Nexpired_remind">
         <item quantity="other">%d hari tersisa</item>
@@ -50,9 +44,6 @@
     </plurals>
     <plurals name="Ntracks_remove_from_playlist">
         <item quantity="other">%d lagu dihapus dari daftar putar</item>
-    </plurals>
-    <plurals name="artist_list_fragment_item_count_format">
-        <item quantity="other">%d lagu</item>
     </plurals>
     <plurals name="Nquit_warning">
         <item quantity="other">Pemutar akan berhenti setelah %d mnt</item>

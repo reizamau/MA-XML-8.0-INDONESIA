@@ -95,6 +95,10 @@ d MMMM"</string>
     <string name="status_bar_clock_date_format">EEEE, d MMMM</string>
     <string name="status_bar_recent_memory_info1">%1$sB dari %2$sB tersedia</string>
     <string name="status_bar_recent_memory_info2" />
+    <string name="nav_guide_title">Sembunyikan tombol layar</string>
+    <string name="nav_guide_message">You can use gestures to hide/show screen button after setting.</string>
+    <string name="nav_guide_cancel">Abaikan</string>
+    <string name="nav_guide_ok">Setelan</string>
     <string name="usb_mode_notification">Penyimpanan USB</string>
     <string name="usb_mode_dont_ask">Ingat pilihan ini</string>
     <string name="usb_mode_mount_storage_title">Buka penyimpanan USB?</string>
@@ -124,6 +128,7 @@ d MMMM"</string>
     <string name="settings_toggle_position_divider_page">%1$d toggle di atas bar ini aktif</string>
     <string name="settings_toggle_position_divider_list">Toggle di atas bar ini aktif</string>
     <string name="settings_toggle_position_reset">Reset toggle</string>
+    <string name="list_delimeter">", "</string>
     <string name="camera_key_action_setting_title">Mi Tombol</string>
     <string name="camera_key_action_category_title">Gunakan jika apl Kamera tak terbuka</string>
     <string name="camera_key_action_none_title">Tak ada aksi</string>

@@ -72,7 +72,6 @@
     <string name="show_older_events">Sentuh untuk melihat acara sebelum %1$s</string>
     <string name="show_newer_events">Sentuh untuk melihat acara setelah %1$s</string>
     <string name="edit_event_label">Detail</string>
-    <string name="delete_label">Hapus</string>
     <string name="discard_label">Batal</string>
     <string name="does_not_repeat">Acara sekali</string>
     <string name="daily">Harian</string>
@@ -172,6 +171,7 @@
     <string name="widget_select_style">Pilih gaya</string>
     <string name="widget_events">Acara berikut</string>
     <string name="widget_no_events">Tak ada acara</string>
+    <string name="widget_get_weather_info">Dapatkan informasi cuaca ></string>
     <string name="month_medium_january">Jan</string>
     <string name="month_medium_february">Feb</string>
     <string name="month_medium_march">Mar</string>
@@ -343,6 +343,7 @@
     <string name="event_info_organizer">Pnylenggara:</string>
     <string name="search_title">Telusuri kalender saya</string>
     <string name="edit_label">Ubah</string>
+    <string name="delete_label">Hapus</string>
     <string name="save_label">Selesai</string>
     <string name="snooze_all_label">Tunda semua</string>
     <string name="dismiss_all_label">Tutup semua</string>

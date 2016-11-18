@@ -81,6 +81,9 @@
         <item>0</item>
         <item>2</item>
     </string-array>
+    <string-array name="long_add_menu">
+        <item>Tambah ke pengecualian</item>
+    </string-array>
     <string-array name="power_dialog_auto_clean_memory_items">
         <item>Setelah 1 menit</item>
         <item>Setelah 5 menit</item>

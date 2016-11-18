@@ -4,7 +4,7 @@
     <string name="fw_blocked">Daftar blokir</string>
     <string name="fw_blocked_count">"Diblokir "</string>
     <string name="fw_blocked_join">" dan "</string>
-    <string name="tab_title">AntiSpam</string>
+    <string name="tab_title">Daftar blokir</string>
     <string name="tab_block_log">Log blokir</string>
     <string name="tab_blacklist">Daftar blokir</string>
     <string name="tab_sms">SMS</string>
@@ -254,8 +254,10 @@
     <string name="st_antispam_title_null_incoming">Nomor pribadi</string>
     <string name="st_antispam_title_service_sms">Notifikasi layanan</string>
     <string name="st_summary_keywords_blacklist">Tambah kata kunci untuk blokir pesan</string>
-    <string name="st_summary_blacklist_numbers">Blokir panggilan dan pesan dengan nomor dan kode area</string>
+    <string name="st_summary_blacklist_numbers">Blokir panggilan dan pesan dari nomor dan area tertentu</string>
     <string name="st_summary_whitelist_numbers">Izinkan panggilan dan pesan dari nomor dan area tertentu</string>
+    <string name="st_summary_blacklist_numbers_international">Blokir panggilan dan pesan dari nomor dan area tertentu</string>
+    <string name="st_summary_whitelist_numbers_international">Izinkan panggilan dan pesan dari nomor dan area tertentu</string>
     <string name="st_summary_special_numbers">Blokir nomor telepon yang ditandai</string>
     <string name="st_antispam_mode_smart_sum">Blokir nomor yang Anda tambahkan secara manual dan nomor yang dilaporkan oleh pengguna lain</string>
     <string name="st_antispam_mode_blacklist_sum">Blokir panggilan dan SMS dari nomor yang Anda tambahkan secara manual ke daftar blokir</string>

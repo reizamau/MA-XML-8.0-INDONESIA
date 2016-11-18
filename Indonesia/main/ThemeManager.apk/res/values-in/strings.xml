@@ -97,8 +97,8 @@
     <string name="resource_purchase_waiting_payment">Menunggu info pembayaran…</string>
     <string name="resource_purchase_verifying_payment">Memverifikasi info pembayaran…</string>
     <string name="resource_purchase_continue_to_pay">Lanjut bayar %s</string>
-    <string name="resource_purchase_vip_pay_failed">Tidak dapat bayar dengan VIP.</string>
-    <string name="resource_purchase_common_error">Tidak dapat memproses, coba lagi nanti.</string>
+    <string name="resource_purchase_vip_pay_failed">"Couldn't pay for VIP"</string>
+    <string name="resource_purchase_common_error">An error occurred, try again</string>
     <string name="resource_download_trial">Coba gratis</string>
     <string name="resource_apply_trial">Coba sekarang</string>
     <string name="resource_on_trial">Mencoba: %1$s</string>
@@ -369,7 +369,7 @@
     <string name="theme_applying">Menerapkan…</string>
     <string name="provision_loading_tips">Tunggu sebentar…</string>
     <string name="provision_title">Pilih tema</string>
-    <string name="provision_second_title">Pilih salah satu dari 5 tema bawaan</string>
+    <string name="provision_second_title">Select one of the several default themes</string>
     <string name="provision_default_theme_title">Bawaan</string>
     <string name="theme_precast_create_notification_title">Diperbarui menjadi MIUI 7</string>
     <string name="theme_precast_create_notification_content">Ketuk untuk lihat tema baru.</string>
@@ -397,4 +397,8 @@
     <string name="incompatible_dialog_title">Masalah kompatibel</string>
     <string name="incompatible_dialog_message">Tema ini tidak kompatibel dengan MIUI 8. Beberapa elemen tidak dapat tampil dengan benar.</string>
     <string name="incompatible_dialog_ok">Mengerti</string>
+    <string name="multi_sim_ringtone_settings_dialog_title">Compatibility issues</string>
+    <string name="multi_sim_ringtone_settings_dialog_message">The ringtone is applied to the SIM card 1 and the SIM card 2 at the same time.</string>
+    <string name="multi_sim_ringtone_settings_dialog_remind_never">Jangan tampil lagi</string>
+    <string name="multi_sim_ringtone_settings_dialog_ok">Mengerti</string>
 </resources>

@@ -45,6 +45,18 @@
     <plurals name="app_check_title_text">
         <item quantity="other">%d item dapat dioptimalkan</item>
     </plurals>
+    <plurals name="people">
+        <item quantity="other">%1$d orang mengunduh</item>
+    </plurals>
+    <plurals name="people_million">
+        <item quantity="other">%1$d orang mengunduh</item>
+    </plurals>
+    <plurals name="million">
+        <item quantity="other">%1$d orang mengunduh</item>
+    </plurals>
+    <plurals name="view_num">
+        <item quantity="other">%1$d penonton</item>
+    </plurals>
     <plurals name="system_check_content">
         <item quantity="other">%1$d item aman</item>
     </plurals>
@@ -71,6 +83,18 @@
     </plurals>
     <plurals name="summary_app_update">
         <item quantity="other">Pembaruan tersedia utk %d apl.</item>
+    </plurals>
+    <plurals name="hints_handle_item_text_risk_number">
+        <item quantity="other">%d risks,</item>
+    </plurals>
+    <plurals name="hints_handle_item_text_virus_number">
+        <item quantity="other">%d trojans,</item>
+    </plurals>
+    <plurals name="hints_scan_result_virus_number">
+        <item quantity="other">%d risks</item>
+    </plurals>
+    <plurals name="hints_scan_result_danger">
+        <item quantity="other">%d​ risks found, fix now</item>
     </plurals>
     <plurals name="notification_apps">
         <item quantity="other">%d apl mengandung risiko privasi</item>
@@ -104,6 +128,9 @@
     </plurals>
     <plurals name="found_apps_title">
         <item quantity="other">%d apl ditemukan</item>
+    </plurals>
+    <plurals name="sp_settings_exception_count">
+        <item quantity="other">%d items</item>
     </plurals>
     <plurals name="sp_back_title_text">
         <item quantity="other">%s risiko pembayaran</item>

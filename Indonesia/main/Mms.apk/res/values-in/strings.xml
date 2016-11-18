@@ -483,7 +483,7 @@ Upaya dibuat: %s."</string>
     <string name="sp_conversation_title">Notifikasi</string>
     <string name="pref_smart_messages_settings">Pesan pintar</string>
     <string name="title_show_sms_template">Periksa SMS untuk kode verifikasi</string>
-    <string name="pref_show_sms_template_summary">Turn on to use the smart features of Mi Message, such as copying codes, checking balance, etc.</string>
+    <string name="pref_show_sms_template_summary">Hidupkan agar dapat menggunakan fitur pintar Mi Message, seperti salin kode, periksa saldo pulsa, dll.</string>
     <string name="title_show_sms_template_in">Periksa SMS untuk OTP</string>
     <string name="pref_show_sms_template_in_summary">Secara otomatis mendeteksi sandi sekali pakai dalam SMS</string>
     <string name="title_allow_network_access">Otomatis perbarui info</string>
@@ -571,11 +571,11 @@ Upaya dibuat: %s."</string>
     <string name="guild_msim_switcher">Sentuh untuk beralih kartu SIM</string>
     <string name="sdcard_has_not_enough_space">Tak ada cukup ruang di kartu SD</string>
     <string name="snippet_audio">[audio]</string>
-    <string name="snippet_picture">[picture]</string>
+    <string name="snippet_picture">[Gambar]</string>
     <string name="audio_download_failed">Tidak dapat unduh audio</string>
-    <string name="audio_message_expired">This voice message has expired.</string>
-    <string name="audio_message_mx_offline">"Couldn't download audio. Mi Message is offline or isn't available."</string>
-    <string name="audio_sim_card_mismatching">No network connection or wrong SIM card is installed. Install the SIM card from which the message was sent and connect to the network.</string>
+    <string name="audio_message_expired">Pesan suara telah kedaluwarsa.</string>
+    <string name="audio_message_mx_offline">Tidak dapat unduh audio. Mi Message offline atau tidak tersedia.</string>
+    <string name="audio_sim_card_mismatching">Tak ada koneksi jaringan atau kartu SIM terpasang salah. Pasang kartu SIM dari pesan yang dikirim dan hubungkan ke jaringan.</string>
     <string name="hms_uri_param_err">URL tidak boleh kosong</string>
     <string name="pref_title_sms_validity_period">Masa kedaluwarsa SMS</string>
     <string name="pref_title_mms_validity_period">Masa kedaluwarsa MMS</string>
@@ -664,10 +664,11 @@ Upaya dibuat: %s."</string>
     <string name="pref_summary_delivery_ringtone">Terima notifikasi suara saat berhasil mengirim pesan.</string>
     <string name="privacy_password_set_password">Setel</string>
     <string name="privacy_password_title1">Setel sandi</string>
-    <string name="privacy_password_message1">Privacy protection password works for photos, notes, and hidden folders.</string>
+    <string name="privacy_password_message1">Sandi perlindungan privasi berguna untuk foto, catatn, dan folder tersembunyi.</string>
     <string name="privacy_password_title2">Gunakan Sandi perlindungan privasi</string>
-    <string name="privacy_password_message2">Use Privacy protection password. It works for photos, notes and hidden folders.</string>
+    <string name="privacy_password_message2">Menggunakan Sandi perlindungan privasi. Sandi ini dipakai di foto, catatan, dan folder tersembunyi.</string>
     <string name="privacy_password_title3">Perbarui sandi</string>
-    <string name="privacy_password_message3">Messaging password will be replaced with Privacy protection password which works for photos, notes, and hidden folders.</string>
+    <string name="privacy_password_message3">Sandi Pesan akan diganti dengan Sandi perlindungan privasi yang dipakai untuk foto, catatan, dan folder tersembunyi.</string>
     <string name="privacy_password_title4">Sandi telah diperbarui</string>
+    <string name="from_pkg_name">Dari apl:</string>
 </resources>

@@ -153,20 +153,13 @@ Untuk mengaktivasi akun, klik tautan
     <string name="passport_copy_message_vcode">Salin kode</string>
     <string name="passport_message_dialog_title">SMS dengan kode verifikasi</string>
     <string name="passport_trust_device">Tambah perangkat ini ke perangkat terverifikasi</string>
+    <string name="passport_barcode_add_account_prompt">To connect an account, scan the QR code again after you sign in.</string>
     <string name="app_name">Akun Mi</string>
     <string name="account">Akun</string>
     <string name="logout_failed">Tidak dapat keluar</string>
-    <string name="turning_off_find_device">Mematikan Cari perangkat…</string>
     <string name="turn_off_find_device_failed_title">Tidak dapat mematikan Cari perangkat</string>
     <string name="no_response_retry">Tak ada respons, harap coba lagi.</string>
-    <string name="alert_title_remove_account">Hapus akun?</string>
-    <string name="remove_account_notice">Apa yang Anda ingin lakukan dengan pesan, kontak, dan data lain yang telah disinkronkan dari Akun Mi Anda?</string>
-    <string name="data_keep_in_device">Simpan di perangkat ini</string>
-    <string name="data_wipe_from_device">Hapus dari perangkat ini</string>
     <string name="removing_account">Keluar…</string>
-    <string name="wipe_data_dialog_title">Beberapa item belum disinkronkan</string>
-    <string name="wipe_data_dialog_msg">%s akan dihapus jika Anda lanjutkan.</string>
-    <string name="wipe_data_dialog_msg_separator">, </string>
     <string name="delete_bank_card_title">Menghapus kartu bank Anda</string>
     <string name="delete_bank_card_message">Kartu bank Anda akan terhapus dikarenakan alasan keamanan setelah Anda keluar</string>
     <string name="bind_settings">Akun</string>
@@ -300,7 +293,6 @@ Pastikan Anda ingat jawaban dari pertanyaan tersebut."</string>
     <string name="micloud_space_info">%s tersedia</string>
     <string name="loading_micloud_sync_data">Tunggu sebentar…</string>
     <string name="activity_not_found_notice">Tidak dapat menemukan aplikasi</string>
-    <string name="barcode_add_account_prompt">Untuk menghubungkan akun, pindai kode QR lagi setelah Anda masuk.</string>
     <string name="scan_barcode_title">Untuk masuk ke Akun Mi Anda, pindai kode QR</string>
     <string name="authorize_title">Otorisasi</string>
     <string name="my_device_title">Perangkat ini</string>
@@ -329,7 +321,6 @@ Pastikan Anda ingat jawaban dari pertanyaan tersebut."</string>
     <string name="device_name">Nama perangkat</string>
     <string name="cta_declaration_title">Syarat dan Ketentuan</string>
     <string name="cta_declaration_message">Untuk masuk ke Akun Mi, Anda perlu terhubung ke internet. Layanan lokasi dan sinkron dengan Mi Cloud akan dihidupkan. Untuk pencadangan data, apl ini perlu akses kontak, pesan, riwayat panggilan, dan rekaman. Kami tidak akan menggunakan data ini untuk tujuan komersial atau berbagi dengan pihak ketiga. Setelah masuk Akun Mi, Mi VIP dan layanan Mi akan terhubung ke internet.</string>
-    <string name="cta_declaration_ignore">Jangan tampil lagi</string>
     <string name="cta_declaration_agree_and_continue">Setuju</string>
     <string name="cta_declaration_exit">Keluar</string>
     <string name="find_device_access_denied">Tak dapat peroleh status, akses ditolak</string>
@@ -377,7 +368,15 @@ Pastikan Anda ingat jawaban dari pertanyaan tersebut."</string>
 · Jika Anda lupa sandi, pergi ke id.mi.com untuk setel ulang.
 · Jika Anda tidak dapat buka kunci perangkat, pergi ke i.mi.com untuk matikan Cari perangkat.
 · Beritahu nomor buka kunci ini ke Layanan Pelanggan: %s"</string>
-    <string name="photoPickerNotFoundText">Tak ada foto yang tersedia.</string>
+    <string name="io_error_title">Konfirmasi jaringan Anda</string>
+    <string name="find_device_display_id">Nomor buka kunci: %s</string>
     <string name="login_check_find_device_failed_title">Tidak dapat memeriksa status Cari perangkat</string>
     <string name="login_find_device_bind">Perangkat ini tertaut dengan ID Akun Mi yang sudah ada (%s), masukkan sandi untuk verifikasi perangkat.</string>
+    <string name="miui_provision_find_status_text">"Perangkat ini tertaut dengan Akun Mi (%1$s), masukkan sandi untuk verifikasi perangkat.
+(Nomor buka kunci: %2$s)"</string>
+    <string name="photoPickerNotFoundText">Tak ada foto yang tersedia.</string>
+    <string name="oauth_title">Masuk dengan Akun Mi</string>
+    <string name="oauth_getting_scopes">Memverifikasi akun…</string>
+    <string name="oauth_get_scopes_failed">Tidak dapat peroleh info akun</string>
+    <string name="oauth_scopes_intro">&lt;font color=#%1$s>%2$s&lt;/font> akan peroleh perizinan berikut ini:&lt;br> &lt;br> %3$s</string>
 </resources>

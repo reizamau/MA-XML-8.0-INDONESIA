@@ -85,10 +85,16 @@
         <item quantity="other">Sinkron mati. %1$d item menunggu untuk dicadangkan</item>
     </plurals>
     <plurals name="cloud_space_full">
-        <item quantity="other">Mi Cloud penuh. %1$d item menunggu untuk dicadangkan</item>
+        <item quantity="other">Tidak dapat cadangkan %1$d item</item>
     </plurals>
     <plurals name="local_space_full">
         <item quantity="other">Ruang lokal tidak mencukupi. %1$d item menunggu untuk dicadangkan</item>
+    </plurals>
+    <plurals name="number_of_images_synced">
+        <item quantity="other">%1$d foto</item>
+    </plurals>
+    <plurals name="number_of_videos_synced">
+        <item quantity="other">%1$d video</item>
     </plurals>
     <plurals name="number_of_images_to_upload">
         <item quantity="other">%1$d foto menunggu untuk dicadangkan</item>

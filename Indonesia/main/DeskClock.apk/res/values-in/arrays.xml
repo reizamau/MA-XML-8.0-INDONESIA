@@ -334,7 +334,7 @@
         <item>Alarm setelah %3$s lagi.</item>
         <item>Alarm setelah %1$s dan %3$s lagi.</item>
         <item>Alarm setelah %2$s dan %3$s lagi.</item>
-        <item>Alarm setelah %1$s, %2$s, dan %3$s lagi.</item>
+        <item>Alarm setelah %1$s %2$s dan %3$s lagi.</item>
     </string-array>
     <string-array name="snooze_duration_entries">
         <item>1 menit</item>

@@ -242,7 +242,7 @@ Apl lain dapat akses informasi ini bersama dengan gambar yang tersimpan."</strin
     <string name="face_beauty_intelligent_level_3">Tinggi</string>
     <string name="pref_camera_show_gender_age_title">Umur &amp; jenis kelamin</string>
     <string name="pref_camera_show_gender_age_entry_off">Nonaktif</string>
-    <string name="pref_camera_show_gender_age_entry_on">Tampil umur dan jenis kelamin saat Percantik hidup</string>
+    <string name="pref_camera_show_gender_age_entry_on">Tampil umur &amp; jenis kelamin saat Percantik hidup</string>
     <string name="pref_camera_show_gender_age_entry_alias">Tampil umur saat Percantik hidup</string>
     <string name="face_beauty_age_alias_male_0_7">Pria 0-7</string>
     <string name="face_beauty_age_alias_male_8_17">Pria 8-17</string>
@@ -321,8 +321,8 @@ Apl lain dapat akses informasi ini bersama dengan gambar yang tersimpan."</strin
     <string name="camera_snap_mode_title">Mode Ambil gambar cepat</string>
     <string name="camera_snap_mode_title_detail">Ketuk untuk lihat rincian</string>
     <string name="pref_camera_snap_enable_title">Mode Ambil gambar cepat</string>
-    <string name="pref_camera_snap_entry_take_picture">Saat layar mati, tekan &amp; tahan tombol Volume Turun untuk mulai mengambil foto beruntun. Lepas untuk menghentikan.</string>
-    <string name="pref_camera_snap_entry_take_movie">Saat layar mati, tekan &amp; tahan tombol Volume turun untuk mulai merekam video. Lepas untuk menghentikan.</string>
+    <string name="pref_camera_snap_entry_take_picture">Tekan lama tombol Volume turun utk foto beruntun. Lepas utk hentikan.</string>
+    <string name="pref_camera_snap_entry_take_movie">Tekan lama Volume turun untuk rekam video. Lepas untuk hentikan.</string>
     <string name="pref_camera_snap_entry_off">Mati</string>
     <string name="pref_camera_snap_toast_when_volume_can_wake_screen">Tak bisa pakai mode Ambil gambar cepat saat \"Bangunkan dengan tombol Volume\" dihidupkan.</string>
     <string name="pref_camera_tilt_shift_title">Tilt-shift</string>
@@ -363,13 +363,13 @@ Jarak objek tidak boleh lebih dari 2 meter."</string>
     <string name="simple_mode_button_text_groupshot">Turn off GroupShot</string>
     <string name="pref_groupshot_with_primitive_title">Save primitive picture in groupshot mode</string>
     <string name="pref_camera_mono_mode_title">Mono</string>
-    <string name="simple_mode_button_text_mono">Turn off Mono</string>
-    <string name="title_snap_double_confirm">Please confirm again</string>
+    <string name="simple_mode_button_text_mono">Matikan Mono</string>
+    <string name="title_snap_double_confirm">Konfirmasi lagi</string>
     <string name="message_snap_double_confirm">Current Long press the volume key is NFC mode, confirm the replacement?</string>
-    <string name="snap_confirmed">Confirm</string>
-    <string name="snap_cancel">Cancel</string>
+    <string name="snap_confirmed">Konfirmasi</string>
+    <string name="snap_cancel">Batal</string>
     <string name="pref_camera_raw_title">RAW</string>
-    <string name="simple_mode_button_text_raw">Turn off RAW</string>
-    <string name="toast_saving">Saving photos…</string>
+    <string name="simple_mode_button_text_raw">Matikan RAW</string>
+    <string name="toast_saving">Menyimpan foto…</string>
     <string name="cannot_connect_camera_volte_call">Panggilan video sedang berlangsung, coba lagi nanti.</string>
 </resources>

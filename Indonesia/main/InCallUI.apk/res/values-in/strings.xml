@@ -85,6 +85,8 @@
     <string name="notification_action_answer_voice">Suara</string>
     <string name="notification_action_dismiss">Tutup</string>
     <string name="notification_action_end_call">Tutup</string>
+    <string name="notification_action_speaker">Speaker</string>
+    <string name="notification_action_earpiece">Earpiece</string>
     <string name="notification_requesting_video_call">Permintaan panggilan video</string>
     <string name="add_vm_number_str">Tambah nomor</string>
     <string name="no_vm_number">Nomor pesan suara hilang</string>
@@ -101,10 +103,10 @@
     <string name="description_image_button_star">bintang</string>
     <string name="description_image_button_zero">nol</string>
     <string name="description_image_button_pound">pagar</string>
-    <string name="description_image_button_answer">Answer</string>
-    <string name="description_image_button_video_answer">Video call</string>
-    <string name="description_image_button_reject">Decline</string>
-    <string name="description_image_button_message_enter">Reply with message</string>
+    <string name="description_image_button_answer">Jawab</string>
+    <string name="description_image_button_video_answer">Panggilan video</string>
+    <string name="description_image_button_reject">Tolak</string>
+    <string name="description_image_button_message_enter">Balas dengan pesan</string>
     <string name="description_image_button_message_exit">Sembunyikan pesan</string>
     <string name="description_image_button_hangup">Akhiri</string>
     <string name="description_image_button_dialpad">Papan panggilan</string>
@@ -140,7 +142,7 @@
     <string name="antispam_local_marked">Ditandai secara lokal</string>
     <string name="antispam_provider">Diidentifikasi oleh %s</string>
     <string name="antispam_notification_title">Nomor tak dikenal</string>
-    <string name="suspect_info">Hati-hati: Selalu verifikasi identitas kontak dulu via telepon atau video sebelum menanggapi pesan yang berhubungan dengan informasi pribadi Anda.</string>
+    <string name="suspect_info">Hati-hati dengan info pribadi Anda.</string>
     <string name="fraud_call_answer">Jawab</string>
     <string name="fraud_call_decline">Tolak</string>
     <string name="fraud_call_waring">Hati-hati: Selalu verifikasi identitas kontak dulu via telepon atau video sebelum menanggapi pesan yang berhubungan dengan informasi pribadi Anda.</string>
@@ -215,7 +217,7 @@
     <string name="alert_dialog_yes">Ya</string>
     <string name="alert_dialog_no">Tidak</string>
     <string name="alert_dialog_dismiss">Tutup</string>
-    <string name="contactPhoto">Contact photo</string>
+    <string name="contactPhoto">Foto kontak</string>
     <string name="call_self">Tidak dapat panggil nomor sendiri</string>
     <string name="dial_with_gsm_phone">Panggilan biasa</string>
     <string name="purchase_now">Top up</string>

@@ -6,6 +6,14 @@
     <string name="sina_token_expired_warning">Akun Weibo kedaluwarsa: Harap tautkan kembali</string>
     <string name="sina_token_invalid_warning">Akun Weibo tidak valid: Harap tautkan kembali</string>
     <string name="sina_share_fail_content_repeat">Tidak dapat berbagi, isi sudah ada…</string>
+    <string name="search_finddevice_pref">Cari perangkat</string>
+    <string name="search_finddevice_pref_key_words">Cari perangkat;temukan perangkat</string>
+    <string name="search_finddevice_pref_desc">Hidupkan/matikan Cari perangkat</string>
+    <string name="search_finddevice_pref_path">Mi Account/Mi Cloud/FIND DEVICE</string>
+    <string name="search_cloudbackup_pref">Cadangan Cloud</string>
+    <string name="search_cloudbackup_pref_key_words">pencadangan cloud; cadangan cloud</string>
+    <string name="search_cloudbackup_pref_desc">Hidupkan/matikan Pencadangan Cloud</string>
+    <string name="search_cloudbackup_pref_path">Mi Account/Mi Cloud/BACKUP AND RESTORE</string>
     <string name="app_name">Mi Cloud</string>
     <string name="sync_item_sms_title">Sinkron pesan</string>
     <string name="sync_item_sms_summary">Sinkron SMS yang terkirim dan diterima pada telepon ini</string>
@@ -139,9 +147,9 @@ Jika Anda ganti kartu SIM, SMS aktivasi ulang fitur ini akan otomatis dikirim."<
     <string name="noRemind">Jgn ingatkan saya</string>
     <string name="restoreSync">Sinkron sekarang</string>
     <string name="enableAll">Sinkron semua</string>
-    <string name="master_alert_notif_dspt_add">Berkas menunggu utk disinkron: %s</string>
+    <string name="master_alert_notif_dspt_add">Belum disinkron: %s berkas</string>
     <string name="master_alert_notif_dspt_no">Tersinkron</string>
-    <string name="sub_alert_notif_dspt_add">Berkas menunggu utk disinkron: %s</string>
+    <string name="sub_alert_notif_dspt_add">Belum disinkron: %s berkas</string>
     <string name="sub_alert_notif_dspt_no">Tersinkron</string>
     <string name="cloudservice_new_sync">Sinkron %s dengan Mi Cloud</string>
     <string name="click_to_enabled">Sentuh untuk sinkron.</string>
@@ -229,7 +237,6 @@ Untuk memperbaikinya, Anda dapat membersihkan beberapa berkas lama untuk membuat
     <string name="micloud_main_message_not_synced">%s data tidak tersinkron</string>
     <string name="micloud_main_suggest_setting">Ganti setelan atau hubungan ke Wi-Fi</string>
     <string name="micloud_main_sync_pending">Tunggu untuk sinkron</string>
-    <string name="micloud_main_data_unsynced">Berkas menunggu utk disinkron: %d</string>
     <string name="micloud_main_detail">Lihat rincian</string>
     <string name="micloud_main_network_abnormal">Tidak dapat terhubung ke jaringan</string>
     <string name="micloud_main_sync_init">Memperoleh info</string>
@@ -238,7 +245,7 @@ Untuk memperbaikinya, Anda dapat membersihkan beberapa berkas lama untuk membuat
     <string name="micloud_main_syncing">Menyinkron…</string>
     <string name="micloud_main_last_sync_time">Sinkron terakhir %s</string>
     <string name="micloud_main_synced_data_count">%d item tersinkron</string>
-    <string name="micloud_main_wlan_sync_data_count">Berkas menunggu utk disinkron: %d</string>
+    <string name="micloud_main_wlan_sync_data_count">Belum disinkron: %d berkas</string>
     <string name="micloud_main_space_full">Penyimpanan cloud penuh</string>
     <string name="micloud_main_space_low">Ruang hampir penuh</string>
     <string name="micloud_main_update_space">Beli ruang.</string>
@@ -248,7 +255,6 @@ Untuk memperbaikinya, Anda dapat membersihkan beberapa berkas lama untuk membuat
     <string name="micloud_main_clear_now">Hapus</string>
     <string name="micloud_main_query_error_title">Tak dapat peroleh info perkembangan sinkron</string>
     <string name="micloud_main_query_error_message">Tak dpt konfirmasi apakah sinkron sudah selesai utk beberapa layanan</string>
-    <string name="micloud_main_not_sync">Berkas menunggu utk disinkron: %d</string>
     <string name="micloud_main_multi_user_error_title">Mi Cloud bermasalah</string>
     <string name="micloud_main_multi_user_error_message">"Anda masuk dengan akun yang sama di Ruang pertama, yang mengakibatkan Mi Cloud bermasalah. Jika Anda ingin mencadangkan berkas:
 
@@ -265,8 +271,6 @@ Untuk memperbaikinya, Anda dapat membersihkan beberapa berkas lama untuk membuat
     <string name="micloud_detail_not_synced">Tidak tersinkron</string>
     <string name="micloud_detail_preference_sync_items">Item</string>
     <string name="micloud_detail_wlan">%d menunggu untuk sinkron</string>
-    <string name="micloud_detail_wlan_contact">Foto kontak menunggu utk disinkron: %d</string>
-    <string name="micloud_detail_wlan_mms">%d MMS menunggu untuk sinkron</string>
     <string name="micloud_detail_query_error">Tak dapat peroleh info perkembangan sinkron</string>
     <string name="micloud_detail_query_error_title">Tak dapat peroleh info perkembangan sinkron</string>
     <string name="micloud_detail_query_error_detail">Tak dapat memastikan apakah sinkron telah selesai utk beberapa layanan. Anda dapat kontak pengembang melalui aplikasi Masukan.</string>
@@ -414,13 +418,12 @@ Pencadangan terakhir %2$s"</string>
     <string name="micloud_battery_low_notification_title">Baterai lemah</string>
     <string name="micloud_battery_low_notification_message">Isi daya untuk sinkron</string>
     <string name="micloud_upgrade_member">Beli ruang</string>
-    <string name="micloud_notif_title_depend_wifi">Berkas menunggu utk disinkron: %d</string>
     <string name="micloud_notif_content_depend_wifi">Hubung ke Wi-Fi untuk sinkron.</string>
-    <string name="micloud_notif_title_master_depend_wifi">Tidak dapat sinkron dengan Mi Cloud</string>
+    <string name="micloud_notif_title_master_depend_wifi">Tidak bisa sinkron dengan Mi Cloud</string>
     <string name="micloud_notif_content_master_depend_wifi">Hubungkan ke Wi-Fi dulu.</string>
-    <string name="micloud_notif_title_memory_low">Tidak dapat sinkron dengan Mi Cloud</string>
+    <string name="micloud_notif_title_memory_low">Tidak bisa sinkron dengan Mi Cloud</string>
     <string name="micloud_notif_content_memory_low">Ruang penyimpanan tidak cukup.</string>
-    <string name="micloud_notif_title_battery_low">Tidak dapat sinkron dengan Mi Cloud</string>
+    <string name="micloud_notif_title_battery_low">Tidak bisa sinkron dengan Mi Cloud</string>
     <string name="micloud_notif_content_battery_low">Baterai terlalu lemah.</string>
     <string name="micloud_notif_title_sync_with_off">Sinkron dengan Mi Cloud</string>
     <string name="micloud_notif_content_sync_with_off">Ketuk untuk sinkron perangkat sekarang.</string>
@@ -431,7 +434,7 @@ Pencadangan terakhir %2$s"</string>
     <string name="micloud_notif_content_sync_not_finish">Rincian</string>
     <string name="micloud_notif_title_clipboard_push">Konten disalin ke papan klip</string>
     <string name="micloud_notif_content_clipboard_push">Anda dapat tempel di mana saja.</string>
-    <string name="micloud_notif_title_multi_user_error">Tidak dapat sinkron dengan Mi Cloud</string>
+    <string name="micloud_notif_title_multi_user_error">Tidak bisa sinkron dengan Mi Cloud</string>
     <string name="micloud_notif_content_multi_user_error">Anda masuk dengan akun yang sama di Ruang pertama.</string>
     <string name="micloud_find_device_guide_title">"Masuk ke %s untuk menemukan, kunci,
 atau hapus perangkat Anda."</string>
@@ -474,25 +477,31 @@ untuk aktivasi ulang fitur ini."</string>
     <string name="add_short_cut">Tambah</string>
     <string name="added_successfully">Berhasil ditambahkan</string>
     <string name="find_device_service_title">Cari perangkat</string>
-    <string name="find_device_service_summary">Visit i.mi.com to locate your device and lock it remotely</string>
-    <string name="find_device_service_summary_international">Visit i.mi.com to locate your device and lock it remotely</string>
+    <string name="find_device_service_summary">Kunjungi i.mi.com untuk mencari lokasi perangkat dan menguncinya dari jauh</string>
+    <string name="find_device_service_summary_international">Kunjungi i.mi.com untuk mencari lokasi perangkat dan menguncinya dari jauh</string>
     <string name="virtual_sim_desc">Hidupkan Mi SIM untuk mencari perangkat tanpa kartu SIM</string>
     <string name="add_cloud_storage">Tambah ruang</string>
     <string name="other_sync_item">Item tersinkron lainnya</string>
-    <string name="network_unconnected">Tidak terhubung ke jaringan</string>
+    <string name="network_unconnected">Tidak dapat terhubung ke jaringan</string>
     <string name="cloud_storage_full">Penyimpanan cloud penuh</string>
     <string name="micloud_sync_off">Sinkron dengan Mi Cloud mati</string>
     <string name="open_micloud_sync">Hidupkan Sinkron dengan Mi Cloud</string>
     <string name="sync_item_title">Menyinkron item</string>
     <string name="member_due_date">Berlaku sampai %s</string>
     <string name="due_date_format">dd/MM/yyyy</string>
-    <string name="all_sync_item_open">Semua item sinkron hidup</string>
-    <string name="one_sync_item_close">%d dimatikan</string>
-    <string name="some_sync_item_close">%d dimatikan</string>
+    <string name="all_sync_item_open">Sinkron hidup utk semuanya</string>
     <string name="recommend_open_all_sync">Sinkron semua item</string>
     <string name="passed_synced_time_sec">Tersinkron %d dtk yang lalu</string>
     <string name="passed_synced_time_min">Tersinkron %d mnt yang lalu</string>
     <string name="passed_synced_time_hour">Tersinkron %1$dj %2$dm yang lalu</string>
     <string name="passed_synced_time_day">Tersinkron %dh yang lalu</string>
     <string name="cloud_storage_is_full">Penuh</string>
+    <string name="micloud_wipe_data_confirm_label">Hapus data dari Mi Cloud</string>
+    <string name="micloud_wipe_data_confirm_title">Hapus item yang disinkron dengan Mi Cloud dari telepon setelah anda keluar?</string>
+    <string name="micloud_wipe_data_retain">Tinggalkan</string>
+    <string name="micloud_wipe_data_remove">Hapus</string>
+    <string name="wipe_data_dialog_title">Beberapa item belum disinkron</string>
+    <string name="wipe_data_dialog_msg">%s tidak disinkronkan dan akan tetap di telepon Anda.</string>
+    <string name="wipe_data_dialog_button_check_sync">Periksa jika disinkronkan</string>
+    <string name="wipe_data_dialog_msg_and_on">, dan beberapa item lainnya</string>
 </resources>
