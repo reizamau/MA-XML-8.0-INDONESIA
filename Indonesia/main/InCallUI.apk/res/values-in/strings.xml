@@ -35,6 +35,7 @@
     <string name="incall_error_supp_service_conference">Tidak dapat memakai panggilan konferensi.</string>
     <string name="incall_error_supp_service_reject">Tidak dapat menolak panggilan.</string>
     <string name="incall_error_supp_service_hangup">Tidak dapat menutup panggilan.</string>
+    <string name="incall_error_supp_service_hold">"Can't hold calls."</string>
     <string name="onscreen_add_call_text">Tambah panggil</string>
     <string name="onscreen_audio_mode_bluetooth">Bluetooth</string>
     <string name="onscreen_audio_mode_conference">Konferensi</string>
@@ -86,7 +87,7 @@
     <string name="notification_action_dismiss">Tutup</string>
     <string name="notification_action_end_call">Tutup</string>
     <string name="notification_action_speaker">Speaker</string>
-    <string name="notification_action_earpiece">Earpiece</string>
+    <string name="notification_action_earpiece">Earphone</string>
     <string name="notification_requesting_video_call">Permintaan panggilan video</string>
     <string name="add_vm_number_str">Tambah nomor</string>
     <string name="no_vm_number">Nomor pesan suara hilang</string>
@@ -203,7 +204,7 @@
     <string name="incoming_answer_voice_text">Jawab suara</string>
     <string name="picking_participant">Memperoleh info kontak…</string>
     <string name="conference_caller_info_name">Panggilan konferensi %1$s</string>
-    <string name="conference_callers_exceeded">Callers in conference exceeded</string>
+    <string name="conference_callers_exceeded">Jumlah penelepon di konferensi melampaui batas</string>
     <string name="do_not_support_video_calls_by_remote">Panggilan video tidak didukung di perangkat lain</string>
     <string name="call_button_tools_text">Fitur</string>
     <string name="call_button_dialer_text">Keyboard</string>

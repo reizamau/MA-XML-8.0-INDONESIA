@@ -26,7 +26,7 @@
     <string name="activate_status_desc_device_id_error">IMEI tidak valid</string>
     <string name="activate_status_desc_request_activation_sms">Meminta SMS aktivasi…</string>
     <string name="activate_status_desc_request_activation_sms_server_error">Server bermasalah saat sedang meminta SMS aktivasi.</string>
-    <string name="activate_status_desc_getting_gateway">Getting SMS gateway…</string>
+    <string name="activate_status_desc_getting_gateway">Mendapatkan SMS gateway…</string>
     <string name="activate_status_desc_failed_getting_gateway">Tidak bisa mendapatkan SMS gateway</string>
     <string name="activate_status_desc_prepare_sending_sms">Mempersiapkan untuk kirim SMS aktivasi…</string>
     <string name="activate_status_desc_sending_sms">Mengirimkan SMS aktivasi…</string>
@@ -41,7 +41,7 @@
     <string name="activate_status_desc_checking_xiaomi_account_server_error">Server bermasalah saat memeriksa Akun Mi</string>
     <string name="activate_status_desc_registering_xiaomi_account">Membuat Akun Mi…</string>
     <string name="activate_status_desc_registering_xiaomi_account_server_error">Server bermasalah saat membuat Akun Mi</string>
-    <string name="activate_status_desc_completed_with_sms_sent">Sent SMS to activate SIM</string>
+    <string name="activate_status_desc_completed_with_sms_sent">Telah dikirim SMS untuk aktivasi SIM</string>
     <string name="sim_unactivated_title">Kartu SIM Anda belum diaktivasi</string>
     <string name="activate">Aktivasi</string>
     <string name="activate_popup_title_manual">Aktivasi %s</string>
@@ -55,7 +55,7 @@
     <string name="activate_popup_title_new_sim_card">Aktivasi ulang %s</string>
     <string name="activate_popup_desc_new_sim_card">Sepertinya Anda telah mengganti kartu SIM. SMS reguler akan dikirim untuk aktivasi %s. Anda akan dikenakan biaya oleh operator.</string>
     <string name="activate_popup_desc_new_intl_sim_card">Sepertinya Anda telah mengganti kartu SIM. SMS internasional akan dikirim untuk aktivasi %s. Anda akan dikenakan biaya oleh operator.</string>
-    <string name="activate_popup_desc_new_mixed_sim_cards">"Looks like you've switched SIM cards. 2 text messages (regular and international) will be sent to activate %s. You will be charged by the carrier."</string>
+    <string name="activate_popup_desc_new_mixed_sim_cards">Sepertinya Anda telah mengganti kartu SIM. 2 SMS (reguler dan internasional) akan dikirim untuk aktivasi %s. Anda akan dikenakan biaya oleh operator.</string>
     <string name="activate_popup_desc_new_2_sim_cards">Sepertinya Anda telah mengganti kartu SIM. Dua SMS reguler akan dikirim untuk aktivasi %s. Anda akan dikenakan biaya oleh operator.</string>
     <string name="activate_popup_desc_new_2_intl_sim_cards">Sepertinya Anda telah mengganti kartu SIM. Dua SMS internasional akan dikirim untuk aktivasi %s. Anda akan dikenakan biaya oleh operator.</string>
     <string name="activate_popup_desc_new_sim_card_downlink">Sepertinya Anda telah mengganti kartu SIM. Masukkan nomor telepon saat ini untuk aktivasi %s.</string>
@@ -79,18 +79,18 @@
     <string name="activate_popup_confirm_failed_receive_sms">Coba lagi</string>
     <string name="activate_popup_title_failed_phone_error">Nomor telepon tidak valid</string>
     <string name="activate_popup_desc_failed_phone_error">Nomor telepon yang Anda masukkan tidak valid.</string>
-    <string name="activate_popup_confirm_failed_phone_error">Retry</string>
+    <string name="activate_popup_confirm_failed_phone_error">Coba lagi</string>
     <string name="activate_popup_title_all_gateway_failed_send_sms">Tidak dapat kirim pesan teks</string>
     <string name="activate_popup_desc_all_gateway_failed_send_sms">"Tidak dapat mengirimkan pesan aktivasi. Pastikan kartu SIM telah diaktivasi.
 Masukkan nomor telepon yang tertaut dengan kartu SIM baru Anda untuk aktivasi ulang %s"</string>
-    <string name="activate_popup_confirm_all_gateway_failed_send_sms">Retry</string>
+    <string name="activate_popup_confirm_all_gateway_failed_send_sms">Coba lagi</string>
     <string name="activate_popup_title_all_gateway_failed_query_info">Tidak dapat menemukan nomor</string>
     <string name="activate_popup_desc_all_gateway_failed_query_info">"Tidak dapat menemukan nomor telepon Anda. Pastikan kartu SIM telah diaktivasi.
 Masukkan nomor telepon yang tertaut dengan kartu SIM baru Anda untuk aktivasi ulang %s"</string>
-    <string name="activate_popup_confirm_all_gateway_failed_query_info">Retry</string>
+    <string name="activate_popup_confirm_all_gateway_failed_query_info">Coba lagi</string>
     <string name="activate_popup_title_error_device_id">IMEI tidak valid</string>
     <string name="activate_popup_desc_error_device_id">Panggil *#06# untuk periksa IMEI</string>
-    <string name="activate_popup_confirm_error_device_id">Retry</string>
+    <string name="activate_popup_confirm_error_device_id">Coba lagi</string>
     <string name="activate_feature_mx">Mi Message</string>
     <string name="activate_feature_mx_and_voip">Mi Message dan Suara</string>
     <string name="activate_feature_mms_sync">Sinkron pesan</string>
@@ -102,9 +102,9 @@ Masukkan nomor telepon yang tertaut dengan kartu SIM baru Anda untuk aktivasi ul
     <string name="activate_feature_remote_assist">Remote assistant</string>
     <string name="activate_feature_default_name">Mi services</string>
     <string name="activate_history_title">Aktivasi kartu SIM</string>
-    <string name="activate_history_overview">Activation for SIM card %1$s. It is triggered by \"%2$s\".</string>
-    <string name="activate_history_multisim_overview">Activation for SIM card %3$d %1$s. It is triggered by \"%2$s\".</string>
-    <string name="activate_history_sms">SMS has been sent during the activation.</string>
+    <string name="activate_history_overview">%1$s mengaktivasi kartu SIM. Dipicu oleh \"%2$s\".</string>
+    <string name="activate_history_multisim_overview">%1$s aktivasi kartu SIM %3$d. Dipicu oleh \"%2$s\".</string>
+    <string name="activate_history_sms">Sebuah SMS dikirim selama aktivasi.</string>
     <string name="activate_history_success">Successful</string>
     <string name="activate_history_cancelled">Canceled</string>
 </resources>

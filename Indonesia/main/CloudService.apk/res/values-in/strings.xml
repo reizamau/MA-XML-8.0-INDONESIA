@@ -9,11 +9,11 @@
     <string name="search_finddevice_pref">Cari perangkat</string>
     <string name="search_finddevice_pref_key_words">Cari perangkat;temukan perangkat</string>
     <string name="search_finddevice_pref_desc">Hidupkan/matikan Cari perangkat</string>
-    <string name="search_finddevice_pref_path">Mi Account/Mi Cloud/FIND DEVICE</string>
+    <string name="search_finddevice_pref_path">Akun Mi/Mi Cloud/Cari perangkat</string>
     <string name="search_cloudbackup_pref">Cadangan Cloud</string>
     <string name="search_cloudbackup_pref_key_words">pencadangan cloud; cadangan cloud</string>
     <string name="search_cloudbackup_pref_desc">Hidupkan/matikan Pencadangan Cloud</string>
-    <string name="search_cloudbackup_pref_path">Mi Account/Mi Cloud/BACKUP AND RESTORE</string>
+    <string name="search_cloudbackup_pref_path">Akun Mi/Mi Cloud/Cadangkan perangkat</string>
     <string name="app_name">Mi Cloud</string>
     <string name="sync_item_sms_title">Sinkron pesan</string>
     <string name="sync_item_sms_summary">Sinkron SMS yang terkirim dan diterima pada telepon ini</string>

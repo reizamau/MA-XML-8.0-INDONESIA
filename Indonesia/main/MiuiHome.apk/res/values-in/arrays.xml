@@ -56,10 +56,11 @@
         <item>Kabut</item>
     </string-array>
     <string-array name="editing_mode_entries">
-        <item>Pindah apl</item>
+        <item>Tema</item>
         <item>Widget</item>
         <item>Wallpaper</item>
         <item>Efek</item>
+        <item>Sel layar</item>
     </string-array>
     <string-array name="quality_business_devices">
         <item>Lithium</item>

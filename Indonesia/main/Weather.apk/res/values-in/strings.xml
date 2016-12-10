@@ -5,7 +5,8 @@
     <string name="location_management">Lokasi</string>
     <string name="gps_hint">Lokasi saat ini</string>
     <string name="add_city">Tambah</string>
-    <string name="edit_city">Ubah</string>
+    <string name="edit_city">Edit city</string>
+    <string name="daily_forecast_detail">Forecast detail</string>
     <string name="network_unavailable">Tidak dapat terhubung ke jaringan</string>
     <string name="act_find_city_hot_title">Tambah</string>
     <string name="act_find_city_hint">Masukkan lokasi</string>
@@ -29,7 +30,7 @@
     <string name="view_indexes_item_today">Hari ini</string>
     <string name="view_indexes_item_tommorrow">Besok</string>
     <string name="activity_main_update_time">Diperbarui %1$s</string>
-    <string name="activity_main_update_time_expire">Data expired</string>
+    <string name="activity_main_update_time_expire">Data kedaluwarsa</string>
     <string name="activity_main_update_time_right_now">baru saja</string>
     <string name="refresh_fail">Tidak dapat terhubung ke jaringan</string>
     <string name="activity_find_city_dialog_cancel">Batal</string>
@@ -54,7 +55,7 @@
     <string name="sunrise">Fajar</string>
     <string name="sunset">Senja</string>
     <string name="daily_forcast_weather_transfer">%1$s. %2$s nanti.</string>
-    <string name="daily_forcast_drawer_on_top">%1$s hari ramalan</string>
+    <string name="daily_forcast_drawer_on_top">Ramalan %1$s hari</string>
     <string name="daily_forcast_drawer_on_bottom">Sembunyi</string>
     <string name="daily_forcast_temperature_connect" />
     <string name="daily_forcast_wind_connect">%2$s %1$s</string>
@@ -124,6 +125,7 @@ Ketuk layar utk tambah atau ubah posisi kota secara manual"</string>
     <string name="video_dialog_subtitle" />
     <string name="video_dialog_no_play" />
     <string name="video_dialog_play" />
+    <string name="lunar_calendar" />
     <string name="ads_extension" />
     <string name="install">Instal</string>
     <string name="open">Buka</string>
@@ -164,4 +166,12 @@ Ketuk layar utk tambah atau ubah posisi kota secara manual"</string>
     <string name="global_aqi">IKU: %1$s %2$s</string>
     <string name="common_loading_text">Tunggu sebentar…</string>
     <string name="change_alert">Periksa koneksi jaringan dan coba lagi</string>
+    <string name="card_vote_item_vs">VS</string>
+    <string name="total_voted_num_text">"&lt;font color='#20a7ff'>%1$s&lt;/font> people has voted"</string>
+    <string name="yes_vote_ratio">pros %1$s%%</string>
+    <string name="yes_vote_num"> | %1$speople</string>
+    <string name="no_vote_ratio">cons %1$s%%</string>
+    <string name="no_vote_num">%1$speople | </string>
+    <string name="already_voted">Has Voted</string>
+    <string name="already_voted_toast">You have already selected today</string>
 </resources>

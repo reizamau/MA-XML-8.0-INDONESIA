@@ -42,6 +42,9 @@
     <plurals name="quick_optimize_issue_count">
         <item quantity="other">%d masalah baterai</item>
     </plurals>
+    <plurals name="quick_optimize_suggest_issue_found">
+        <item quantity="other">Menemukan %d isu baterai, perbaiki segera</item>
+    </plurals>
     <plurals name="app_check_title_text">
         <item quantity="other">%d item dapat dioptimalkan</item>
     </plurals>
@@ -85,16 +88,16 @@
         <item quantity="other">Pembaruan tersedia utk %d apl.</item>
     </plurals>
     <plurals name="hints_handle_item_text_risk_number">
-        <item quantity="other">%d risks,</item>
+        <item quantity="other">%d risiko,</item>
     </plurals>
     <plurals name="hints_handle_item_text_virus_number">
-        <item quantity="other">%d trojans,</item>
+        <item quantity="other">%d trojan,</item>
     </plurals>
     <plurals name="hints_scan_result_virus_number">
-        <item quantity="other">%d risks</item>
+        <item quantity="other">%d risiko</item>
     </plurals>
     <plurals name="hints_scan_result_danger">
-        <item quantity="other">%d​ risks found, fix now</item>
+        <item quantity="other">%d​ risiko ditemukan, perbaiki sekarang</item>
     </plurals>
     <plurals name="notification_apps">
         <item quantity="other">%d apl mengandung risiko privasi</item>

@@ -59,6 +59,8 @@
     <string name="fingerprint_try_again_text">Coba lagi</string>
     <string name="fingerprint_not_identified_title">Masukkan sandi</string>
     <string name="fingerprint_not_identified_msg">Untuk buka kunci perangkat, masukkan sandi.</string>
+    <string name="fingerprint_add_title">Tambah sidik jari</string>
+    <string name="fingerprint_add_text">Antarmuka sidik jari telah diperbarui. Tambahkan sidik jari lagi.</string>
     <string name="invalid_sim_pin_hint">PIN harus terdiri dari 4-8 angka</string>
     <string name="invalid_sim_puk_hint">PUK harus terdiri dari minimal 8 angka</string>
     <string name="input_password_hint_text">Masukkan sandi</string>

@@ -8,7 +8,7 @@
     <string name="close_panel">Matikan Bola pintas</string>
     <string name="customize_entries">Pilih pintasan</string>
     <string name="enable_touch_assistant">Hidupkan Bola pintas</string>
-    <string name="enabled_for_pad_hint">Work when \"Block navigation buttons in landscape\" is turned on</string>
+    <string name="enabled_for_pad_hint">Bekerja saat \"Blokir tombol navigasi saat lanskap\" dihidupkan</string>
     <string name="function_settings">Setelan pintasan</string>
     <string name="hide_touch_assistant">Otomatis sembunyikan</string>
     <string name="hide_touch_assistant_intro">Sembunyikan Bola pintas di apl terpilih.</string>
@@ -18,6 +18,7 @@
     <string name="name_alipay_payment_code">Pembayaran Alipay</string>
     <string name="name_alipay_scan">Pemindai Alipay</string>
     <string name="name_all_mipay_cards">Mi Pay</string>
+    <string name="name_handy_mode">Mode operasi satu tangan</string>
     <string name="name_long_press_power_key">Tekan lama tombol Daya</string>
     <string name="name_memory_clean">Hapus cache</string>
     <string name="name_music_next_song">Lagu berikut</string>
@@ -31,16 +32,16 @@
     <string name="name_quick_search">Cari</string>
     <string name="name_scan_to_pay">Pindai untuk bayar</string>
     <string name="name_screenshot">Screenshot</string>
-    <string name="name_trans_cards">Transport card</string>
+    <string name="name_trans_cards">Kartu transportasi</string>
     <string name="name_wechat_payment_code">Pembayaran WeChat</string>
     <string name="name_wechat_scan">Pemindai WeChat</string>
-    <string name="nfc_all_mipay_card_not_in_use">"Mi Pay isn't activated"</string>
-    <string name="nfc_trans_card_not_in_use">"Transport card isn't activated"</string>
+    <string name="nfc_all_mipay_card_not_in_use">Mi Pay belum teraktivasi</string>
+    <string name="nfc_trans_card_not_in_use">Kartu transportasi belum teraktivasi</string>
     <string name="not_working">%s (Tidak bekerja)</string>
     <string name="open_panel">Hidupkan Bola pintas</string>
     <string name="pay_entry_dialog_title_select">Pilih apl untuk dibuka</string>
     <string name="pay_entry_dialog_title_setting">Setel apl</string>
-    <string name="pref_category_mipay">NFC shortcuts</string>
+    <string name="pref_category_mipay">Pintasan NFC</string>
     <string name="pref_category_others">Lainnya</string>
     <string name="pref_category_quick_pay">Quick pay</string>
     <string name="pref_category_quick_settings">Setelan cepat</string>

@@ -256,8 +256,8 @@
     <string name="st_summary_keywords_blacklist">Tambah kata kunci untuk blokir pesan</string>
     <string name="st_summary_blacklist_numbers">Blokir panggilan dan pesan dari nomor dan area tertentu</string>
     <string name="st_summary_whitelist_numbers">Izinkan panggilan dan pesan dari nomor dan area tertentu</string>
-    <string name="st_summary_blacklist_numbers_international">Blokir panggilan dan pesan dari nomor dan area tertentu</string>
-    <string name="st_summary_whitelist_numbers_international">Izinkan panggilan dan pesan dari nomor dan area tertentu</string>
+    <string name="st_summary_blacklist_numbers_international">Blokir panggilan dan pesan dari nomor tertentu</string>
+    <string name="st_summary_whitelist_numbers_international">Izinkan panggilan dan pesan dari nomor tertentu</string>
     <string name="st_summary_special_numbers">Blokir nomor telepon yang ditandai</string>
     <string name="st_antispam_mode_smart_sum">Blokir nomor yang Anda tambahkan secara manual dan nomor yang dilaporkan oleh pengguna lain</string>
     <string name="st_antispam_mode_blacklist_sum">Blokir panggilan dan SMS dari nomor yang Anda tambahkan secara manual ke daftar blokir</string>

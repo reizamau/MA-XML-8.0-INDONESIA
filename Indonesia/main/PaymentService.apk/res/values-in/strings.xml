@@ -153,5 +153,5 @@ Untuk mengaktivasi akun, klik tautan
     <string name="passport_copy_message_vcode">Salin kode</string>
     <string name="passport_message_dialog_title">SMS dengan kode verifikasi</string>
     <string name="passport_trust_device">Tambah perangkat ini ke perangkat terverifikasi</string>
-    <string name="passport_barcode_add_account_prompt">To connect an account, scan the QR code again after you sign in.</string>
+    <string name="passport_barcode_add_account_prompt">Untuk menghubungkan akun, pindai kode QR lagi setelah Anda masuk.</string>
 </resources>

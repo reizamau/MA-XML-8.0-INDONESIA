@@ -28,7 +28,7 @@
     <string name="registration_status_no_wifi_data">Anda tidak terhubung ke jaringan Wi-Fi</string>
     <string name="registration_status_not_running">Tidak dapat daftar akun</string>
     <string name="registration_status_done">Menerima panggilan.</string>
-    <string name="registration_status_failed_try_later">Tidak dapat daftar akun. %s)</string>
+    <string name="registration_status_failed_try_later">Tidak dapat daftar akun. %s.</string>
     <string name="registration_status_invalid_credentials">Nama pengguna atau sandi salah.</string>
     <string name="registration_status_server_unreachable">Tidak dapat daftar akun. Pastikan nama server yang dimasukkan benar.</string>
     <string name="third_party_account_summary">Akun ini digunakan oleh %s.</string>
@@ -1046,7 +1046,7 @@ Sehingga akan pakai jaringan prioritas."</string>
     <string name="bad_pin">PIN yang Anda masukkan salah.</string>
     <string name="bad_puk">PUK yang Anda masukkan salah.</string>
     <string name="confirm_pin_label">Konfirmasi PIN baru</string>
-    <string name="fdn_summary">Batasi panggilan keluar untuk NPT atau nomor dengan awalan tertentu</string>
+    <string name="fdn_summary">Batasi panggilan keluar hanya untuk NPT atau nomor dengan awalan tertentu</string>
     <string name="invalid_pin">Ketik PIN yang terdiri dari 4 - 8 angka.</string>
     <string name="invalid_puk">Ketik PUK yang terdiri dari 4 - 8 angka.</string>
     <string name="mismatch_pin">PIN yang Anda masukkan tidak cocok.</string>
@@ -1117,7 +1117,7 @@ Kartu SIM Anda akan dihapus setelah 1x upaya gagal lagi."</string>
     <string name="search_telocation_contacts_countrycode">@string/telocation_contacts_countrycode</string>
     <string name="search_telocation_auto_country_code">@string/telocation_auto_country_code</string>
     <string name="search_preference_dial_pad_touch_tone_title">@string/preference_dial_pad_touch_tone_title</string>
-    <string name="search_autoip">@string/autoip</string>
+    <string name="search_autoip_phone">@string/autoip_phone</string>
     <string name="search_missed_call_notify_times_title">@string/missed_call_notify_times_title</string>
     <string name="search_connect_disconnect_vibrate_title">@string/connect_disconnect_vibrate_title</string>
     <string name="search_call_waiting_tone_title">@string/call_waiting_tone_title</string>
@@ -1128,6 +1128,7 @@ Kartu SIM Anda akan dihapus setelah 1x upaya gagal lagi."</string>
     <string name="search_voicemail_settings">@string/voicemail_settings</string>
     <string name="search_dtmf_tones_title">@string/dtmf_tones_title</string>
     <string name="search_t9_indexing_method_title">@string/t9_indexing_method_title</string>
+    <string name="search_auto_retry_mode_title">@string/auto_retry_mode_title</string>
     <string name="path_app_name">Aplikasi sistem/Telepon</string>
     <string name="path_voip_setting">Aplikasi sistem/Telepon/Mi Voice</string>
     <string name="path_call_record_setting">Aplikasi sistem/Telepon/Rekam panggilan</string>
@@ -1144,7 +1145,7 @@ Kartu SIM Anda akan dihapus setelah 1x upaya gagal lagi."</string>
     <string name="path_handon_ringer_title">Aplikasi sistem/Telepon/Panggilan masuk/Dering berkurang saat diangkat</string>
     <string name="path_flash_when_ring_title">Aplikasi sistem/Telepon/Panggilan masuk/Berkedip saat ada dering</string>
     <string name="path_enable_proximity_title">Aplikasi sistem/Telepon/Panggilan masuk/Sensor jarak</string>
-    <string name="path_enable_antispam_strange_title">Telepon/Panggilan masuk/Heningkan dering pertama</string>
+    <string name="path_enable_antispam_strange_title">System apps/Phone/Incoming call settings/Mute first ring</string>
     <string name="path_telocation_enable_title">Aplikasi sistem/Telepon/Lokasi/Tampil lokasi</string>
     <string name="path_telocation_custom_location_title">Aplikasi sistem/Telepon/Lokasi/Lokasi saya</string>
     <string name="path_telocation_contacts_countrycode">Aplikasi sistem/Telepon/Lokasi/Kode negara bawaan</string>
@@ -1162,10 +1163,12 @@ Kartu SIM Anda akan dihapus setelah 1x upaya gagal lagi."</string>
     <string name="path_dtmf_tones_title">Aplikasi sistem/Telepon/Setelan lanjutan/Nada DTMF</string>
     <string name="path_t9_indexing_method_title">Aplikasi sistem/Telepon/Setelan lanjutan/Masukan pencarian T9</string>
     <string name="path_call_background_setting_name">Aplikasi sistem/Telepon/Setelan lanjutan/Latar belakang panggilan</string>
+    <string name="path_auto_retry_mode_title">Aplikasi sistem/Telepon/Setelan lanjutan/Coba lagi otomatis</string>
     <string name="sim_card_num">SIM %s</string>
     <string name="call_record_loading_content">Memuat…</string>
     <string name="call_record_on_summary">Hidup</string>
     <string name="call_record_off_summary">Mati</string>
+    <string name="autoip_phone">Panggil IP otomatis</string>
     <string name="preference_dial_pad_touch_tone_off">Mati</string>
     <string name="msim_disable_sim_card_summary_telecom_vice_card_inEcm">Jangan larang kartu SIM kedua Anda di mode Panggil Balik Darurat.</string>
     <string name="simFdnContacts_empty">Tak ada nomor panggilan tetap.</string>
@@ -1179,7 +1182,7 @@ Kartu SIM Anda akan dihapus setelah 1x upaya gagal lagi."</string>
     <string name="enhanced_4g_lte_mode_on_failed">Tidak dapat hidupkan VoLTE.</string>
     <string name="enhanced_4g_lte_mode_off_failed">Tidak dapat mematikan VoLTE.</string>
     <string name="cmcc_ut_data_enable_prompt">Tidak dapat terhubung menggunakan VoLTE. Hidupkan koneksi data seluler sekarang.</string>
-    <string name="volte_switch_title">VoLTE tidak aktif</string>
+    <string name="volte_switch_title">VoLTE diaktifkan</string>
     <string name="volte_switch_summary">Pakai VoLTE untuk meningkatkan kualitas panggilan suara dan video</string>
     <string name="call_settings_primary_user_only">Setelan panggilan hanya bisa diganti oleh akun utama.</string>
     <string name="network_settings_title">Jaringan seluler</string>

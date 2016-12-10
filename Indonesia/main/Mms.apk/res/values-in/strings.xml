@@ -118,6 +118,9 @@ Upaya dibuat: %s."</string>
     <string name="pref_title_mms_delete">Batas pesan multimedia</string>
     <string name="pref_messages_to_save">Atur jumlah pesan utk disimpan</string>
     <string name="pref_title_storage_status">Status penyimpanan pesan</string>
+    <string name="pref_title_about_smart_sms">Tentang partner Pesan pintar</string>
+    <string name="about_smart_sms_title">Partner Pesan pintar</string>
+    <string name="partner_companies">Teddy Mobile, Yulore Tech.</string>
     <string name="pref_title_mms_auto_retrieval">Otomatis unduh konten MMS</string>
     <string name="pref_summary_mms_auto_retrieval">Otomatis unduh foto dan video di pesan</string>
     <string name="pref_title_mms_retrieval_during_roaming">Unduh konten MMS saat roaming</string>
@@ -335,7 +338,7 @@ Upaya dibuat: %s."</string>
     <string name="pref_summary_show_recent_contacts">Tampilkan kontak baru-baru ini saat menulis pesan baru</string>
     <string name="pref_title_hide_festival">Sembunyi ucapan selamat Mandarin</string>
     <string name="pref_summary_hide_festival">Sembunyikan ucapan selamat Mandarin saat sistem diatur ke bahasa non Mandarin</string>
-    <string name="pref_message_recovery_introduction_title">Pemulihan pesan</string>
+    <string name="pref_msg_trash_bin_title">Pesan dihapus baru-baru ini</string>
     <string name="pref_cell_broadcast">Siaran Selular</string>
     <string name="send_signature_confirm_dialog_title">Kirim pesan</string>
     <string name="send_signature_confirm_dialog_message">Tak ada isi yg ditemukan. Hanya kirim tanda tangan Anda?</string>
@@ -660,7 +663,7 @@ Upaya dibuat: %s."</string>
     <string name="second_mms_switch">Ganti</string>
     <string name="block_support_text">Didukung oleh Antiy.</string>
     <string name="force_touch_new_message_title">Pesan baru</string>
-    <string name="pref_delivery_ringtone">Notifikasi suara</string>
+    <string name="pref_delivery_ringtone">Suara terkirim</string>
     <string name="pref_summary_delivery_ringtone">Terima notifikasi suara saat berhasil mengirim pesan.</string>
     <string name="privacy_password_set_password">Setel</string>
     <string name="privacy_password_title1">Setel sandi</string>
@@ -671,4 +674,14 @@ Upaya dibuat: %s."</string>
     <string name="privacy_password_message3">Sandi Pesan akan diganti dengan Sandi perlindungan privasi yang dipakai untuk foto, catatan, dan folder tersembunyi.</string>
     <string name="privacy_password_title4">Sandi telah diperbarui</string>
     <string name="from_pkg_name">Dari apl:</string>
+    <string name="hybrid_check_network">Setelan jaringan</string>
+    <string name="hybrid_try_again">Coba lagi</string>
+    <string name="hybrid_network_unavaliable">Tidak dapat terhubung ke jaringan</string>
+    <string name="hybrid_network_access_denied">Akses jaringan ditolak</string>
+    <string name="hybrid_service_unavailiable">Layanan tidak tersedia</string>
+    <string name="hybrid_data_error">Terjadi kesalahan</string>
+    <string name="hybrid_locating_fail">Tidak dapat menemukan lokasi Anda</string>
+    <string name="hybrid_pull_to_refresh_pull_label">Tarik untuk segarkan…</string>
+    <string name="hybrid_pull_to_refresh_release_label">Lepas untuk segarkan…</string>
+    <string name="hybrid_pull_to_refresh_refreshing_label">Tunggu sebentar…</string>
 </resources>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="download_finished">
-        <item quantity="other">&lt;font color=\"red\">%d lagu&lt;/font> diunduh</item>
+        <item quantity="other">&amp;lt;font color=\"red\">%d lagu&amp;lt;/font> diunduh</item>
     </plurals>
     <plurals name="download_running">
-        <item quantity="other">&lt;font color=\"red\">%d lagu&lt;/font> sedang diunduh</item>
+        <item quantity="other">&amp;lt;font color=\"red\">%d lagu&amp;lt;/font> sedang diunduh</item>
     </plurals>
     <plurals name="Ntracks_search_result">
         <item quantity="other">%d lagu ditemukan</item>

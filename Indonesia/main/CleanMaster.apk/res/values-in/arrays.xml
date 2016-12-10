@@ -24,9 +24,9 @@
         <item>1 GB</item>
     </string-array>
     <string-array name="auto_process_mode">
-        <item>Tampil</item>
-        <item>Jangan tampilkan</item>
-        <item>Tampilkan setelahnya</item>
+        <item>Hanya pemberitahuan</item>
+        <item>Otomatis bersihkan</item>
+        <item>Bersihkan dan beritahu</item>
     </string-array>
     <string-array name="cache_clean_menu">
         <item>Bersihkan berkas ini</item>

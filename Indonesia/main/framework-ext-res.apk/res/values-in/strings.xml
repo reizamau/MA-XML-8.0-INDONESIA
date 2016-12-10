@@ -58,7 +58,7 @@
     <string name="lockscreen_access_pattern_cleared">Pola dibersihkan</string>
     <string name="lockscreen_access_pattern_cell_added">Sel ditambahkan</string>
     <string name="lockscreen_access_pattern_detected">Pola selesai</string>
-    <string name="memory_clear_result">%1$s dibersihkan | %2$s tersedia</string>
+    <string name="memory_clear_result">%1$sB dibersihkan | %2$sB tersedia</string>
     <string name="memory_clear_nothing_result">Tidak ada cache yang dapat dibersihkan</string>
     <string name="shutdown_confirm_title">Matikan perangkat sekarang?</string>
     <string name="shutdown_progress">Mematikan…</string>

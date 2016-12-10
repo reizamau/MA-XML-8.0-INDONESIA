@@ -119,6 +119,6 @@ Catatan: Data untuk apl yang Anda instal tidak akan dicadangkan ke Mi Cloud."</s
     <string name="btn_back">Kembali</string>
     <string name="btn_continue">Lanjut</string>
     <string name="btn_skip">Lewati tahap ini</string>
-    <string name="provision_arrow_back">&lt;</string>
-    <string name="provision_arrow_next">></string>
+    <string name="can_not_restore_in_lite_mode">Tidak dapat memulihkan di mode Mudah</string>
+    <string name="can_not_backup_in_lite_mode">Tidak dapat mencadangkan di mode Mudah</string>
 </resources>

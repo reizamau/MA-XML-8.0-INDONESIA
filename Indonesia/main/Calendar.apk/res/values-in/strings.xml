@@ -159,11 +159,11 @@
     <string name="event_account">Akun</string>
     <string name="event_show_more">Opsi lain</string>
     <string name="event_hide_more">Sembunyikan</string>
-    <string name="event_info_when">Kapan\u0009\u0009</string>
-    <string name="event_info_repeat">Diulang\u0009</string>
-    <string name="event_info_where">Di mana\u0009</string>
-    <string name="event_info_descrip">Deskripsi\u0009\u0009\u0009</string>
-    <string name="event_info_end">Akhir\u0009\u0009\u0009</string>
+    <string name="event_info_when">Kapan</string>
+    <string name="event_info_repeat">Ulangi</string>
+    <string name="event_info_where">Dimana</string>
+    <string name="event_info_descrip">Deskripsi</string>
+    <string name="event_info_end">Akhir</string>
     <string name="event_info_jump_to_email">Lompat ke Email</string>
     <string name="event_action_delete">Hapus</string>
     <string name="event_action_edit">Ubah</string>

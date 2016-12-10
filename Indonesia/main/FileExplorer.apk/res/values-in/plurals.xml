@@ -91,7 +91,7 @@
         <item quantity="other">video</item>
     </plurals>
     <plurals name="video_count">
-        <item quantity="other">%1$s video</item>
+        <item quantity="other">&amp;lt;font color=#fc7050>%d&amp;lt;/font> video</item>
     </plurals>
     <plurals name="number_of_comment_flow">
         <item quantity="other">%1$s komentar</item>
@@ -103,18 +103,21 @@
         <item quantity="other"> %1$d video</item>
     </plurals>
     <plurals name="original_user_days">
-        <item quantity="other">• &lt;font color=#fc7050>%1$d&lt;/font> hari</item>
+        <item quantity="other">• &amp;lt;font color=#fc7050>%1$d&amp;lt;/font> hari</item>
     </plurals>
     <plurals name="original_user_play_1">
-        <item quantity="other">• Anda telah mengunggah &lt;font color=#fc7050>%1$s&lt;/font> video,</item>
+        <item quantity="other">• Anda telah mengunggah &amp;lt;font color=#fc7050>%1$s&amp;lt;/font> video.</item>
     </plurals>
     <plurals name="original_user_play_2">
-        <item quantity="other">Anda membuat bahagia &lt;font color=#fc7050>%1$s&lt;/font> orang</item>
+        <item quantity="other">Anda membuat bahagia &amp;lt;font color=#fc7050>%1$s&amp;lt;/font> orang</item>
     </plurals>
     <plurals name="original_user_fans">
-        <item quantity="other">• Anda telah diikuti &lt;font color=#fc7050>%1$s&lt;/font> pengikut</item>
+        <item quantity="other">• Anda diikuti &amp;lt;font color=#fc7050>%1$s&amp;lt;/font> orang</item>
     </plurals>
     <plurals name="video_publish_watchable_hint">
         <item quantity="other">%1$d pengikut lagi untuk menaikkan status Anda​</item>
+    </plurals>
+    <plurals name="follow_count">
+        <item quantity="other">&amp;lt;font color=#fc7050>%d&amp;lt;/font> pengikut</item>
     </plurals>
 </resources>

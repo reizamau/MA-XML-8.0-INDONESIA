@@ -5,11 +5,11 @@
 Ukuran:%2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"Memperkenalkan versi%1$s
 Ukuran pembaruan Delta:%2$s"</string>
-    <string name="xiaomi_external_storage_unavailable">Penyimpanan tak tersedia, periksa Kartu SD Anda.</string>
+    <string name="xiaomi_external_storage_unavailable">Penyimpanan tidak tersedia, periksa kartu SD Anda.</string>
     <string name="xiaomi_bytes_unit">%1$sB</string>
     <string name="xiaomi_kilobytes_unit">%1$sKB</string>
     <string name="xiaomi_megabytes_unit">%1$sMB</string>
-    <string name="xiaomi_connect_download_manager_fail">Tidak dapat terhubung ke Manajer Unduhan, mohon cek status Manajer Unduhan di Manajer Aplikasi.</string>
+    <string name="xiaomi_connect_download_manager_fail">Tidak dapat mulai pengunduhan. Pastikan Kelola Unduhan bekerja dengan normal.</string>
     <string name="app_name">Cadangan</string>
     <string name="local_app_name">Cadangan</string>
     <string name="local_home_title">Cadangkan lokal</string>

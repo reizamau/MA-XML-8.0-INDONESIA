@@ -1256,4 +1256,8 @@ Kartu kontak dimatikan"</string>
     <string name="fraud_more_indemnity">Lainnya</string>
     <string name="telecom_fraud_insurance">Asuransi penipuan Telecom</string>
     <string name="telecom_fraud_insurance_description">10,000 RMB asuransi | Penawaran spesial Xiaomi | 9.9 RMB per tahun</string>
+    <string name="yesterday">Kemarin</string>
+    <string name="tomorrow">Besok</string>
+    <string name="low_memory_toast">"Can't continue to use since storage is short."</string>
+    <string name="yellowpage_fc_toast">"Can't continue to use since yellow page is crashed."</string>
 </resources>

@@ -3,8 +3,11 @@
     <plurals name="ignore_faces_alert_msg">
         <item quantity="other">Jangan tampilkan orang ini?</item>
     </plurals>
-    <plurals name="more_face">
-        <item quantity="other">%1$s foto dari %2$s >></item>
+    <plurals name="face_count">
+        <item quantity="other">Total %d foto</item>
+    </plurals>
+    <plurals name="remind_face_recommend_confirm_text">
+        <item quantity="other">Total %d foto</item>
     </plurals>
     <plurals name="age_year">
         <item quantity="other">%d tahun</item>

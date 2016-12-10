@@ -327,14 +327,14 @@
         <item>Kustom</item>
     </string-array>
     <string-array name="alarm_set">
-        <item>Alarm akan berbunyi kurang dari 1 menit lagi.</item>
-        <item>Alarm setelah %1$s lagi.</item>
-        <item>Alarm setelah %2$s lagi.</item>
-        <item>Alarm setelah %1$s lagi %2$s lagi.</item>
-        <item>Alarm setelah %3$s lagi.</item>
-        <item>Alarm setelah %1$s dan %3$s lagi.</item>
-        <item>Alarm setelah %2$s dan %3$s lagi.</item>
-        <item>Alarm setelah %1$s %2$s dan %3$s lagi.</item>
+        <item>Kurang dari 1 menit lagi alarm akan berbunyi.</item>
+        <item>%1$s lagi alarm akan berbunyi.</item>
+        <item>%2$s lagi alarm akan berbunyi.</item>
+        <item>%1$s %2$s lagi alarm akan berbunyi.</item>
+        <item>%3$s lagi alarm akan berbunyi.</item>
+        <item>%1$s %3$s lagi alarm akan berbunyi.</item>
+        <item>%2$s %3$s lagi alarm akan berbunyi.</item>
+        <item>%1$s %2$s %3$s lagi alarm akan berbunyi.</item>
     </string-array>
     <string-array name="snooze_duration_entries">
         <item>1 menit</item>

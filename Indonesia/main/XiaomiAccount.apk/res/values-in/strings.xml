@@ -153,7 +153,7 @@ Untuk mengaktivasi akun, klik tautan
     <string name="passport_copy_message_vcode">Salin kode</string>
     <string name="passport_message_dialog_title">SMS dengan kode verifikasi</string>
     <string name="passport_trust_device">Tambah perangkat ini ke perangkat terverifikasi</string>
-    <string name="passport_barcode_add_account_prompt">To connect an account, scan the QR code again after you sign in.</string>
+    <string name="passport_barcode_add_account_prompt">Untuk menghubungkan akun, pindai kode QR lagi setelah Anda masuk.</string>
     <string name="app_name">Akun Mi</string>
     <string name="account">Akun</string>
     <string name="logout_failed">Tidak dapat keluar</string>
@@ -286,6 +286,7 @@ Pastikan Anda ingat jawaban dari pertanyaan tersebut."</string>
     <string name="mipay_center">Mi Dompet</string>
     <string name="mi_pass">Mi Pass</string>
     <string name="mi_insurance">Asuransi Mi</string>
+    <string name="mi_family">Mi Home</string>
     <string name="account_settings">Akun</string>
     <string name="account_bind_settings">Akun</string>
     <string name="account_bind_devices">Perangkat</string>
@@ -366,7 +367,7 @@ Pastikan Anda ingat jawaban dari pertanyaan tersebut."</string>
     <string name="login_check_find_device">Mendapatkan info keamanan perangkat…</string>
     <string name="unlock_help_notice">"Bantuan:
 · Jika Anda lupa sandi, pergi ke id.mi.com untuk setel ulang.
-· Jika Anda tidak dapat buka kunci perangkat, pergi ke i.mi.com untuk matikan Cari perangkat.
+· Jika tidak dapat buka kunci perangkat, Anda dapat pergi ke i.mi.com untuk mematikan Cari perangkat.
 · Beritahu nomor buka kunci ini ke Layanan Pelanggan: %s"</string>
     <string name="io_error_title">Konfirmasi jaringan Anda</string>
     <string name="find_device_display_id">Nomor buka kunci: %s</string>
@@ -379,4 +380,5 @@ Pastikan Anda ingat jawaban dari pertanyaan tersebut."</string>
     <string name="oauth_getting_scopes">Memverifikasi akun…</string>
     <string name="oauth_get_scopes_failed">Tidak dapat peroleh info akun</string>
     <string name="oauth_scopes_intro">&lt;font color=#%1$s>%2$s&lt;/font> akan peroleh perizinan berikut ini:&lt;br> &lt;br> %3$s</string>
+    <string name="guest_account_label">Akun Mi Tamu</string>
 </resources>

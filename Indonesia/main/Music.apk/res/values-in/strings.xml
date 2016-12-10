@@ -176,7 +176,7 @@ Ketuk %s untuk mulai unduh lain kali Anda terhubung ke Wi-Fi."</string>
     <string name="toast_download_error_by_not_login">Masuk ke Akun Mi dan coba lagi.</string>
     <string name="vip_required_with_song">\"Beli Paket Lagu Premium untuk memutar “%s”. Kami telah lompati lagu ini dulu.\"</string>
     <string name="vip_required">Beli Paket Lagu Premium untuk memutar lagu ini. Kami telah lompati lagu ini dulu.</string>
-    <string name="alaka_required">Lagu ini tidak tersedia.</string>
+    <string name="alaka_required">You should pay for this song to listen to it</string>
     <string name="network_settings_error">Tidak dapat terhubung ke jaringan</string>
     <string name="network_request_error">Tidak dapat terhubung ke jaringan</string>
     <string name="server_error">Server bermasalah. Coba sebentar lagi.</string>
@@ -466,6 +466,7 @@ Ketuk %s untuk mulai unduh lain kali Anda terhubung ke Wi-Fi."</string>
     <string name="recommend_fragment_title">Pilihan</string>
     <string name="channel_list_fragment_title">Radio</string>
     <string name="bill_list_fragment_title">Daftar lagu</string>
+    <string name="nowplaying_dialog_title_delete_tracks">Remove from playlist？</string>
     <string name="nowplaying_menu_item_delete">Hapus</string>
     <string name="similar_songs">Lagu yang mirip</string>
     <string name="search_for_artist">Artis</string>
@@ -722,11 +723,11 @@ terutama didukung oleh Ultimate Inc."</string>
     <string name="download_confirm_button_text">Instal</string>
     <string name="milink_unavaliable_please_update">Mi Link tidak tersedia. Perbarui MIUI.</string>
     <string name="song_exist_in_playlist">Lagu ini sudah ada di daftar putar</string>
-    <string name="other_song_in_album">Other songs from this album</string>
+    <string name="other_song_in_album">Lagu lain dari album ini</string>
     <string name="ad_extension">Promosi</string>
     <string name="ad_close">Tutup</string>
     <string name="ad_mark">M</string>
-    <string name="news_mark">NEWS</string>
+    <string name="news_mark">BERITA</string>
     <string name="download_traffic_dialog_msg">Memakai koneksi data seluler untuk unduh musik dapat meningkatkan penggunaan data</string>
     <string name="download_traffic_dialog_position_button">Tetap unduh</string>
     <string name="download_traffic_dialog_negative_button">Tunggu Wi-Fi</string>

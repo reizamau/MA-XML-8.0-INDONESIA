@@ -81,7 +81,7 @@
     <string name="menu_enroll_in_yellow_page">Masuk agar visa pakai ID pemanggil</string>
     <string name="menu_save_contact">Simpan nomor ke kontak</string>
     <string name="callrecordview_item_newcontact">Kontak baru</string>
-    <string name="callrecordview_item_op_time_minutes_seconds">%1$d mnt %2$d dtk</string>
+    <string name="callrecordview_item_op_time_minutes_seconds">%1$dm %2$dd</string>
     <string name="callrecordview_item_op_time_only_minutes">%d mnt</string>
     <string name="callrecordview_item_op_time_only_seconds">%d dtk</string>
     <string name="callrecordview_item_op_time_short_outgoing">"Keluar: "</string>

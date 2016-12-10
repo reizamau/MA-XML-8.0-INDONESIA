@@ -58,12 +58,12 @@
     <string name="force_touch_menu_add">Tambah catatan</string>
     <string name="pref_title_skip_confirm_for_quick_delete">Cepat hapus</string>
     <string name="pref_desc_skip_confirm_for_quick_delete">Tidak perlu tanya konfirmasi saat hapus catatan dengan gerakan</string>
-    <string name="pref_title_show_root_folder_in_homepage">Show only quick notes on the start page</string>
+    <string name="pref_title_show_root_folder_in_homepage">Hanya tampil pesan cepat di halaman awal</string>
     <string name="alert_title_hidden_note">Menerima pengingat catatan tersembunyi</string>
     <string name="hint_cannot_view_hidden_note_content">Tidak dapat lihat isi catatan tersembunyi</string>
     <string name="alert_title_restore">Pulihkan catatan</string>
     <string name="alert_message_restore">Tidak bisa buka catatan. Pulihkan dulu agar dapat mengubah isinya.</string>
-    <string name="note_sort_way">Select how you want to sort your notes</string>
+    <string name="note_sort_way">Pilih bagaimana Anda ingin menyortir catatan</string>
     <string name="app_name">Catatan</string>
     <string name="app_widget">Catatan</string>
     <string name="widget_havenot_content">Ketuk untuk buat catatan. Tahan widget untuk ubah ukuran.</string>

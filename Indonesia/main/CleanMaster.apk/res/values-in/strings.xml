@@ -178,7 +178,7 @@
     <string name="dialog_title_uninstall_apps">Uninstal</string>
     <string name="dialog_title_backup_and_uninstall_apps">Cadang dan uninstal</string>
     <string name="dialog_msg_uninstall_apps">Uninstal apl ini?</string>
-    <string name="dialog_msg_uninstall_apps_xspace">Uninstall these apps?（including clone apps）?</string>
+    <string name="dialog_msg_uninstall_apps_xspace">Uninstal apl-apl ini termasuk apl Ganda-nya?</string>
     <string name="dialog_msg_backup_and_uninstall_apps">Cadangkan dan uninstal apl terpilih?</string>
     <string name="toast_backup_is_running">Pencadangan sedang berjalan</string>
     <string name="toast_backup_uninstall_failed">Tidak dapat mencadangkan %d apl</string>
@@ -314,7 +314,7 @@
     <string name="clear_bigfiles">Hapus berkas besar, foto duplikat, dan berkas tak berguna lainnya</string>
     <string name="clear_immediately">Bersihkan sekarang</string>
     <string name="clear_safe_notify">Bar notifikasi keamanan</string>
-    <string name="nb_clear_set">Bersihkan ROM, lihat info baterai dan daftar blokir di bar notifikasi</string>
+    <string name="nb_clear_set">Bersihkan cache, lihat info baterai dan daftar blokir di bar notifikasi</string>
     <string name="seton_immediately">Hidupkan</string>
     <string name="notify_when">Peroleh notifikasi saat ukuran sampah mencapai 100MB</string>
     <string name="goto_set">Setel</string>

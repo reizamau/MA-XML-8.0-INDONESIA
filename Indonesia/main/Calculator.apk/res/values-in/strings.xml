@@ -287,4 +287,16 @@
     <string name="commercial_loan">Kredit komersil</string>
     <string name="day">hari</string>
     <string name="dateformat">dd/MM/yyyy</string>
+    <string name="preference_settings">Setelan</string>
+    <string name="preference_use_degress_title">Gunakan sudut</string>
+    <string name="preference_use_degress_summary">Ganti radian dengan sudut di fungsi trigonometri</string>
+    <string name="preference_about_calculator">Tentang Kalkulator</string>
+    <string name="preference_check_update_title">Periksa pembaruan</string>
+    <string name="preference_feedback_title">Pertanyaan umum</string>
+    <string name="preference_follow_us">Ikuti kami</string>
+    <string name="preference_follow_wechat_title">WeChat</string>
+    <string name="preference_follow_weibo_title">Sina Weibo</string>
+    <string name="preference_follow_web_title">Situs web resmi</string>
+    <string name="preference_alert_follow_wechat">Salin dan tempel ke WeChat untuk mengikuti</string>
+    <string name="preference_alert_follow_wechat_button">Salin</string>
 </resources>
