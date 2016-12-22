@@ -35,7 +35,7 @@
     <string name="incall_error_supp_service_conference">Tidak dapat memakai panggilan konferensi.</string>
     <string name="incall_error_supp_service_reject">Tidak dapat menolak panggilan.</string>
     <string name="incall_error_supp_service_hangup">Tidak dapat menutup panggilan.</string>
-    <string name="incall_error_supp_service_hold">"Can't hold calls."</string>
+    <string name="incall_error_supp_service_hold">Tidak dapat tahan panggilan.</string>
     <string name="onscreen_add_call_text">Tambah panggil</string>
     <string name="onscreen_audio_mode_bluetooth">Bluetooth</string>
     <string name="onscreen_audio_mode_conference">Konferensi</string>

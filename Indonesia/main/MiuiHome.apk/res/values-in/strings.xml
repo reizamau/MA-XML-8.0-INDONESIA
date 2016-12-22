@@ -12,7 +12,7 @@
     <string name="lock_screen_failed_message">Tidak dapat menyetel wallpaper layar kunci</string>
     <string name="lock_screen_success_message">Diterapkan ke layar kunci</string>
     <string name="wallpaper_failed_message">Tidak dapat menyetel wallpaper</string>
-    <string name="launcher_not_exist">Home is stopped, please return home and try again.</string>
+    <string name="launcher_not_exist">Terjadi kesalahan, kembali ke Layar utama dan coba lagi.</string>
     <string name="image_too_small_message">Gambar asli tidak cukup besar</string>
     <string name="failed_to_load_image">Tidak dapat memuat gambar</string>
     <string name="wallpaper_success_message">Wallpaper telah diterapkan</string>
@@ -253,10 +253,10 @@
     <string name="recommend_apps_notice_nodata">Rekomendasi apl (Tak ada data)</string>
     <string name="recommend_apps_default_title">Kosong</string>
     <string name="recommend_apps_tips">Fitur ini perlu terhubung ke internet untuk bekerja dengan normal. Untuk mematikan fitur ini, sentuh nama folder.</string>
-    <string name="children_folder_title">Anak-anak</string>
+    <string name="children_folder_title">Mode Anak</string>
     <string name="children_mode_exit">Keluar</string>
     <string name="children_mode_tips_title">Pilih aplikasi</string>
-    <string name="children_mode_tips_message">Tak ada apl di mode Anak. Harap pilih apl.</string>
+    <string name="children_mode_tips_message">Tak ada apl di mode Anak sekarang. Pilih apl yang Anda ingin tambahkan.</string>
     <string name="wallpaper_auto_change_title">Layar kunci</string>
     <string name="wallpaper_scaling_message">Penskalaan untuk ukuran tetap</string>
     <string name="cant_edit_lock_screen">Tidak dapat ubah gaya layar kunci.</string>
@@ -272,8 +272,9 @@
     <string name="lock_screen">Layar kunci</string>
     <string name="home_screen">Layar utama</string>
     <string name="wallpaper_scroll_type_tips">Gambar latar bergulir</string>
-    <string name="no_detail_page">Tak ada rincian halaman</string>
-    <string name="notification_installed">Berhasil instal</string>
+    <string name="no_detail_page">Tak ada halaman rincian</string>
+    <string name="notification_installed">Berhasil diinstal</string>
     <string name="notification_open_button">Buka</string>
     <string name="toast_screen_icons_misplaced">Dipulihkan dari sumber lain, mungkin ada beberapa letak ikon yang tidak sesuai</string>
+    <string name="screen_locked_toast">Tata letak Layar utama dikunci</string>
 </resources>

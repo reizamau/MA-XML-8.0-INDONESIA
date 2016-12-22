@@ -504,4 +504,5 @@ untuk aktivasi ulang fitur ini."</string>
     <string name="wipe_data_dialog_msg">%s tidak disinkronkan dan akan tetap di telepon Anda.</string>
     <string name="wipe_data_dialog_button_check_sync">Periksa jika disinkronkan</string>
     <string name="wipe_data_dialog_msg_and_on">, dan beberapa item lainnya</string>
+    <string name="file_provider_authority">com.miui.cloudservice.fileprovider</string>
 </resources>

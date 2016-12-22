@@ -582,5 +582,5 @@
     <string name="no_network">Tidak dapat terhubung ke jaringan</string>
     <string name="webview_reload">Coba lagi</string>
     <string name="hybrid_provider">Didukung oleh %1$s</string>
-    <string name="xiaomi_mobile">Xiaomi Mobile</string>
+    <string name="xiaomi_mobile">Mi Mobile</string>
 </resources>

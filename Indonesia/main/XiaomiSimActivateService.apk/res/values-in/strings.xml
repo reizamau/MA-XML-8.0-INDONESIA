@@ -96,15 +96,15 @@ Masukkan nomor telepon yang tertaut dengan kartu SIM baru Anda untuk aktivasi ul
     <string name="activate_feature_mms_sync">Sinkron pesan</string>
     <string name="activate_feature_call_log_sync">Sinkron riwayat panggilan</string>
     <string name="activate_feature_find_device">Cari perangkat</string>
-    <string name="activate_feature_register_xiaomi_account">Mi Account setup</string>
+    <string name="activate_feature_register_xiaomi_account">Setel Akun Mi</string>
     <string name="activate_feature_verify_mx_token">Verifikasi Akun Mi</string>
     <string name="activate_feature_live_talk">Paket isi ulang</string>
-    <string name="activate_feature_remote_assist">Remote assistant</string>
-    <string name="activate_feature_default_name">Mi services</string>
+    <string name="activate_feature_remote_assist">Asisten jarak jauh</string>
+    <string name="activate_feature_default_name">Layanan Mi</string>
     <string name="activate_history_title">Aktivasi kartu SIM</string>
-    <string name="activate_history_overview">%1$s mengaktivasi kartu SIM. Dipicu oleh \"%2$s\".</string>
-    <string name="activate_history_multisim_overview">%1$s aktivasi kartu SIM %3$d. Dipicu oleh \"%2$s\".</string>
+    <string name="activate_history_success_overview">Berhasil mengaktivasi kartu SIM. Aktivasi dipicu oleh \"%1$s\".</string>
+    <string name="activate_history_canceled_overview">Aktivasi kartu SIM dibatalkan. Aktivasi dipicu oleh \"%1$s\".</string>
+    <string name="activate_history_multisim_success_overview">Berhasil mengaktivasi kartu SIM %2$d. Aktivasi dipicu oleh %1$s\".</string>
+    <string name="activate_history_multisim_canceled_overview">Aktivasi kartu SIM %2$d dibatalkan. Aktivasi dipicu oleh %1$s\".</string>
     <string name="activate_history_sms">Sebuah SMS dikirim selama aktivasi.</string>
-    <string name="activate_history_success">Successful</string>
-    <string name="activate_history_cancelled">Canceled</string>
 </resources>

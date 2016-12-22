@@ -575,13 +575,9 @@
     </string-array>
     <string-array name="long_press_volume_down_action">
         <item>Tak ada</item>
-        <item>Mode Ambil gambar cepat (pilih di Kamera)</item>
+        <item>Mode Ambil foto cepat</item>
+        <item>Mode Ambil video cepat</item>
         <item>Pintasan transportasi publik</item>
-    </string-array>
-    <string-array name="long_press_volume_down_action_value">
-        <item>one</item>
-        <item>Street-snap</item>
-        <item>public_transportation_shortcuts</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
         <item>1 detik</item>
@@ -806,7 +802,7 @@ Catatan: Hanya untuk Ubuntu 8.04!"</item>
         <item>3</item>
         <item>2</item>
         <item>1</item>
-        <item>Unlimited</item>
+        <item>Tak terbatas</item>
     </string-array>
     <string-array name="organized_locales">
         <item>dz</item>

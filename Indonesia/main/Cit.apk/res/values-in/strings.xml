@@ -167,7 +167,7 @@ Balikkan ponsel, bicara ke mikrofon atas, Anda akan mendengar suara di speaker."
     <string name="cit_headset_pull_finish">Headphone telah dicabut</string>
     <string name="cit_headset_button_unknown">Tak diketahui</string>
     <string name="cit_headset_button_click">Tekan tombol pada headphone</string>
-    <string name="cit_headset_button_pass">Lewat</string>
+    <string name="cit_headset_button_pass">Lolos</string>
     <string name="cit_headset_button_play_pause">Putar/Jeda</string>
     <string name="cit_headset_button_stop">Hentikan</string>
     <string name="cit_headset_button_next">Berikut</string>

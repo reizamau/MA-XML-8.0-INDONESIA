@@ -17,7 +17,7 @@
     <string name="activity_title_scanfinish">Pemindaian selesai</string>
     <string name="empty_title_photos">Tak ada foto ditemukan</string>
     <string name="empty_title_garbage_cache">Kosong</string>
-    <string name="empty_title_ad">Tak ada berkas tak berguna ditemukan</string>
+    <string name="empty_title_ad">Tidak ada berkas tak berguna</string>
     <string name="empty_title_apk">Tak ada paket instal</string>
     <string name="empty_title_residual">Tak ada sisa</string>
     <string name="btn_text_quick_cleanup">Bersihkan</string>
@@ -294,7 +294,7 @@
     <string name="close">Tutup</string>
     <string name="download">Unduh</string>
     <string name="installed">Terinstal</string>
-    <string name="install_sucess">Berhasil instal %s</string>
+    <string name="install_sucess">%s berhasil diinstal</string>
     <string name="open_app">Buka</string>
     <string name="downloading">Mengunduh</string>
     <string name="installing">Menginstal</string>
@@ -405,7 +405,7 @@
     <string name="long_click_dialog_summary">Tekan lama untuk menambahkan ke pengecualian.</string>
     <string name="function_app_lock_title">%d apl mengandung risiko privasi</string>
     <string name="app_install_tips_go_to">Buka</string>
-    <string name="app_install_tips_install_success">Berhasil instal %1$s</string>
+    <string name="app_install_tips_install_success">%1$s berhasil diinstal</string>
     <string name="deep_clean_uninstall_completed_tips">Berhasil uninstal</string>
     <string name="deep_clean_completed_tips">Berhasil dibersihkan</string>
     <string name="deepclean_normal_item_summary_empty">Semuanya terlihat baik, tak ada yang perlu dibersihkan</string>
@@ -423,9 +423,9 @@
     <string name="btn_text_quick_cleanup_video">Hapus video terpilih %1$s</string>
     <string name="btn_text_quick_cleanup_apk">Hapus APK terpilih %1$s</string>
     <string name="deepclean_install_info_desc2">Hapus apl untuk bebaskan ruang</string>
-    <string name="ad_install_success_dialog_title">%1$s terinstal. Buka sekarang?</string>
+    <string name="ad_install_success_dialog_title">%1$s berhasil diinstal. Buka sekarang?</string>
     <string name="ad_install_success_dialog_lunch">Buka</string>
     <string name="deepclean_empty">Semuanya terlihat baik</string>
     <string name="scanning">Memindai…</string>
-    <string name="buy_a_new_phone">Storage Upgrade</string>
+    <string name="buy_a_new_phone">Dapatkan ruang ekstra</string>
 </resources>

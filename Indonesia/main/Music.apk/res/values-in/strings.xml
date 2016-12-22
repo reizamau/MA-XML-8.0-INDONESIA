@@ -176,7 +176,7 @@ Ketuk %s untuk mulai unduh lain kali Anda terhubung ke Wi-Fi."</string>
     <string name="toast_download_error_by_not_login">Masuk ke Akun Mi dan coba lagi.</string>
     <string name="vip_required_with_song">\"Beli Paket Lagu Premium untuk memutar “%s”. Kami telah lompati lagu ini dulu.\"</string>
     <string name="vip_required">Beli Paket Lagu Premium untuk memutar lagu ini. Kami telah lompati lagu ini dulu.</string>
-    <string name="alaka_required">You should pay for this song to listen to it</string>
+    <string name="alaka_required">Anda harus bayar untuk mendengarkan lagu ini</string>
     <string name="network_settings_error">Tidak dapat terhubung ke jaringan</string>
     <string name="network_request_error">Tidak dapat terhubung ke jaringan</string>
     <string name="server_error">Server bermasalah. Coba sebentar lagi.</string>
@@ -466,8 +466,8 @@ Ketuk %s untuk mulai unduh lain kali Anda terhubung ke Wi-Fi."</string>
     <string name="recommend_fragment_title">Pilihan</string>
     <string name="channel_list_fragment_title">Radio</string>
     <string name="bill_list_fragment_title">Daftar lagu</string>
-    <string name="nowplaying_dialog_title_delete_tracks">Remove from playlist？</string>
-    <string name="nowplaying_menu_item_delete">Hapus</string>
+    <string name="nowplaying_dialog_title_delete_tracks">Hapus dari daftar putar?</string>
+    <string name="nowplaying_menu_item_delete">Bersihkan</string>
     <string name="similar_songs">Lagu yang mirip</string>
     <string name="search_for_artist">Artis</string>
     <string name="search_for_album">Album</string>
@@ -775,7 +775,7 @@ terutama didukung oleh Ultimate Inc."</string>
     <string name="playlist_type_fm">FM</string>
     <string name="playlist_type_recommend">Rekomendasi</string>
     <string name="playlist_type_my">Daftar putar saya</string>
-    <string name="local_page_song_download">Lagu lokal</string>
+    <string name="local_page_song_download">Lagu offline</string>
     <string name="local_page_song_all">Semua lagu</string>
     <string name="local_page_song_favorite">Lagu favorit</string>
     <string name="local_page_artist">Mengikuti artis</string>

@@ -215,7 +215,7 @@
     <string name="left_cancel">Geser ke kiri untuk batal</string>
     <string name="press_recording">Tekan &amp; tahan ikon Mikrofon untuk rekam</string>
     <string name="snippet_audio">[audio]</string>
-    <string name="snippet_picture">[image]</string>
+    <string name="snippet_picture">[gambar]</string>
     <string name="hms_add_image_progress_message">Memproses…</string>
     <string name="view_hms_attachment_fail">Tidak dapat unduh gambar</string>
     <string name="hms_uri_param_err">URL tidak boleh kosong</string>

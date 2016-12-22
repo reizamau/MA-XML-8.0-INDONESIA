@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="ignore_faces_alert_msg">
-        <item quantity="other">Jangan tampilkan orang ini?</item>
-    </plurals>
     <plurals name="face_count">
         <item quantity="other">Total %d foto</item>
     </plurals>
@@ -79,19 +76,19 @@
         <item quantity="other">%1$d item telah dicadangkan</item>
     </plurals>
     <plurals name="backup_waiting">
-        <item quantity="other">%1$d item menunggu untuk dicadangkan</item>
+        <item quantity="other">%1$d foto/video belum dicadangkan</item>
     </plurals>
     <plurals name="network_unsatisfied">
-        <item quantity="other">Jaringan bermasalah. %1$d item menunggu untuk dicadangkan</item>
+        <item quantity="other">Jaringan bermasalah. %1$d foto/video belum dicadangkan.</item>
     </plurals>
     <plurals name="sync_off">
-        <item quantity="other">Sinkron mati. %1$d item menunggu untuk dicadangkan</item>
+        <item quantity="other">Sinkron mati. %1$d foto/video belum dicadangkan.</item>
     </plurals>
     <plurals name="cloud_space_full">
         <item quantity="other">Tidak dapat cadangkan %1$d item</item>
     </plurals>
     <plurals name="local_space_full">
-        <item quantity="other">Ruang lokal tidak mencukupi. %1$d item menunggu untuk dicadangkan</item>
+        <item quantity="other">Ruang lokal penuh. %1$d foto/video belum dicadangkan.</item>
     </plurals>
     <plurals name="number_of_images_synced">
         <item quantity="other">%1$d foto</item>
@@ -106,7 +103,7 @@
         <item quantity="other">%1$d video menunggu untuk dicadangkan</item>
     </plurals>
     <plurals name="number_of_images_and_videos_to_upload">
-        <item quantity="other">%1$d item menunggu untuk dicadangkan</item>
+        <item quantity="other">%1$d foto/video belum dicadangkan</item>
     </plurals>
     <plurals name="number_of_uploading_images">
         <item quantity="other">Mencadangkan %1$d foto…</item>

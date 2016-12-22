@@ -12,7 +12,7 @@
     <string name="actionbar_web_search">Pencarian Web</string>
     <string name="actionbar_textselection_title">Pilihan teks</string>
     <string name="media_player_error_title">Tidak dapat memutar video</string>
-    <string name="media_player_error_text_invalid_progressive_playback">Maaf, video ini tidak valid untuk dimainkan di perangkat ini.</string>
+    <string name="media_player_error_text_invalid_progressive_playback">Maaf, video ini tidak valid untuk diputar di perangkat ini.</string>
     <string name="media_player_error_text_unknown">Maaf, video ini tidak dapat diputar.</string>
     <string name="media_player_error_button">Oke</string>
     <string name="media_player_loading_video">Memuat video</string>
@@ -177,7 +177,7 @@ Tinggalkan halaman ini?"</string>
     <string name="media_error_nomemory">Tak ada cukup memori</string>
     <string name="media_error_action_refresh">Segarkan</string>
     <string name="media_error_action_replace_video_source">Tidak dapat mengganti sumber</string>
-    <string name="media_error_network_unreachable">Network Unreachable</string>
+    <string name="media_error_network_unreachable">Tidak dapat terhubung ke jaringan</string>
     <string name="video_buffering_percent_string">"Menyangga "</string>
     <string name="v5_select_all">Pilih semua</string>
     <string name="v5_deselect_all">Batal pilih</string>
@@ -289,7 +289,7 @@ Tinggalkan halaman ini?"</string>
     <string name="ok">Oke</string>
     <string name="edit">Ubah</string>
     <string name="replace">Ganti</string>
-    <string name="isReplacePage">Berkas ini telah ada, ganti?</string>
+    <string name="isReplacePage">Telah ada berkas ini, ganti?</string>
     <string name="rlz_access_point">Y1</string>
     <string name="uploads_disabled">Unggah berkas dinonaktifkan</string>
     <string name="dont_remind_again">Ingat pilihan ini</string>
@@ -831,5 +831,5 @@ Halaman yang Anda lihat tak akan muncul di riwayat."</string>
     <string name="view_document_downloaded_files">Lihat berkas unduhan di Unduhan</string>
     <string name="no_app_open_document">Tidak menemukan apl untuk tangani aksi ini</string>
     <string name="not_allowed_open">Tidak dapat pakai Browser saat proses penghidupan telepon pertama kali atau setelah kembali ke setelan pabrik</string>
-    <string name="low_memory_toast">Tidak dapat menggunakan Browser karena memori rendah</string>
+    <string name="low_memory_toast">Tidak dapat memakai Browser karena memori rendah</string>
 </resources>

@@ -77,19 +77,19 @@ Hanya gunakan charger bawaan."</string>
     <string name="data_usage_disabled_dialog_4g_title">Data 4G dinonaktifkan</string>
     <string name="data_usage_disabled_dialog_mobile_title">Data seluler dinonaktifkan</string>
     <string name="data_usage_disabled_dialog_title">Data dinonaktifkan</string>
-    <string name="data_usage_disabled_dialog">"You've reached your specified data usage limit.
+    <string name="data_usage_disabled_dialog">"Anda telah mencapai batas penggunaan data.
 
-If you re-enable data, you may be charged by the operator."</string>
-    <string name="data_usage_disabled_dialog_enable">Re-enable data</string>
-    <string name="status_bar_settings_signal_meter_disconnected">No internet connection</string>
+Jika Anda mengaktifkannya kembali, akan dikenakan biaya dari operator."</string>
+    <string name="data_usage_disabled_dialog_enable">Aktifkan kembali data</string>
+    <string name="status_bar_settings_signal_meter_disconnected">Tak ada koneksi internet</string>
     <string name="status_bar_settings_signal_meter_wifi_nossid">Terhubung ke Wi-Fi</string>
     <string name="gps_notification_searching_text">Mencari GPS</string>
-    <string name="gps_notification_found_text">Location set by GPS</string>
-    <string name="accessibility_clear_all">Clear all notifications.</string>
-    <string name="status_bar_notification_inspect_item_title">App info</string>
-    <string name="screen_pinning_title">Screen is pinned</string>
-    <string name="screen_pinning_description">This keeps it in view until you unpin. Press and hold Home and the Power button at the same time to unpin.</string>
-    <string name="screen_pinning_description_accessible">This keeps it in view until you unpin. Press and hold Home and the Power button at the same time to unpin.</string>
+    <string name="gps_notification_found_text">Lokasi ditetapkan dengan GPS</string>
+    <string name="accessibility_clear_all">Bersihkan notifikasi.</string>
+    <string name="status_bar_notification_inspect_item_title">Info apl</string>
+    <string name="screen_pinning_title">Layar disematkan</string>
+    <string name="screen_pinning_description">Ini akan tetap ditampilkan sampai Anda lepas penyematan. Tekan dan tahan tombol Beranda dan Daya bersamaan untuk melepaskannya.</string>
+    <string name="screen_pinning_description_accessible">Ini akan tetap ditampilkan sampai Anda lepas penyematan. Tekan dan tahan tombol Beranda dan Daya bersamaan untuk melepaskannya.</string>
     <string name="screen_pinning_positive">Mengerti</string>
     <string name="screen_pinning_negative">Tidak</string>
     <string name="accessibility_managed_profile">Profil kerja</string>
@@ -111,7 +111,7 @@ Geser ke bawah untuk kunci"</string>
     <string name="status_bar_date_format_12">"EEEE
 d MMMM"</string>
     <string name="status_bar_clock_date_format">EEEE, d MMMM</string>
-    <string name="status_bar_recent_memory_info1">%1$s dari %2$s tersedia</string>
+    <string name="status_bar_recent_memory_info1">%1$s dari %2$sBtersedia</string>
     <string name="status_bar_recent_memory_info2" />
     <string name="nav_guide_title">Sembunyikan tombol lunak</string>
     <string name="nav_guide_message">Gunakan sapuan untuk menyembunyikan/menampilkan tombol lunak.</string>
@@ -239,10 +239,15 @@ d MMMM"</string>
     <string name="status_bar_recording_pause">Perekam dijeda</string>
     <string name="usb_share_net_info">Guna koneksi internet komputer</string>
     <string name="battery_profiles">Gunakan profil baterai</string>
-    <string name="enable_power_save_mode">Hidupkan penghemat baterai</string>
+    <string name="enable_power_save_mode">Hemat baterai</string>
     <string name="save_mode_btn_ok">Oke</string>
     <string name="oldman_airplane_mode_text">pesawat</string>
     <string name="oldman_incall_text">panggilan</string>
+    <string name="no_multi_window_app">Tidak ada apl yang dapat bekerja di mode Layar split</string>
+    <string name="not_support_multi_window">Apl ini tidak mendukung mode Layar split</string>
+    <string name="divider_menu_swap_task">Tukar</string>
+    <string name="divider_menu_select_apps">Pilih</string>
+    <string name="divider_menu_close">Tutup</string>
     <string name="notification_template_text">" ada notifikasi. Ketuk untuk lihat."</string>
     <string name="audio_effect_settings">Pilih tipe headphone</string>
     <string name="audio_effect_info">Optimalkan audio</string>

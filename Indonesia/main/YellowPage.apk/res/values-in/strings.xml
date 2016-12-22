@@ -205,6 +205,7 @@ Total: RMB %3$s"</string>
     <string name="open_installed_app">Buka</string>
     <string name="express_inquiry">Pelacakan</string>
     <string name="express_inquiry_and_send">Lacak dan kirim</string>
+    <string name="express_inquiry_detail">Rincian kurir pengiriman</string>
     <string name="express_inquiry_serial_number_indication">Nomor resi</string>
     <string name="express_inquiry_button_text">Lacak</string>
     <string name="express_inquiry_serial_number_prefix">Nomor: %s</string>

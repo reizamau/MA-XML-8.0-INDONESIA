@@ -5,8 +5,8 @@
     <string name="location_management">Lokasi</string>
     <string name="gps_hint">Lokasi saat ini</string>
     <string name="add_city">Tambah</string>
-    <string name="edit_city">Edit city</string>
-    <string name="daily_forecast_detail">Forecast detail</string>
+    <string name="edit_city">Ganti kota</string>
+    <string name="daily_forecast_detail">Rincian ramalan</string>
     <string name="network_unavailable">Tidak dapat terhubung ke jaringan</string>
     <string name="act_find_city_hot_title">Tambah</string>
     <string name="act_find_city_hint">Masukkan lokasi</string>
@@ -167,11 +167,11 @@ Ketuk layar utk tambah atau ubah posisi kota secara manual"</string>
     <string name="common_loading_text">Tunggu sebentar…</string>
     <string name="change_alert">Periksa koneksi jaringan dan coba lagi</string>
     <string name="card_vote_item_vs">VS</string>
-    <string name="total_voted_num_text">"&lt;font color='#20a7ff'>%1$s&lt;/font> people has voted"</string>
-    <string name="yes_vote_ratio">pros %1$s%%</string>
-    <string name="yes_vote_num"> | %1$speople</string>
-    <string name="no_vote_ratio">cons %1$s%%</string>
-    <string name="no_vote_num">%1$speople | </string>
-    <string name="already_voted">Has Voted</string>
-    <string name="already_voted_toast">You have already selected today</string>
+    <string name="total_voted_num_text">"&lt;font color='#20a7ff'>%1$s&lt;/font> orang memilih"</string>
+    <string name="yes_vote_ratio">Untuk %1$s%%</string>
+    <string name="yes_vote_num"> | %1$s orang</string>
+    <string name="no_vote_ratio">Lawan %1$s%%</string>
+    <string name="no_vote_num">%1$s orang | </string>
+    <string name="already_voted">Telah beri suara</string>
+    <string name="already_voted_toast">Anda telah beri suara hari ini</string>
 </resources>

@@ -204,6 +204,7 @@
     <string name="port_range">Port harus di antara 1024–65535</string>
     <string name="file_name_invalid">Nama folder tidak boleh mengandung karakter berikut: /\\:*?&lt;></string>
     <string name="rename_alert">Jika Anda mengganti akhiran nama berkas, Anda tidak dapat membukanya.</string>
+    <string name="rename_alert2">Berkas akan disembunyikan.</string>
     <string name="search_file_type_picture">Foto</string>
     <string name="search_file_type_video">Video</string>
     <string name="search_file_type_music">Musik</string>
@@ -563,7 +564,7 @@
     <string name="login_account_bind_wb">Akun Weibo</string>
     <string name="qq_btn_bind">QQ</string>
     <string name="wb_btn_bind">Weibo</string>
-    <string name="popup_msg_wb">Video keren? Bagikan dengan teman Weibo Anda!</string>
+    <string name="popup_msg_wb">Keren videonya? Bagikan ke teman Weibo Anda!</string>
     <string name="message_my_received_notification">Pesan baru</string>
     <string name="xiaomi_login_btn_str">Akun Mi</string>
     <string name="wechat_login_btn_str">WeChat</string>
@@ -623,9 +624,9 @@
     <string name="zero">0</string>
     <string name="youliao_dialog_title">Tak ada video yang menarik?</string>
     <string name="update">Perbarui</string>
-    <string name="youliao_ad_title">Popular videos have been upgraded!</string>
-    <string name="youliao_dialog_msg">"Popular videos were replaced with \"Youliao\" 
-which is an app dedicated to bringing you more fun!"</string>
+    <string name="youliao_ad_title">Video populer telah diperbarui!</string>
+    <string name="youliao_dialog_msg">"Video populer digantikan oleh \"Youliao\" 
+yang mana akan membawa lebih banyak kesenangan!"</string>
     <string name="youliao_ad_msg">"Bersenang-senang dengan \"Youliao\"!
 Gabung dengan 170 miliar Mi Fans!"</string>
     <string name="youliao_ad_update">Perbarui</string>
@@ -671,10 +672,10 @@ Gabung dengan 170 miliar Mi Fans!"</string>
     <string name="rlv_pull_to_close">Tarik ke bawah untuk tutup</string>
     <string name="rlv_release_to_close">Lepas untuk tutup</string>
     <string name="rlv_closing">Menutup…</string>
-    <string name="share_youliao1">Upgrade to watch more episodes.</string>
-    <string name="share_youliao2">Upgrade to watch more episodes.</string>
-    <string name="share_youliao3">Upgrade to watch more episodes.</string>
-    <string name="share_youliao4">Upgrade to watch more episodes.</string>
+    <string name="share_youliao1">Tingkatkan untuk nonton episode lainnya.</string>
+    <string name="share_youliao2">Tingkatkan untuk nonton episode lainnya.</string>
+    <string name="share_youliao3">Tingkatkan untuk nonton episode lainnya.</string>
+    <string name="share_youliao4">Tingkatkan untuk nonton episode lainnya.</string>
     <string name="popup_msg_wx">Bagikan video ini dengan teman WeChat.</string>
     <string name="popup_msg_qq">Bagikan video ini dengan teman QQ Anda.</string>
     <string name="video_uploaded">Terunggah</string>
@@ -703,7 +704,7 @@ Gabung dengan 170 miliar Mi Fans!"</string>
     <string name="swap_tip_1">Usap ke kiri atau kanan</string>
     <string name="swap_tip_2">untuk nonton video lainnya</string>
     <string name="sort_size_desc">Besar ke kecil</string>
-    <string name="sort_size_asc">Smaller to bigger</string>
+    <string name="sort_size_asc">Kecil ke besar</string>
     <string name="tab_homepage">Beranda</string>
     <string name="tab_claim">Klaim</string>
     <string name="tab_discover">Temukan</string>
@@ -768,16 +769,23 @@ Gabung dengan 170 miliar Mi Fans!"</string>
     <string name="click_to_refresh">Ketuk untuk segarkan</string>
     <string name="a_week_share_rank">Peringkat mingguan</string>
     <string name="view_top_rank">Lihat peringkat</string>
-    <string name="share_rank_card_tip">Share rankings</string>
-    <string name="youliao_master_rank">Youliao top</string>
-    <string name="view_master_rank">View Youliao top</string>
-    <string name="top_videos">Share rankings</string>
-    <string name="no_daren_tip">Nothing here yet</string>
+    <string name="share_rank_card_tip">Berbagi info peringkat</string>
+    <string name="youliao_master_rank">Peringkat Youliao</string>
+    <string name="view_master_rank">Lihat peringkat Youliao</string>
+    <string name="top_videos">Berbagi info peringkat</string>
+    <string name="no_daren_tip">Kosong</string>
     <string name="upload_popup">Unggah video untuk menangkan hadiah</string>
     <string name="top_mark">TOP</string>
-    <string name="tab_explore">Discover</string>
-    <string name="hot_topic_str">Hot topics</string>
-    <string name="hot_video_title">Popular videos</string>
-    <string name="sticker_btn_str_explore_tab">Explore tons of fun stuff!</string>
+    <string name="tab_explore">Temukan</string>
+    <string name="hot_topic_str">Topik populer</string>
+    <string name="hot_video_title">Video populer</string>
+    <string name="sticker_btn_str_explore_tab">Eksplorasi kesenangan tak terbatas!</string>
     <string name="no_content">Buka apl Berkas lagi untuk melihat video populer</string>
+    <string name="open_chest_failed">Tidak dapat buka, periksa setelan jaringan dan coba lagi</string>
+    <string name="open_chest">Buka utk dapatkan hadiah</string>
+    <string name="count_down">Hitung mundur: %1$s</string>
+    <string name="full_gems">Tukar permata Anda</string>
+    <string name="default_prize_text">Langsung masuk ke kekayaan saya!</string>
+    <string name="prize_result_tip">Tukar</string>
+    <string name="prize_result_tip2">Permata ke kekayaan Anda</string>
 </resources>

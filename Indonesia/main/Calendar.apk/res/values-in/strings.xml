@@ -161,8 +161,8 @@
     <string name="event_hide_more">Sembunyikan</string>
     <string name="event_info_when">Kapan</string>
     <string name="event_info_repeat">Ulangi</string>
-    <string name="event_info_where">Dimana</string>
-    <string name="event_info_descrip">Deskripsi</string>
+    <string name="event_info_where">Di mana</string>
+    <string name="event_info_descrip">Penjelasan</string>
     <string name="event_info_end">Akhir</string>
     <string name="event_info_jump_to_email">Lompat ke Email</string>
     <string name="event_action_delete">Hapus</string>

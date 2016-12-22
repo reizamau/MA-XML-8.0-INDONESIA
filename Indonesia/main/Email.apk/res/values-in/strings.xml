@@ -137,7 +137,7 @@
     <string name="account_setup_options_mail_window_label_imap_or_pop3">Simpan untuk</string>
     <string name="account_setup_options_title">Setelan akun</string>
     <string name="account_setup_outgoing_port_label">Port</string>
-    <string name="account_setup_outgoing_require_login_label">Butuh masuk</string>
+    <string name="account_setup_outgoing_require_login_label">Anda perlu masuk</string>
     <string name="account_setup_outgoing_smtp_server_label">Server SMTP</string>
     <string name="account_setup_security_policies_required_fmt">Server %s membutuhkan Anda untuk mengizinkan kontrol jarak jauh beberapa fitur keamanan perangkat Android Anda. Apakah Anda ingin selesaikan pengaturan akun ini?</string>
     <string name="account_setup_security_required_title">Admin keamanan jarak jauh</string>
@@ -293,6 +293,9 @@
     <string name="conversation_item_mark_read">Telah dibaca</string>
     <string name="conversation_item_mark_unread">Belum dibaca</string>
     <string name="conversation_photo_welcome_text">Sentuh gambar pengirim utk memilih percakapan itu.</string>
+    <string name="conversation_quick_button_approve">Oke</string>
+    <string name="conversation_quick_button_disapprove">Batal</string>
+    <string name="conversation_quick_button_received">Diterima</string>
     <string name="conversation_view">Tampilan percakapan</string>
     <string name="conversation_view_keywords">Tampilan percakapan;percakapan email</string>
     <string name="copied">Tersalin</string>
@@ -388,6 +391,7 @@
     <string name="file_not_found_redownload">Tidak dapat menemukan berkas</string>
     <string name="file_rar_not_support">Tidak dapat buka berkas rar terenkripsi</string>
     <string name="filtered_tag">" [%1$s]%2$s"</string>
+    <string name="first_quick_default_reply">Ketuk tombol untuk mengirimkan \"%s\" ke semua orang di percakapan ini</string>
     <string name="folder_list_display_all">Tampil semua folder</string>
     <string name="folder_list_display_only_import">Hanya tampil folder penting</string>
     <string name="folder_picker_title">Pilih folder</string>
@@ -525,6 +529,7 @@
     <string name="menu_att_mgr_order_size">Urut per ukuran</string>
     <string name="menu_change_folders">Pindah</string>
     <string name="menu_compose">Tulis</string>
+    <string name="menu_contact_edit">Ubah</string>
     <string name="menu_discovery">Promosi</string>
     <string name="menu_folder_options">Opsi sinkron</string>
     <string name="menu_move_to">Pindah ke</string>
@@ -769,10 +774,12 @@
     <string name="send_failed">Pesan tidak terkirim.</string>
     <string name="send_feed_back">Kirim masukan</string>
     <string name="send_feed_back_keywords">kirim masukan</string>
+    <string name="send_mail">Kirim</string>
     <string name="sender_whitelist_cleared">Gambar tidak akan otomatis ditampilkan.</string>
     <string name="senders_split_token">, </string>
     <string name="sending">Mengirim…</string>
     <string name="sending_message">Mengirim pesan…</string>
+    <string name="sending_quick_reply">Mengirim \"%s\"</string>
     <string name="sent_folder_selection_title">Pilih folder item terkirim server untuk %s</string>
     <string name="ser_resp_err_map_certificate_validator_err">"Tidak dapat validasi sertifikat server
 \u0009 (Pastikan 'Waktu sinkron otomatis' dihidupkan di Setelan)"</string>
@@ -879,6 +886,4 @@
     <string name="you_are_in_mobile_network">Kirim log dengan koneksi data seluler? Jika Anda melampaui batas paket data, maka Anda dapat dikenakan biaya tambahan oleh operator.</string>
     <string name="youfuli">Promosi</string>
     <string name="zip_viewer_no_file">Tak ada berkas.</string>
-    <string name="contact_edit_set_black_list_filtering">Menyaring…</string>
-    <string name="contact_in_filter_call_phone_str">Panggilan dari %s</string>
 </resources>

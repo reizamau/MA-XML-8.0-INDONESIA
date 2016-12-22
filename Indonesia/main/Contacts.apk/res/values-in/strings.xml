@@ -1258,6 +1258,6 @@ Kartu kontak dimatikan"</string>
     <string name="telecom_fraud_insurance_description">10,000 RMB asuransi | Penawaran spesial Xiaomi | 9.9 RMB per tahun</string>
     <string name="yesterday">Kemarin</string>
     <string name="tomorrow">Besok</string>
-    <string name="low_memory_toast">"Can't continue to use since storage is short."</string>
-    <string name="yellowpage_fc_toast">"Can't continue to use since yellow page is crashed."</string>
+    <string name="low_memory_toast">Tidak dapat memakai fitur ini karena memori rendah</string>
+    <string name="yellowpage_fc_toast">Tidak dapat memakai fitur ini karena ada masalah dengan Yellow pages.</string>
 </resources>

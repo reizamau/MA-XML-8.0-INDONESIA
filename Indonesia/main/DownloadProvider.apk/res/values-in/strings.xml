@@ -38,12 +38,12 @@
     <string name="download_apk_desktop_installing">Menginstal</string>
     <string name="xl_speedup_experience_notify_title">Keanggotaan Xunlei</string>
     <string name="xl_speedup_experience_notify_context">Pengunduhan dipercepat karena Anda telah menjadi anggota Xunlei</string>
-    <string name="xl_speedup_notify_button_experience">Coba gratis</string>
+    <string name="xl_speedup_notify_button_experience">Gratis coba</string>
     <string name="xl_speedup_notify_button_member">Gabung</string>
     <string name="notify_disabled_net_by_app">Koneksi internet dibatasi oleh apl Keamanan</string>
     <string name="notify_only_wifi_download">Menunggu Wi-Fi</string>
-    <string name="notify_install_guide_title">Berhasil instal %s</string>
-    <string name="notify_install_guide_msg">Berhasil instal</string>
+    <string name="notify_install_guide_title">%s berhasil diinstal</string>
+    <string name="notify_install_guide_msg">Berhasil diinstal</string>
     <string name="notify_install_guide_forward_text">Buka</string>
     <string name="app_label">Pengelola Unduhan</string>
     <string name="permlab_downloadManager">Akses pengelola unduhan.</string>

@@ -133,7 +133,7 @@
         <item quantity="other">%d apl ditemukan</item>
     </plurals>
     <plurals name="sp_settings_exception_count">
-        <item quantity="other">%d items</item>
+        <item quantity="other">%d item</item>
     </plurals>
     <plurals name="sp_back_title_text">
         <item quantity="other">%s risiko pembayaran</item>
@@ -148,7 +148,7 @@
         <item quantity="other">%s apl tidak dilindungi</item>
     </plurals>
     <plurals name="section_clear_acc_item_right_tips">
-        <item quantity="other">%d apl terkunci menunggu untuk dibersihkan</item>
+        <item quantity="other">%d apl terkunci belum dibersihkan</item>
     </plurals>
     <plurals name="section_security_defend_item_right_tips">
         <item quantity="other">%d virus terhapus</item>

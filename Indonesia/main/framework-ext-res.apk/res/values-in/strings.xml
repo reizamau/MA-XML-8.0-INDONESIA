@@ -20,7 +20,9 @@
     <string name="status_bar_toggle_paper_mode">Mode Baca</string>
     <string name="status_bar_toggle_midrop">Mi Drop</string>
     <string name="status_bar_toggle_cast">Proyeksi</string>
-    <string name="status_bar_toggle_edit">Lainnya</string>
+    <string name="status_bar_toggle_edit">Urut</string>
+    <string name="status_bar_toggle_battery_saver">Hemat baterai</string>
+    <string name="status_bar_toggle_nfc">NFC</string>
     <string name="screen_rotation_freeze_message">Rotasi-otomatis nonaktif.</string>
     <string name="perm_send_push_dspt">Izinkan pesan dorong Mi</string>
     <string name="perm_send_push_lab">Kirim pesan dorong</string>
@@ -58,7 +60,7 @@
     <string name="lockscreen_access_pattern_cleared">Pola dibersihkan</string>
     <string name="lockscreen_access_pattern_cell_added">Sel ditambahkan</string>
     <string name="lockscreen_access_pattern_detected">Pola selesai</string>
-    <string name="memory_clear_result">%1$s dibersihkan | %2$s tersedia</string>
+    <string name="memory_clear_result">%1$s dibersihkan | %2$s tersedia</string>
     <string name="memory_clear_nothing_result">Tidak ada cache yang dapat dibersihkan</string>
     <string name="shutdown_confirm_title">Matikan perangkat sekarang?</string>
     <string name="shutdown_progress">Mematikan…</string>

@@ -97,9 +97,9 @@
     <string name="resource_purchase_waiting_payment">Menunggu info pembayaran…</string>
     <string name="resource_purchase_verifying_payment">Memverifikasi info pembayaran…</string>
     <string name="resource_purchase_continue_to_pay">Lanjut bayar %s</string>
-    <string name="resource_purchase_vip_pay_failed">"Couldn't pay for VIP"</string>
-    <string name="resource_purchase_common_error">An error occurred, try again</string>
-    <string name="resource_download_trial">Coba gratis</string>
+    <string name="resource_purchase_vip_pay_failed">Tidak dapat bayar untuk VIP</string>
+    <string name="resource_purchase_common_error">Terjadi kesalahan, coba lagi</string>
+    <string name="resource_download_trial">Gratis coba</string>
     <string name="resource_apply_trial">Coba sekarang</string>
     <string name="resource_on_trial">Mencoba: %1$s</string>
     <string name="resource_trial_days_hours">(uji coba: %1$dh %2$dj)</string>
@@ -127,7 +127,7 @@
     <string name="resource_select_audio_confirm_picker">Pilih suara ini?</string>
     <string name="loading_resource_detail_info">Tunggu sebentar…</string>
     <string name="loading_resource_detail_fail">Tidak dapat memuat sumber</string>
-    <string name="add_resource_detail_fail">"Can't add resource"</string>
+    <string name="add_resource_detail_fail">Tidak dapat menambahkan sumber</string>
     <string name="resource_expand_full_text">Selengkapnya</string>
     <string name="resource_account_login">Masuk</string>
     <string name="resource_account_switch">Ganti</string>
@@ -398,8 +398,8 @@
     <string name="incompatible_dialog_title">Masalah kompatibel</string>
     <string name="incompatible_dialog_message">Tema ini tidak kompatibel dengan MIUI 8. Beberapa elemen tidak dapat tampil dengan benar.</string>
     <string name="incompatible_dialog_ok">Mengerti</string>
-    <string name="multi_sim_ringtone_settings_dialog_title">Compatibility issues</string>
-    <string name="multi_sim_ringtone_settings_dialog_message">The ringtone is applied to both SIM cards.</string>
+    <string name="multi_sim_ringtone_settings_dialog_title">Masalah kompatibel</string>
+    <string name="multi_sim_ringtone_settings_dialog_message">Nada dering diterapkan ke kedua kartu SIM.</string>
     <string name="multi_sim_ringtone_settings_dialog_remind_never">Jangan tampil lagi</string>
     <string name="multi_sim_ringtone_settings_dialog_ok">Mengerti</string>
 </resources>
