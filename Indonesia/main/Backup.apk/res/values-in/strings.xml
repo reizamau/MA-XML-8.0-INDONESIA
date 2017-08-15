@@ -201,7 +201,7 @@ Ukuran pembaruan Delta:%2$s"</string>
     <string name="no_encrypt_password">Tak ada sandi</string>
     <string name="enable_encrypt_fail">Enkripsi gagal</string>
     <string name="read_encrypt_fail">Tdk dpt baca cadangan terenkripsi</string>
-    <string name="exchange_account">Pindah akun</string>
+    <string name="exchange_account">Ganti akun</string>
     <string name="system_backup">Cadangan</string>
     <string name="backup_empty_info">" Cadangkan data, setelan, dan apl Anda"</string>
     <string name="backup_empty_info_onpad">" Cadangkan data, setelan, dan apl Anda"</string>
@@ -234,6 +234,7 @@ Ukuran pembaruan Delta:%2$s"</string>
     <string name="feature_title_call_log">Riwayat panggilan</string>
     <string name="feature_title_mms">MMS</string>
     <string name="feature_title_account">Akun Mi</string>
+    <string name="feature_title_antispam">Daftar blokir</string>
     <string name="summary_err_backup_encrypting">Masuk ke Akun Mi Anda.</string>
     <string name="summary_err_restore_encrypting">Tidak dapat memulihkan. Pastikan cadangan ini dibuat dengan Akun Mi Anda.</string>
     <string name="summary_err_backup_no_network">Tidak dapat terhubung ke jaringan</string>
@@ -349,5 +350,6 @@ Hapus setidaknya%s."</string>
     <string name="trans_connection_failed">Perangkat tak terhubung</string>
     <string name="user_notice_title">Perhatian</string>
     <string name="user_notice_message">Beberapa fitur membutuhkan koneksi internet untuk bekerja dengan normal.</string>
-    <string name="user_notice_declaration_ignore">Jangan tampil lagi</string>
+    <string name="user_notice_declaration_ignore">Jangan tampilkan lagi</string>
+    <string name="total_size">, %s</string>
 </resources>

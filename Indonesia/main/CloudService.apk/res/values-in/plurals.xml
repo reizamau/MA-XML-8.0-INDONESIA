@@ -4,10 +4,10 @@
         <item quantity="other">%d dimatikan</item>
     </plurals>
     <plurals name="items_unsynced">
-        <item quantity="other">Item menunggu sinkron: %d</item>
+        <item quantity="other">Berkas belum tersinkron: %d</item>
     </plurals>
     <plurals name="items_waiting_to_sync">
-        <item quantity="other">%d item menunggu disinkron</item>
+        <item quantity="other">%d berkas belum tersinkron</item>
     </plurals>
     <plurals name="dirty_contacts_count">
         <item quantity="other">%d kontak</item>
@@ -41,5 +41,11 @@
     </plurals>
     <plurals name="dirty_blocklist_count">
         <item quantity="other">%d entri daftar blokir</item>
+    </plurals>
+    <plurals name="micloud_main_resume_sync_hour">
+        <item quantity="other">Lanjutkan sinkron setelah %d jam lagi</item>
+    </plurals>
+    <plurals name="micloud_main_resume_sync_min">
+        <item quantity="other">Lanjutkan sinkron setelah %d menit lagi</item>
     </plurals>
 </resources>

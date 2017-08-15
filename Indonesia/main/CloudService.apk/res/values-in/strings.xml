@@ -2,10 +2,10 @@
 <resources>
     <string name="sina_share_pendding">Mengirim…</string>
     <string name="sina_share_success">Terkirim</string>
-    <string name="sina_share_fail">Gagal mengirim</string>
-    <string name="sina_token_expired_warning">Akun Weibo kedaluwarsa: Harap tautkan kembali</string>
-    <string name="sina_token_invalid_warning">Akun Weibo tidak valid: Harap tautkan kembali</string>
-    <string name="sina_share_fail_content_repeat">Tidak dapat berbagi, isi sudah ada…</string>
+    <string name="sina_share_fail">Tidak dapat kirim</string>
+    <string name="sina_token_expired_warning">Weibo account expired, add the account again.</string>
+    <string name="sina_token_invalid_warning">Weibo account is invalid, add the account again.</string>
+    <string name="sina_share_fail_content_repeat">"You've already shared this."</string>
     <string name="search_finddevice_pref">Cari perangkat</string>
     <string name="search_finddevice_pref_key_words">Cari perangkat;temukan perangkat</string>
     <string name="search_finddevice_pref_desc">Hidupkan/matikan Cari perangkat</string>
@@ -47,8 +47,8 @@
     <string name="error_server">Server bermasalah</string>
     <string name="error_unknown">Tidak dapat masuk</string>
     <string name="sync_dspt">Sinkron</string>
-    <string name="sync_sub_dspt">Anda dapat dikenakan biaya oleh operator untuk SMS aktivasi layanan ini.</string>
-    <string name="sync_sub_int_dspt">Anda dapat dikenakan biaya oleh operator untuk SMS internasional aktivasi layanan ini.</string>
+    <string name="sync_sub_dspt">Sebuah SMS keluar mungkin dibutuhkan untuk aktivasi layanan ini. Anda akan dikenakan biaya oleh operator untuk SMS tersebut.</string>
+    <string name="sync_sub_int_dspt">Sebuah SMS interlokal keluar mungkin dibutuhkan untuk aktivasi layanan ini. Anda akan dikenakan biaya oleh operator untuk SMS tersebut.</string>
     <string name="access_denied">Akses ditolak</string>
     <string name="internet_access_dspt">Apl ini perlu terhubung ke internet untuk bekerja dengan normal.</string>
     <string name="sync_on">Aktif</string>
@@ -61,7 +61,7 @@
     <string name="activate_number_change_dialog_message">Pilih nomor telepon yang perangkat lain dapat lihat saat Anda menggunakan panggilan internet (VoIP).</string>
     <string name="phone_number_may_required_dspt_provision">"Layanan ini mungkin membutuhkan no. telepon Anda. "</string>
     <string name="phone_number_required_dspt_provision">"Layanan ini membutuhkan no. telepon Anda. "</string>
-    <string name="sync_resend_sms_dspt_provision">" Jika Anda mengganti kartu SIM, Anda mungkin akan dikenakan biaya SMS aktivasi ulang layanan ini."</string>
+    <string name="sync_resend_sms_dspt_provision">" Saat Anda mengganti kartu SIM, jika SMS dibutuhkan untuk aktivasi ulang layanan ini maka Anda akan dikenakan biaya untuk SMS tersebut."</string>
     <string name="sync_dspt_provision_title">Mi Cloud</string>
     <string name="sync_dspt_provision_header">Sinkron</string>
     <string name="sync_dspt_provision">"Sinkron foto, kontak, catatan Anda, dll. antar semua perangkat Anda atau akses mereka di "</string>
@@ -87,15 +87,15 @@
 Anda dapat hidupkan atau matikan fitur ini kapan saja di Setelan."</string>
     <string name="mx_dspt_provision_with_voip">Gratis panggil perangkat MIUI lainnya menggunakan koneksi internet. Anda dapat hidupkan dan matikan fitur ini kapan saja di Setelan. VoIP didukung oleh Weihui. Lihat Kebijakan Privasi Weihui</string>
     <string name="mx_dspt_provision_with_voip2">Kebijakan Privasi</string>
-    <string name="mx_dspt_provision_privacy">"Fitur ini mungkin membutuhkan nomor telepon Anda. Anda mungkin akan dikenakan biaya oleh operator untuk SMS aktivasi fitur ini.
+    <string name="mx_dspt_provision_privacy">"Fitur ini membutuhkan nomor telepon Anda. Sebuah SMS keluar mungkin dibutuhkan untuk aktivasi layanan ini. Anda akan dikenakan biaya oleh operator untuk SMS tersebut.
 
-Fitur ini mengenkripsi dan mengunggah identitas perangkat Anda ke server Mi."</string>
-    <string name="mx_dspt_provision_privacy_2_sim">"Fitur ini mungkin membutuhkan nomor telepon Anda. Anda mungkin akan dikenakan biaya oleh operator untuk 2 SMS aktivasi fitur ini.
+Fitur ini mengenkripsi dan mengirimkan identitas perangkat Anda ke server Mi."</string>
+    <string name="mx_dspt_provision_privacy_2_sim">"Fitur ini membutuhkan nomor telepon Anda. 2 SMS keluar mungkin dibutuhkan untuk aktivasi layanan ini. Anda akan dikenakan biaya oleh operator untuk SMS tersebut.
 
-Fitur ini mengenkripsi dan mengirim identitas perangkat Anda ke server Mi."</string>
-    <string name="mx_dspt_provision_privacy_no_sim">"Fitur ini membutuhkan nomor telepon Anda. Anda mungkin akan dikenakan biaya oleh operator untuk SMS aktivasi fitur ini saat kartu SIM terdeteksi.
+Fitur ini mengenkripsi dan mengirimkan identitas perangkat Anda ke server Mi."</string>
+    <string name="mx_dspt_provision_privacy_no_sim">"Fitur ini membutuhkan nomor telepon Anda. Saat kartu SIM terdeteksi, sebuah SMS keluar mungkin dibutuhkan untuk aktivasi layanan ini. Anda akan dikenakan biaya oleh operator untuk SMS tersebut.
 
-Fitur ini mengenkripsi dan mengirim identitas perangkat Anda ke server Mi."</string>
+Fitur ini mengenkripsi dan mengirimkan identitas perangkat Anda ke server Mi."</string>
     <string name="user_agreement_p5">"
 "</string>
     <string name="user_agreement_p6">"Dengan menggunakan layanan ini, Anda menyetujui "</string>
@@ -109,12 +109,19 @@ Fitur ini mengenkripsi dan mengirim identitas perangkat Anda ke server Mi."</str
     <string name="activating">Mengaktifkan…</string>
     <string name="other_settings">Setelan lainnya</string>
     <string name="find_device">Cari perangkat</string>
+    <string name="find_device_pref_initializing">Initializing…</string>
     <string name="find_device_reading_status">Memuat status…</string>
     <string name="find_device_enabling">Menghidupkan…</string>
     <string name="find_device_disabling">Mematikan…</string>
+    <string name="find_device_operation_failure_rpc">Tidak dapat memproses karena ada masalah dengan RPC.</string>
     <string name="find_device_reading_status_failure">Tidak dapat memuat status.</string>
     <string name="enable_find_device_success">Cari perangkat dihidupkan.</string>
+    <string name="activate_find_device_success">Cari perangkat fitur telah diaktivasi.</string>
     <string name="disable_find_device_success">Cari perangkat dimatikan.</string>
+    <string name="find_device_pref_alert_title">Ingat ID Akun Mi dan sandi</string>
+    <string name="find_device_pref_alert_content">"Find device is associated with your Mi Account. You need to set a password or enter the password you've set. Make sure you always remember your Mi Account ID and password. An outgoing SMS may be required to activate this service. Your carrier will charge you for this message. When you switch SIM cards, a message will be sent automatically to reactivate this feature."</string>
+    <string name="find_device_pref_alert_positive">Oke</string>
+    <string name="find_device_pref_alert_negtive">Tidak</string>
     <string name="enable_find_device_error">\"Tidak dapat hidupkan Cari Perangkat. \"%1$s</string>
     <string name="disable_find_device_error">\"Tidak dapat matikan Cari Perangkat. \"%1$s</string>
     <string name="find_device_error_unknown">Kesalahan tak diketahui.</string>
@@ -195,21 +202,24 @@ Untuk memperbaikinya, Anda dapat membersihkan beberapa berkas lama untuk membuat
     <string name="enable_sync_dspt">Jangan sinkron</string>
     <string name="enable_sync">Sinkron</string>
     <string name="cloud_find_device">Cari perangkat</string>
+    <string name="cloud_find_device_on">Hidup</string>
+    <string name="cloud_find_device_off">Mati</string>
     <string name="find_device_dspt">Menemukan, kunci, atau setel ulang perangkat dari jauh</string>
     <string name="micloud_user_space_title">Ruang Penyimpanan</string>
     <string name="sync_sub_dspt_provision">Sinkron foto, kontak, musik, apl, dll antar semua perangkat Anda</string>
     <string name="btn_return">Kembali</string>
-    <string name="sync_sub_1_sms">Anda dapat dikenakan biaya oleh operator untuk SMS aktivasi layanan ini.</string>
-    <string name="sync_sub_1_intl_sms">Anda dpt dikenakan biaya oleh operator utk SMS internasional aktivasi layanan ini.</string>
-    <string name="sync_sub_2_sms">Anda dpt dikenakan biaya oleh operator utk 2 SMS aktivasi layanan ini.</string>
-    <string name="sync_sub_2_intl_sms">Anda dpt dikenakan biaya oleh operator utk 2 SMS internasional aktivasi layanan ini.</string>
-    <string name="sync_sub_1_sms_1_intl_sms">Anda dpt dikenakan biaya oleh operator utk 1 SMS domestik dan 1 SMS internasional aktivasi layanan ini.</string>
+    <string name="sync_sub_1_sms">Sebuah SMS keluar mungkin dibutuhkan untuk aktivasi layanan ini. Anda akan dikenakan biaya oleh operator untuk SMS tersebut.</string>
+    <string name="sync_sub_1_intl_sms">Sebuah SMS interlokal keluar mungkin dibutuhkan untuk aktivasi layanan ini. Anda akan dikenakan biaya oleh operator untuk SMS tersebut.</string>
+    <string name="sync_sub_2_sms">2 SMS keluar mungkin dibutuhkan untuk aktivasi layanan ini. Anda akan dikenakan biaya oleh operator untuk SMS tersebut.</string>
+    <string name="sync_sub_2_intl_sms">2 SMS interlokal keluar mungkin dibutuhkan untuk aktivasi layanan ini. Anda akan dikenakan biaya oleh operator untuk SMS tersebut.</string>
+    <string name="sync_sub_1_sms_1_intl_sms">1 buah SMS lokal dan 1 buah SMS interlokal mungkin dibutuhkan untuk aktivasi layanan ini. Anda akan dikenakan biaya oleh operator untuk SMS tersebut.</string>
     <string name="micloud_all_sub_1_sms">SMS reguler akan dikirim untuk aktivasi kartu SIM. Anda akan dikenakan biaya oleh operator.</string>
     <string name="micloud_all_sub_1_intl_sms">SMS internasional akan dikirim untuk aktivasi kartu SIM. Anda akan dikenakan biaya oleh operator.</string>
     <string name="micloud_all_sub_2_sms">2 SMS reguler akan dikirim untuk aktivasi kartu SIM. Anda akan dikenakan biaya oleh operator.</string>
     <string name="micloud_all_sub_2_intl_sms">2 SMS internasional akan dikirim untuk aktivasi kartu SIM. Anda akan dikenakan biaya oleh operator.</string>
     <string name="micloud_all_sub_1_sms_1_intl_sms">2 SMS (reguler dan internasional) akan dikirim untuk aktivasi kartu SIM. Anda akan dikenakan biaya oleh operator.</string>
     <string name="micloud_all_sub_resend_sms">"Saat Anda menghidupkan 'Cari perangkat', SMS aktivasi akan dikirim setelah Anda ganti kartu SIM."</string>
+    <string name="micloud_sync_prompt_for_no_gallery_sync">Otomatis sinkron Kontak, Kalender, dan Catatan. Pergi ke setelan Mi Cloud untuk sinkron apl lainnya.</string>
     <string name="sync_item_calllog_title">Sinkron riwayat panggilan</string>
     <string name="sync_item_calllog_summary">Sinkron riwayat panggilan keluar dan masuk telepon ini</string>
     <string name="view_storage_title">Ruang penyimpanan</string>
@@ -220,7 +230,10 @@ Untuk memperbaikinya, Anda dapat membersihkan beberapa berkas lama untuk membuat
     <string name="contact">Kontak</string>
     <string name="sms">Pesan</string>
     <string name="photo">Foto</string>
+    <string name="micloud_first_login_title" />
+    <string name="micloud_first_login_summary" />
     <string name="micloud_unlogin_for_time_title">Mi Cloud</string>
+    <string name="micloud_unlogin_for_time_summary" />
     <string name="micloud_main_sync_stop">Sinkron berhenti</string>
     <string name="micloud_main_sync_pause">Sinkron dijeda</string>
     <string name="micloud_main_sync_exception">Sinkron bermasalah</string>
@@ -230,18 +243,20 @@ Untuk memperbaikinya, Anda dapat membersihkan beberapa berkas lama untuk membuat
     <string name="micloud_main_set_internet">Jaringan</string>
     <string name="micloud_main_sync_now">Sinkron sekarang</string>
     <string name="micloud_main_sync_on">Sinkron hidup</string>
+    <string name="micloud_main_master_sync_on">Sinkron hidup</string>
     <string name="micloud_main_network_error">Tidak dapat terhubung ke jaringan</string>
     <string name="micloud_main_sync_on_wifi">Menunggu Wi-Fi</string>
     <string name="micloud_main_sync_setting">Setelan sinkron</string>
     <string name="micloud_main_title_not_synced">Tidak tersinkron</string>
     <string name="micloud_main_message_not_synced">%s data tidak tersinkron</string>
-    <string name="micloud_main_suggest_setting">Ganti setelan atau hubungan ke Wi-Fi</string>
+    <string name="micloud_main_suggest_setting">Ganti setelan atau hubungkan ke Wi-Fi</string>
     <string name="micloud_main_sync_pending">Tunggu untuk sinkron</string>
+    <string name="micloud_main_sync_need_charge_or_sleep">Isi daya dan matikan layar untuk sinkron</string>
     <string name="micloud_main_detail">Lihat rincian</string>
     <string name="micloud_main_network_abnormal">Tidak dapat terhubung ke jaringan</string>
     <string name="micloud_main_sync_init">Memperoleh info</string>
     <string name="micloud_main_battery_low">Baterai tidak mencukupi untuk sinkron</string>
-    <string name="micloud_main_battery_message">Isi daya perangkat Anda untuk sinkron</string>
+    <string name="micloud_main_battery_message">Isi daya untuk sinkron</string>
     <string name="micloud_main_syncing">Menyinkron…</string>
     <string name="micloud_main_last_sync_time">Sinkron terakhir %s</string>
     <string name="micloud_main_synced_data_count">%d item tersinkron</string>
@@ -250,30 +265,39 @@ Untuk memperbaikinya, Anda dapat membersihkan beberapa berkas lama untuk membuat
     <string name="micloud_main_space_low">Ruang hampir penuh</string>
     <string name="micloud_main_update_space">Beli ruang.</string>
     <string name="micloud_main_space_full_title">Ruang penyimpanan tidak cukup, sinkron dijeda</string>
+    <string name="micloud_main_space_full_message">Upgrade to member will obtain more storage space</string>
     <string name="micloud_main_memory_low_title">Penyimpanan internal telepon hampir penuh</string>
     <string name="micloud_main_memory_low_message">Untuk sinkron, hapus beberapa item yang Anda simpan di cloud.</string>
     <string name="micloud_main_clear_now">Hapus</string>
     <string name="micloud_main_query_error_title">Tak dapat peroleh info perkembangan sinkron</string>
     <string name="micloud_main_query_error_message">Tak dpt konfirmasi apakah sinkron sudah selesai utk beberapa layanan</string>
     <string name="micloud_main_multi_user_error_title">Mi Cloud bermasalah</string>
-    <string name="micloud_main_multi_user_error_message">"Anda masuk dengan akun yang sama di Ruang pertama, yang mengakibatkan Mi Cloud bermasalah. Jika Anda ingin mencadangkan berkas:
-
-1. Gunakan akun yang berbeda.
-2. Pindahkan berkas ke Ruang pertama."</string>
+    <string name="micloud_main_multi_user_error_message">"Anda masuk ke akun yang sama di Ruang pertama, yang menyebabkan ada masalah di Mi Cloud.
+Gunakan akun yang berbeda."</string>
+    <string name="micloud_main_cancel_sync">Batal sinkron</string>
+    <string name="micloud_main_query_again">Query</string>
+    <string name="micloud_main_wait_wlan">Tunggu Wi-Fi</string>
+    <string name="micloud_main_wait_wlan_charge_sleep">Waiting for Wi-Fi, connecting charger and turn off screen</string>
+    <string name="micloud_main_wait_wlan_charge">Waiting for Wi-Fi, connecting charger</string>
+    <string name="micloud_main_wait_charge_sleep">Waiting for connecting charger and turn off screen</string>
+    <string name="micloud_main_wait_charge">Waiting for connecting charger</string>
+    <string name="micloud_main_resume_sync_soon">Lanjutkan sinkron segera</string>
+    <string name="micloud_main_button_set_internet">Setting</string>
+    <string name="micloud_main_button_activate">Aktivasi</string>
+    <string name="micloud_main_button_authorize">Authorize</string>
     <string name="micloud_detail_syncing">Menyinkron</string>
     <string name="micloud_detail_upload_syncing">Mengunggah %s</string>
     <string name="micloud_detail_download_syncing">Mengunduh %s</string>
     <string name="micloud_detail_pending">Menunggu</string>
     <string name="micloud_detail_success">Tersinkron</string>
     <string name="micloud_detail_fail">Tidak dapat sinkron</string>
+    <string name="micloud_detail_not_syncable">Not syncable</string>
     <string name="micloud_detail_lastest">Tersinkron</string>
     <string name="micloud_detail_lastest_with_off">Tersinkron</string>
     <string name="micloud_detail_not_synced">Tidak tersinkron</string>
     <string name="micloud_detail_preference_sync_items">Item</string>
     <string name="micloud_detail_wlan">%d menunggu untuk sinkron</string>
     <string name="micloud_detail_query_error">Tak dapat peroleh info perkembangan sinkron</string>
-    <string name="micloud_detail_query_error_title">Tak dapat peroleh info perkembangan sinkron</string>
-    <string name="micloud_detail_query_error_detail">Tak dapat memastikan apakah sinkron telah selesai utk beberapa layanan. Anda dapat kontak pengembang melalui aplikasi Masukan.</string>
     <string name="micloud_detail_not_sync">%d menunggu disinkron</string>
     <string name="micloud_detail_force_sync">Sinkron sekarang</string>
     <string name="micloud_detail_ok">Oke</string>
@@ -281,8 +305,11 @@ Untuk memperbaikinya, Anda dapat membersihkan beberapa berkas lama untuk membuat
     <string name="micloud_detail_sync_now">Sinkron skrg</string>
     <string name="micloud_detail_battery_low_title">Baterai lemah</string>
     <string name="micloud_detail_battery_low_message">Baterai lemah. Isi daya dan sinkron.</string>
-    <string name="micloud_detail_depend_wifi_title">Butuh Wi-Fi</string>
-    <string name="micloud_detail_depend_wifi_message">Harap hubungkan ke Wi-Fi atau cek setelan sinkron.</string>
+    <string name="micloud_detail_depend_wifi_title">Hubungkan ke Wi-Fi</string>
+    <string name="micloud_detail_depend_wifi_message">Hubungkan ke Wi-Fi atau cek setelan sinkron.</string>
+    <string name="micloud_detail_pause">Sinkron dijeda</string>
+    <string name="micloud_detail_need_charge_or_sleep">Isi daya dan matikan layar untuk sinkron</string>
+    <string name="micloud_detail_battery_low">Baterai lemah</string>
     <string name="micloud_check_sim_title">"Sepertinya Anda ganti kartu SIM.  Masuk ke
 Akun Mi untuk aktivasi ulang Mi Cloud."</string>
     <string name="micloud_check_sim_notify_title">Aktivasi ulang Mi Cloud</string>
@@ -304,7 +331,7 @@ Akun Mi untuk aktivasi ulang Mi Cloud."</string>
     <string name="more_activity_in_upgrade_space">Info lebih lanjut di <a href="http://i.mi.com">http://i.mi.com</a></string>
     <string name="success_upgraded_space">%s ditambahkan</string>
     <string name="total_space_upgraded_to">Total ruang:%s</string>
-    <string name="apple_cloud">Apple Cloud Service</string>
+    <string name="apple_cloud">iCloud</string>
     <string name="google_cloud">Google Drive</string>
     <string name="microsoft_cloud">Microsoft Cloud Service</string>
     <string name="apple_cloud_eng">iCloud</string>
@@ -340,7 +367,7 @@ Untuk mendapatkan ruang penyimpanan ekstra, kunjungi mi.com/micloud."</string>
     <string name="micloud_member_buy_title">Konfirmasi pesanan</string>
     <string name="micloud_member_buy_content" formatted="false">"Berlaku sampai %s-%s-%s
 
-%s Mi Credit"</string>
+%s Mi Kredit"</string>
     <string name="micloud_member_net_error_alert_title">Tidak dapat terhubung ke jaringan</string>
     <string name="micloud_member_net_error_alert_message">Anda tidak memiliki koneksi internet.</string>
     <string name="micloud_member_pay_fail_toast">Tidak dapat menyelesaikan pembayaran</string>
@@ -373,12 +400,17 @@ Pencadangan terakhir %2$s"</string>
     <string name="micloud_storage">Penyimpanan</string>
     <string name="micloud_member">Keanggotaan Mi Cloud</string>
     <string name="micloud_buy_member">Beli keanggotaan Mi Cloud</string>
+    <string name="micloud_buy_member_safe">Beli keanggotaan Mi Cloud</string>
     <string name="micloud_website">Item Mi Cloud</string>
     <string name="micloud_member_advantage">Beli ruang.</string>
     <string name="micloud_main_title_sync_fail">Tidak dapat sinkron</string>
     <string name="micloud_main_title_sync_on_wifi">Pakai Wi-Fi</string>
     <string name="micloud_main_title_sync_off">Sinkron mati</string>
     <string name="micloud_main_title_master_sync_off">Sinkron otomatis nonaktif</string>
+    <string name="micloud_main_message_master_sync_off">Auto sync setting is in notification bar.</string>
+    <string name="micloud_main_error_network_disallowed">Please ensure the permission of accessing Internet.</string>
+    <string name="micloud_main_error_activated_fail">Please activate Sim card.</string>
+    <string name="micloud_main_error_permission_limit">Please authorize access database permission for micloud.</string>
     <string name="micloud_confusion_no">Tidak</string>
     <string name="micloud_confusion_yes">Iya</string>
     <string name="micloud_confusion_cancel">Batal</string>
@@ -436,31 +468,46 @@ Pencadangan terakhir %2$s"</string>
     <string name="micloud_notif_content_clipboard_push">Anda dapat tempel di mana saja.</string>
     <string name="micloud_notif_title_multi_user_error">Tidak bisa sinkron dengan Mi Cloud</string>
     <string name="micloud_notif_content_multi_user_error">Anda masuk dengan akun yang sama di Ruang pertama.</string>
-    <string name="micloud_find_device_guide_title">"Masuk ke %s untuk menemukan, kunci,
-atau hapus perangkat Anda."</string>
-    <string name="micloud_find_device_guide_content">"Saat Anda mengganti kartu SIM, sebuah SMS akan otomatis dikirim
-untuk aktivasi ulang fitur ini."</string>
+    <string name="micloud_notif_title_dirty_data">Ada berkas yang belum disinkron</string>
+    <string name="micloud_notif_content_dirty_data">Rincian</string>
+    <string name="micloud_find_device_guide_title">"Sign in to &lt;font color=#FF0000>&lt;b>i.mi.com&lt;/b>&lt;/font> to locate, lock, or erase your device. This might help you to find your device in case it's lost.&lt;br />If you lose your device, you could contact the security service of the apps you use frequently (e.g., Alipay, WeChat, QQ) to protect your accounts on &lt;font color=#FF0000>&lt;b>i.mi.com&lt;/b>&lt;/font>."</string>
+    <string name="micloud_find_device_guide_content">An outgoing SMS message may be required to activate this service. Your carrier will charge you for this message. When you switch your SIM card, a message will be sent automatically to reactivate this feature.</string>
     <string name="micloud_find_device_guide_button">Hidupkan Cari perangkat</string>
     <string name="micloud_find_device_guide_progress">Menghidupkan Cari perangkat…</string>
+    <string name="micloud_find_device_verify_button">Reactivate Find device</string>
+    <string name="micloud_find_device_verify_progress">Reactivating Find device…</string>
+    <string name="micloud_find_device_verify_close">Turn off Find device</string>
+    <string name="micloud_find_device_close_progress">Turning off Find device…</string>
     <string name="micloud_find_device_opened">Cari perangkat dihidupkan</string>
     <string name="micloud_find_device_open_fail">Tidak dapat menghidupkan Cari perangkat</string>
     <string name="micloud_find_device_opened_content">Temukan perangkat Anda di %s</string>
     <string name="micloud_find_device_opened_content_url">i.mi.com</string>
     <string name="micloud_find_device_opened_content_url_int">www.mi.com/micloud</string>
+    <string name="micloud_find_device_verify_fail">"Couldn't reactivate Find device"</string>
+    <string name="micloud_find_device_close_fail">"Couldn't turn off Find device"</string>
     <string name="micloud_find_device_finish">Selesai</string>
     <string name="micloud_find_device_guide_micloud">Hidupkan Sinkron dengan Mi Cloud</string>
     <string name="micloud_find_device_guide_micloud_sub_content">Sinkron kontak, foto, catatan, dan lainnya dengan Mi Cloud</string>
-    <string name="micloud_find_device_guide_fail_reopen">Hidupkan Cari perangkat di Mi Cloud</string>
+    <string name="micloud_find_device_guide_fail_reopen">You can turn on Find device in Mi Account - Mi Cloud</string>
     <string name="micloud_find_device_guide_fail_sub_net">Periksa koneksi jaringan dan coba lagi.</string>
     <string name="micloud_find_device_guide_fail_sub_timeout">Waktu koneksi habis. Coba lagi nanti.</string>
     <string name="micloud_find_device_guide_noti_title">Hidupkan Cari perangkat</string>
-    <string name="micloud_find_device_guide_noti_content">Melindungi data Anda bahkan saat perangkat Anda hilang</string>
+    <string name="micloud_find_device_guide_noti_content">Melindungi data bahkan saat perangkat hilang</string>
     <string name="micloud_find_device_guide_noti_title_by_app_change_wx">WeChat menyarankan Anda untuk menghidupkan Cari perangkat</string>
     <string name="micloud_find_device_guide_noti_content_by_app_change_wx">Data WeChat Anda akan tetap aman bahkan jika perangkat hilang</string>
     <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Alipay menyarankan Anda untuk menghidupkan Cari perangkat</string>
     <string name="micloud_find_device_guide_noti_content_by_app_change_zfb">Data Alipay Anda akan tetap aman bahkan jika perangkat hilang</string>
     <string name="micloud_find_device_guide_noti_title_by_app_change_qq">QQ menyarankan Anda untuk menghidupkan Cari perangkat</string>
     <string name="micloud_find_device_guide_noti_content_by_app_change_qq">Data QQ Anda akan tetap aman bahkan jika perangkat hilang</string>
+    <string name="micloud_find_device_guide_alert_title">Remember your Mi Account ID and password</string>
+    <string name="micloud_find_device_guide_alert_content">"Find device is associated with your Mi Account. You need to set a password or enter the password you've set. Make sure you always remember your Mi Account ID and password."</string>
+    <string name="micloud_find_device_guide_alert_positive">OK</string>
+    <string name="micloud_find_device_guide_alert_negtive">No thanks</string>
+    <string name="micloud_find_device_guide_alert_negtive_activate">No thanks</string>
+    <string name="micloud_find_device_close_alert_title">Turn off Find device?</string>
+    <string name="micloud_find_device_close_alert_content">"If you turn this feature off, you wan't be able to locate your device in case it's lost."</string>
+    <string name="micloud_find_device_close_alert_positive">Keep on</string>
+    <string name="micloud_find_device_close_alert_negtive">Turn off anyway</string>
     <string name="activate_finddevice">Hubung ke jaringan untuk aktivasi perangkat</string>
     <string name="account_related">Perangkat Anda tertaut dengan Akun Mi (%s). Hubung ke jaringan untuk verifikasi perangkat.</string>
     <string name="connect_network">Hubung ke Wi-Fi atau masukkan kartu SIM</string>
@@ -497,12 +544,15 @@ untuk aktivasi ulang fitur ini."</string>
     <string name="passed_synced_time_day">Tersinkron %dh yang lalu</string>
     <string name="cloud_storage_is_full">Penuh</string>
     <string name="micloud_wipe_data_confirm_label">Hapus data dari Mi Cloud</string>
-    <string name="micloud_wipe_data_confirm_title">Hapus item yang disinkron dengan Mi Cloud dari telepon setelah anda keluar?</string>
-    <string name="micloud_wipe_data_retain">Tinggalkan</string>
+    <string name="micloud_wipe_data_confirm_title">Hapus item yang disinkronkan dengan Mi Cloud dari telepon setelah Anda keluar?</string>
+    <string name="micloud_wipe_data_retain">Simpan</string>
     <string name="micloud_wipe_data_remove">Hapus</string>
     <string name="wipe_data_dialog_title">Beberapa item belum disinkron</string>
     <string name="wipe_data_dialog_msg">%s tidak disinkronkan dan akan tetap di telepon Anda.</string>
-    <string name="wipe_data_dialog_button_check_sync">Periksa jika disinkronkan</string>
+    <string name="wipe_data_dialog_button_check_sync">Periksa sinkronisasi</string>
     <string name="wipe_data_dialog_msg_and_on">, dan beberapa item lainnya</string>
-    <string name="file_provider_authority">com.miui.cloudservice.fileprovider</string>
+    <string name="micloud_dialog_sync_now_title">Hubung ke Wi-Fi untuk sinkron</string>
+    <string name="micloud_dialog_sync_now_message">Hubung ke Wi-Fi untuk menghindari biaya data seluler</string>
+    <string name="micloud_dialog_sync_now_negative">Nanti</string>
+    <string name="micloud_dialog_sync_now_positive">Pakai data seluler</string>
 </resources>

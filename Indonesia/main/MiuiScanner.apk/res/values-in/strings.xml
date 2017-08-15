@@ -32,6 +32,7 @@
     <string name="common_save">Simpan</string>
     <string name="common_retry">Coba lagi</string>
     <string name="sdk_not_ready">Mempersiapkan SDK. Coba lagi nanti.</string>
+    <string name="error_get_image">fail to get image</string>
     <string name="language_entry_chinese_cn">Mandarin sederhana</string>
     <string name="language_entry_chinese_tw">Mandarin tradisional</string>
     <string name="language_entry_danish">Denmark</string>
@@ -64,6 +65,7 @@
     <string name="recognize_fail">Tidak dapat baca kode</string>
     <string name="place_barcode_into_rectangle">Letakkan kode dalam bingkai</string>
     <string name="barcode_into_rectangle">Letakkan kode dalam bingkai</string>
+    <string name="drag_barcode_into_frame">Geser bingkai agar kode muat</string>
     <string name="scan_fail">Tidak dapat pindai kode</string>
     <string name="scan_result">Hasil</string>
     <string name="url_is_safety">Situs web ini aman</string>
@@ -92,12 +94,14 @@
     <string name="accept">Oke</string>
     <string name="cancel">Batal</string>
     <string name="tips_message">Hubung ke internet untuk memeriksa apakah situs web yang akan dikunjungi aman.</string>
-    <string name="not_tips">Jangan tampil lagi</string>
+    <string name="not_tips">Jangan tampilkan lagi</string>
     <string name="settings">Setelan</string>
     <string name="not_insert_contact">Tidak dapat tambah kontak</string>
     <string name="choose_picture">Pilih gambar kode QR</string>
     <string name="payment_weixin">WeChat</string>
     <string name="payment_zhifubao">Alipay</string>
+    <string name="weixin_code_tip">Gunakan WeChat untuk pindai kode QR ini</string>
+    <string name="back">Kembali</string>
     <string name="shopping_title">Ambil foto produk</string>
     <string name="shopping_searching">Mencari…</string>
     <string name="shopping_vendor_info">Didukung oleh Taobao</string>
@@ -171,4 +175,7 @@
     <string name="recognition_error_download_data_msg">Unduh mesin pengenalan untuk pindai kartu. Ukuran mesin sekitar 15MB. Gunakan data seluler untuk unduh?</string>
     <string name="recognition_error_download_success">Berhasil mengunduh</string>
     <string name="recognition_error_download_fail">Tidak dapat unduh mesin pengenalan</string>
+    <string name="low_version_tip">Versi MIUI terlalu tua. Perbarui MIUI agar dapat menggunakan Pemindai.</string>
+    <string name="app_description_title">Tentang Pemindai</string>
+    <string name="app_description_content">Pemindai dapat pindai kode QR, kartu nama, dan dokumen. Pastikan Anda telah mengetahui apa yang bisa dilakukan dengan fitur ini, sebelum Anda menghapus apl ini.</string>
 </resources>

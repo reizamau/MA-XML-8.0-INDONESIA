@@ -7,6 +7,7 @@
     <string name="keyboard_layout_english_us_intl">Inggris (AS), gaya Internasional</string>
     <string name="keyboard_layout_english_us_colemak_label">Inggris (AS), gaya Colemak</string>
     <string name="keyboard_layout_english_us_dvorak_label">Inggris (AS), gaya Dvorak</string>
+    <string name="keyboard_layout_english_us_workman_label">Inggris (AS), gaya Workman</string>
     <string name="keyboard_layout_german_label">Jerman</string>
     <string name="keyboard_layout_french_label">Prancis</string>
     <string name="keyboard_layout_french_ca_label">Prancis (Kanada)</string>

@@ -100,7 +100,7 @@ Catatan: Data untuk apl yang Anda instal tidak akan dicadangkan ke Mi Cloud."</s
     <string name="success_open_cloudbackup">Pencadangan untuk apl Layar utama telah dihidupkan</string>
     <string name="as_new_device">Ganti Layar utama dan setelan sebelumnya</string>
     <string name="as_new_device_summary">Hapus cadangan Mi Cloud sebelumnya</string>
-    <string name="restore_data_summary">Fitur ini membutuhkan koneksi internet.</string>
+    <string name="restore_data_summary">Fitur ini membutuhkan koneksi internet</string>
     <string name="query_restore_summary">Telah ditemukan cadangan Mi Cloud untuk perangkat ini. Pulihkan apl Layar utama dan setelan atau gunakan perangkat baru dan hapus cadangan Mi Cloud sebelumnya?</string>
     <string name="query_restore_back_view">Cadangan Mi Cloud</string>
     <string name="restore_home_screen_apps">Pulihkan dari cadangan Mi Cloud</string>

@@ -12,9 +12,10 @@
     <string name="normal_app">Ruang pertama</string>
     <string name="hidden_app">Ruang kedua</string>
     <string name="public_app">Kedua ruang</string>
-    <string name="switch_in_hidden_space">Impor ke Ruang kedua</string>
-    <string name="summary_switch_apps_settings">Pilih apl untuk digunakan di Ruang kedua</string>
-    <string name="switch_out_hidden_space">Ekspor data dari Ruang kedua</string>
+    <string name="current_space">Ruang saat ini</string>
+    <string name="switch_in_hidden_space">Impor ke ruang saat ini</string>
+    <string name="summary_switch_apps_settings">Pilih apl untuk digunakan di ruang saat ini</string>
+    <string name="switch_out_hidden_space">Ekspor data dari ruang saat ini</string>
     <string name="switch_out_contacts">Ekspor kontak</string>
     <string name="switch_out_privacy_contacts">Ekspor kontak pribadi</string>
     <string name="switch_out_photos">Ekspor foto</string>
@@ -41,7 +42,7 @@
     <string name="err_delete_contacts">Tidak dapat hapus kontak</string>
     <string name="err_delete_photos">Tidak dapat hapus kontak</string>
     <string name="err_delete_files">Tidak dapat hapus berkas</string>
-    <string name="err_volume_not_enough">Ruang penyimpanan tidak cukup</string>
+    <string name="err_volume_not_enough">Ruang penyimpanan tidak mencukupi</string>
     <string name="err_unknown">Kesalahan tak diketahui</string>
     <string name="dir_switch_out_all_photos">Galeri Ruang kedua</string>
     <string name="creating_app_icon">Membuat ikon…</string>
@@ -247,4 +248,39 @@ untuk masuk ke Ruang kedua dari Layar kunci"</string>
     <string name="scanner_fingerprint">Memindai sidik jari…</string>
     <string name="scanner_fingerprint_enter_second">"Pindai sidik jari Ruang kedua
 untuk masuk ke Ruang kedua dari Layar kunci"</string>
+    <string name="xspace_guide_title">Buat apl Ganda untuk %s</string>
+    <string name="xspace_guide_des">Gunakan 2 akun tanpa perlu ganti</string>
+    <string name="xpsace_guide_button">Buat</string>
+    <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
+    <string name="search_result_text">"Couldn't find any apps"</string>
+    <string name="space_name_default">Ruang kerja</string>
+    <string name="space_des_default">Ruang isolasi dengan data terenkripsi</string>
+    <string name="create_work_space">Buat Ruang kerja</string>
+    <string name="switch_download_space">Ganti Ruang kerja</string>
+    <string name="confirm_airspace_password">Konfirmasi sandi %s</string>
+    <string name="air_space_created">Berhasil buat Ruang kerja</string>
+    <string name="enter_air_space">Pergi ke Ruang kerja</string>
+    <string name="invalid_qr_code">Kode QR tidak valid</string>
+    <string name="need_network_when_create">Hubungkan ke jaringan sebelum buat Ruang kerja</string>
+    <string name="downloading_space">Mengunduh…</string>
+    <string name="air_space_deleted">Berhasil hapus Ruang kerja</string>
+    <string name="need_reset_passwd">Setel ulang sandi Ruang kerja sebelum memasuki Ruang kerja</string>
+    <string name="reset_passwd_success">Sandi berhasil disetel ulang</string>
+    <string name="air_space_exit">Keluar dari ruang</string>
+    <string name="air_space_setting">Setelan Ruang</string>
+    <string name="other">Lainnya</string>
+    <string name="airspace_users_full">Tidak bisa membuat Ruang kerja lagi</string>
+    <string name="same_qr_code_title">%s telah ada</string>
+    <string name="same_qr_code_des">Sepertinya Ruang kerja ini sudah ada. Anda dapat menggunakan pintasan di Layar utama dan layar notifikasi untuk pergi ke sana. Pergi sekarang?</string>
+    <string name="same_qr_code_enter_space">Pergi ke Ruang kerja</string>
+    <string name="same_qr_code_create_space">Buat satu lagi</string>
+    <string name="not_support_air_space">Fitur ini belum didukung di telepon Anda</string>
+    <string name="loading">Tunggu sebentar…</string>
+    <string name="contact_us">Hubungi kami</string>
+    <string name="space_deleted">Ruang telah dihapus</string>
+    <string name="function_not_support">Tidak didukung di perangkat ini</string>
+    <string name="can_not_switch_when_calling">Tidak bisa berganti ruang saat sedang menelepon</string>
+    <string name="can_not_delete_when_calling">Tidak bisa hapus ruang saat sedang menelepon</string>
+    <string name="support_desc">Security services provided by Graphite</string>
+    <string name="sdcardfs_dialog_message">进入分身前需要在开发者选项中关闭”模拟SD卡优化“</string>
 </resources>

@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">Xiaomi service framework</string>
     <string name="xmsf_activate_info">Info aktivasi XMSF</string>
-    <string name="error_device_id_title">Tak dapat peroleh ID Perangkat yang valid</string>
+    <string name="error_device_id_title">Tidak dapat peroleh ID perangkat yang valid</string>
     <string name="error_device_id_message">"ID perangkat tidak valid: %s
 ID perangkat harus alamat IMEI atau MAC yang valid. Tanpa ID perangkat, beberapa fitur Akun Mi dan Mi Cloud tidak akan tersedia."</string>
     <string name="accept">Oke</string>

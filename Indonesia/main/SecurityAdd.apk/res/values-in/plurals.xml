@@ -6,4 +6,10 @@
     <plurals name="uninstall_game_count_title">
         <item quantity="other">Belum menambahkan %d permainan</item>
     </plurals>
+    <plurals name="found_apps_title">
+        <item quantity="other">%d apl ditemukan</item>
+    </plurals>
+    <plurals name="find_applications">
+        <item quantity="other">Cari di antara %d apl</item>
+    </plurals>
 </resources>

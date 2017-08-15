@@ -2,7 +2,7 @@
 <resources>
     <string name="application_name">Peluncur sistem</string>
     <string name="folder_name">Folder</string>
-    <string name="unnamed_folder_name">Folder tanpa nama</string>
+    <string name="unnamed_folder_name">Folder</string>
     <string name="chooser_wallpaper">Pilih wallpaper baru</string>
     <string name="activity_not_found">Apl tidak terinstal di perangkat</string>
     <string name="cancel_action">Batal</string>
@@ -41,9 +41,9 @@
     <string name="permdesc_uninstall_shortcut">Izinkan apl utk menghapus pintasan tanpa campur tangan pengguna.</string>
     <string name="permlab_install_widget">Instal widget</string>
     <string name="permdesc_install_widget">Izinkan apl untuk menambah widget tanpa campur tangan pengguna.</string>
-    <string name="permlab_read_settings">Baca Setelan Beranda dan Pintasan</string>
+    <string name="permlab_read_settings">Baca Setelan Layar utama dan Pintasan</string>
     <string name="permdesc_read_settings">Izinkan apl utk membaca setelan dan pintasan di Beranda.</string>
-    <string name="permlab_write_settings">Ubah Setelan Beranda dan Pintasan</string>
+    <string name="permlab_write_settings">Ubah Setelan Layar utama dan Pintasan</string>
     <string name="permdesc_write_settings">Izinkan apl utk mengubah setelan dan pintasan di Beranda.</string>
     <string name="status_pending">Menunggu</string>
     <string name="status_downloading">Mengunduh</string>
@@ -60,7 +60,6 @@
     <string name="menu_sort">Urutkan apl</string>
     <string name="menu_launcher_setting">Setelan peluncur</string>
     <string name="editing_tips">Ubah Layar utama</string>
-    <string name="editing_mode_title">%1$d terpilih</string>
     <string name="editing_mode_title_empty">0 terpilih</string>
     <string name="multi_selecting_tips">Untuk memilih apl, tekan dan geser ikonnya dan taruh di sini</string>
     <string name="editing_add_widget_tips">Ubah widget</string>
@@ -71,19 +70,15 @@
     <string name="cant_remove_retained_app">Tidak dapat hapus apl ini</string>
     <string name="uninstall_dialog_message">Uninstal akan menghapus semua data apl.</string>
     <string name="uninstall_dialog_title_format">Uninstal %s?</string>
-    <string name="uninstall_xspace_dialog_title_format">Uninstal \"%s\" ganda</string>
+    <string name="uninstall_xspace_dialog_title_format">Uninstal \"%s\" ganda?</string>
     <string name="uninstall_xspace_dialog_message">Menguninstal apl ganda akan menghapus seluruh data apl.</string>
     <string name="uninstall_with_xspace_dialog_message">Aplikasi yang digandakan akan segera dihapus bersama data aplikasi.</string>
     <string name="confirm_uninstall_dialog_title">Aplikasi yang digandakan akan dihapus.</string>
     <string name="confirm_uninstall_dialog_has_xspace_app_msg">Aplikasi yang digandakan akan dihapus bersama yang satu ini.</string>
     <string name="confirm_uninstall_dialog_contain_xspace_app_msg">Aplikasi yang digandakan akan dihapus bersama yang ini.</string>
-    <string name="uninstall_dialog_title_multi_format" formatted="false">Uninstal %s dan %d apl lain?</string>
     <string name="uninstall">Uninstal</string>
-    <string name="uninstall_result_multi_succeeded">%1$d apl diuninstal</string>
     <string name="uninstall_result_succeeded">Apl telah diuninstal</string>
     <string name="uninstall_result_failed">Tidak dapat uninstal %s</string>
-    <string name="uninstall_result_two_failed">Tidak dapat uninstal %s dan 1 apl lain</string>
-    <string name="uninstall_result_other_failed" formatted="false">Tidak dapat uninstal %s dan %d apl lain</string>
     <string name="starting_preset_app">Memulai…</string>
     <string name="install">Instal</string>
     <string name="cant_remove_folder">Tidak dapat hapus folder</string>
@@ -162,7 +157,7 @@
     <string name="gadget_power_clear_button_label">Pembersihan lanjutan</string>
     <string name="gadget_clock_label">Jam</string>
     <string name="gadget_clock_12_label">Jam 2x1</string>
-    <string name="gadget_clock_22_label">Jam 2x2</string>
+    <string name="gadget_clock_14_label">Jam 4x1</string>
     <string name="gadget_clock_24_label">Jam 4x2</string>
     <string name="gadget_photo_label">Gambar</string>
     <string name="gadget_photo_44_label">Gambar4x4</string>
@@ -222,11 +217,9 @@
     <string name="guide_install_app_msg">Apl tidak terinstal di perangkat Anda. Cari dan instal apl sekarang?</string>
     <string name="menu_customize">Setelan</string>
     <string name="menu_picktheme">Pilih tema</string>
-    <string name="scroll_tip_format_when_announce_accessibility">halaman %1$d, %2$d apl</string>
     <string name="editing_mode_enter_tip_text">Cubit untuk ubah Layar utama</string>
     <string name="delete">Hapus</string>
     <string name="delete_wallpaper_message">Hapus %1$d wallpaper?</string>
-    <string name="delete_wallpapers_message">Hapus %1$d wallpaper?</string>
     <string name="is_system_wallpaper_message">Tidak dapat hapus sumber sistem</string>
     <string name="select_all">Pilih semua</string>
     <string name="deselect_all">Tdk pilih semua</string>
@@ -253,10 +246,6 @@
     <string name="recommend_apps_notice_nodata">Rekomendasi apl (Tak ada data)</string>
     <string name="recommend_apps_default_title">Kosong</string>
     <string name="recommend_apps_tips">Fitur ini perlu terhubung ke internet untuk bekerja dengan normal. Untuk mematikan fitur ini, sentuh nama folder.</string>
-    <string name="children_folder_title">Mode Anak</string>
-    <string name="children_mode_exit">Keluar</string>
-    <string name="children_mode_tips_title">Pilih aplikasi</string>
-    <string name="children_mode_tips_message">Tak ada apl di mode Anak sekarang. Pilih apl yang Anda ingin tambahkan.</string>
     <string name="wallpaper_auto_change_title">Layar kunci</string>
     <string name="wallpaper_scaling_message">Penskalaan untuk ukuran tetap</string>
     <string name="cant_edit_lock_screen">Tidak dapat ubah gaya layar kunci.</string>
@@ -271,10 +260,16 @@
     <string name="change_wallpaper">Ganti</string>
     <string name="lock_screen">Layar kunci</string>
     <string name="home_screen">Layar utama</string>
-    <string name="wallpaper_scroll_type_tips">Gambar latar bergulir</string>
+    <string name="wallpaper_scroll_type_tips">Wallpaper bergulir</string>
     <string name="no_detail_page">Tak ada halaman rincian</string>
     <string name="notification_installed">Berhasil diinstal</string>
     <string name="notification_open_button">Buka</string>
     <string name="toast_screen_icons_misplaced">Dipulihkan dari sumber lain, mungkin ada beberapa letak ikon yang tidak sesuai</string>
     <string name="screen_locked_toast">Tata letak Layar utama dikunci</string>
+    <string name="widget_quick_function">Quick function</string>
+    <string name="menu_trans_effect">Transition Effect</string>
+    <string name="menu_cell_setting">Screen Setting</string>
+    <string name="menu_auto_fill">Auto Fill</string>
+    <string name="menu_lock">Lock Screen</string>
+    <string name="menu_more">More</string>
 </resources>

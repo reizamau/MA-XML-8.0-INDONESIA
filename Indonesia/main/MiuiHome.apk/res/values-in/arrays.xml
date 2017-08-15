@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="transformation_entries">
-        <item>Overslide</item>
-        <item>Meluncur</item>
+        <item>Slide</item>
         <item>Crossfade</item>
-        <item>Berguling</item>
-        <item>Halaman</item>
-        <item>Riam</item>
-        <item>Berputar</item>
-        <item>Kubus</item>
+        <item>Tumble</item>
+        <item>Page</item>
+        <item>Cascade</item>
+        <item>Rotate</item>
+        <item>Cube</item>
     </string-array>
     <string-array name="wallpaper_scroll_entries">
         <item>Tema bawaan</item>
@@ -56,13 +55,8 @@
         <item>Kabut</item>
     </string-array>
     <string-array name="editing_mode_entries">
-        <item>Tema</item>
-        <item>Widget</item>
         <item>Wallpaper</item>
-        <item>Efek</item>
-        <item>Tata letak</item>
-    </string-array>
-    <string-array name="quality_business_devices">
-        <item>Lithium</item>
+        <item>Widget</item>
+        <item>Setting</item>
     </string-array>
 </resources>

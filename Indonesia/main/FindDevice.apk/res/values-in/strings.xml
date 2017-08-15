@@ -6,6 +6,7 @@
     <string name="disable_find_device_success">Cari perangkat dimatikan</string>
     <string name="enable_find_device_error">Tidak dapat hidupkan Cari Perangkat. %1$s</string>
     <string name="disable_find_device_error">Tidak dapat mematikan Cari perangkat. %1$s</string>
+    <string name="find_device_error_access_denied">Access denied.</string>
     <string name="find_device_error_unknown">Kesalahan tak diketahui (%s).</string>
     <string name="find_device_error_password_changed">Sandi akun telah diganti belakangan ini.</string>
     <string name="find_device_error_network">Jaringan bermasalah.</string>
@@ -41,6 +42,8 @@ Jika Anda ganti kartu SIM, SMS aktivasi ulang fitur ini akan otomatis dikirim."<
     <string name="activate_xiaomi_account">Aktivasi perangkat ini</string>
     <string name="login_extra_steps">Verifikasi masuk</string>
     <string name="phone_locked">Perangkat ini mungkin tertaut dengan Akun Mi yang ada (%s). Masuk untuk aktivasi perangkat ini.</string>
+    <string name="phone_locked_account_email">, email tertaut: %s</string>
+    <string name="phone_locked_account_phone">, nomor telepon tertaut: %s</string>
     <string name="password">Sandi</string>
     <string name="captcha">Captcha</string>
     <string name="stop_on_empty_password">Sandi tidak boleh kosong</string>
@@ -75,4 +78,10 @@ Masuk ke i.mi.com dan coba buka kunci perangkat Anda dari sana."</string>
     <string name="default_lock_msg_words_with_phone">Hai! Telepon saya hilang. Apakah Anda bisa menghubungi saya? Terima kasih.</string>
     <string name="default_lock_msg_words">Perangkat ini terhubung ke Akun Mi yang sudah ada. Untuk alasan keamanan, Anda perlu memasukkan sandi untuk verifikasi perangkat.</string>
     <string name="lock_msg_phone">Informasi kontak: %s</string>
+    <string name="default_debt_msg_words">"Perangkat terkunci karena Anda belum membayar cicilan.
+Hubungi agen penjualan Anda untuk lebih rinci."</string>
+    <string name="sys_notification_async_verify_title">Reactivate Find device</string>
+    <string name="sys_notification_async_verify_content">Our updated Security Policy requires that Find device should be reactivated.</string>
+    <string name="sys_notification_async_open_failed_title">"Couldn't turn on Find device"</string>
+    <string name="sys_notification_async_open_failed_content">Tap to try again or cancel.</string>
 </resources>

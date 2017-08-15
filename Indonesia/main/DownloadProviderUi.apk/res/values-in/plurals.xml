@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="sniff_find_resource">
-        <item quantity="other">Ditemukan %d item</item>
+        <item quantity="other">%d item ditemukan</item>
     </plurals>
     <plurals name="numberOfItemsAvailable">
         <item quantity="other">Hapus %d berkas?</item>

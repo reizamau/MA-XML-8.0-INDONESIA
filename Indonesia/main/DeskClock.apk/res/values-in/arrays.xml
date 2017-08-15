@@ -326,6 +326,24 @@
         <item>Sen smp Jum</item>
         <item>Kustom</item>
     </string-array>
+    <string-array name="aqi_value">
+        <item>Baik</item>
+        <item>Baik</item>
+        <item>Polusi sedang</item>
+        <item>Kurang baik</item>
+        <item>Sangat tidak baik</item>
+        <item>Parah</item>
+    </string-array>
+    <string-array name="weather_tips_value">
+        <item>Kurangi aktivitas luar ruangan</item>
+        <item>Jalan licin</item>
+        <item>Cuaca badai, hati-hati!</item>
+        <item>Udara tercemar, pakai masker!</item>
+        <item>Sediakan payung sebelum keluar</item>
+        <item>Hati-hati di jalan</item>
+        <item>Akan ada badai pasir, jangan lupa pakai masker!</item>
+        <item>Semoga hari Anda menyenangkan!</item>
+    </string-array>
     <string-array name="alarm_set">
         <item>Kurang dari 1 menit lagi alarm akan berbunyi.</item>
         <item>%1$s lagi alarm akan berbunyi.</item>

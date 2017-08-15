@@ -48,7 +48,7 @@
     <string name="toast_added_to_list">Ditambahkan ke daftar</string>
     <string name="toast_removed_from_presets">Dihapus dari preset</string>
     <string name="toast_fm_starting">Memulai…</string>
-    <string name="toast_fm_seeking">Mencari…</string>
+    <string name="toast_fm_seeking">Tuning…</string>
     <string name="station_check_favorite">Tambah ke preset</string>
     <string name="toast_fm_recorder_internal_error">Perekaman FM bermasalah</string>
     <string name="toast_fm_recorder_storage_full">Tdk dpt melanjutkan rekam: tak ada cukup ruang</string>

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Kalkulator</string>
+    <string name="app_name_danfa">Mi Kalkulator</string>
     <string name="error">Bermasalah</string>
+    <string name="devided_by_zero_reminder_message">Tidak bisa dibagi dengan nol</string>
     <string name="digit0">0</string>
     <string name="digit1">1</string>
     <string name="digit2">2</string>
@@ -40,6 +42,10 @@
     <string name="eDesc">Bilangan euler</string>
     <string name="piDesc">bilangan pi</string>
     <string name="equalDesc">sama dengan</string>
+    <string name="deleteDesc">hapus</string>
+    <string name="percentDesc">persen</string>
+    <string name="menuDesc">menu</string>
+    <string name="settingsDesc">setelan</string>
     <string name="home_title_calculator">Kalkulator</string>
     <string name="item_title_calculator">Kalkulator</string>
     <string name="item_title_scientific_calculator">Ilmiah</string>
@@ -66,6 +72,7 @@
     <string name="loan_pay_years">Periode pinjaman</string>
     <string name="loan_first_pay_date">Pembayaran pertama</string>
     <string name="unit_myriads">×10K</string>
+    <string name="unit_times" />
     <string name="unit_yuan">CNY</string>
     <string name="unit_year">T</string>
     <string name="unit_year_format">Tahun %s</string>
@@ -84,7 +91,7 @@
     <string name="mortgage_item_repayment">Metode penggantian</string>
     <string name="mortgage_item_years">Periode pinjaman</string>
     <string name="mortgage_item_start_time">Tanggal mulai</string>
-    <string name="mortgage_input_error">Masukkan jumlah</string>
+    <string name="mortgage_input_error">Masukkan nilai</string>
     <string name="mortgage_result">Hasil</string>
     <string name="mortgage_average_repayment_monthly">Penggantian bulanan</string>
     <string name="mortgage_average_repayment_first_month">Penggantian di awal bulan</string>
@@ -131,7 +138,7 @@
     <string name="tax_thershold_foreign">%s (Negara asing)</string>
     <string name="tax_insurance_and_fund">Asuransi</string>
     <string name="tax_city_located">Lokasi</string>
-    <string name="tax_update_time_format">Data pada tahun %s disediakan oleh HeXun</string>
+    <string name="tax_update_time_format">Data disediakan oleh HeXun (%s)</string>
     <string name="tax_cal_method_format">Masukkan pribadi: %s</string>
     <string name="tax_cal_method_fixed_salary">Perhitungan pajak pemasukan</string>
     <string name="tax_cal_method_annual">Perhitungan bonus tahunan</string>
@@ -139,6 +146,7 @@
     <string name="cal_result_format">= %s</string>
     <string name="cal_edit_mode">Mode ubah</string>
     <string name="cal_copy">Salin</string>
+    <string name="cal_paste">Tempel</string>
     <string name="cal_convert_to_word_figure">Konversi ke karakter keuangan</string>
     <string name="cal_text_copied">Teks tersalin</string>
     <string name="convertion_unit">Konversi unit</string>
@@ -150,7 +158,7 @@
     <string name="convertion_unit_temperature">Konversi suhu</string>
     <string name="convertion_unit_time">Konversi waktu</string>
     <string name="convert_currency">Konversi mata uang</string>
-    <string name="currency_update_time_format">Nilai tukar didukung oleh hexun.com (%s)</string>
+    <string name="currency_update_time_format">Nilai tukar disediakan oleh Webull (%s)</string>
     <string name="choose_unit">Pilih unit</string>
     <string name="choose_currency">Pilih mata uang</string>
     <string name="rate_data_provider">Nilai tukar didukung oleh hexun.com</string>
@@ -182,8 +190,8 @@
     <string name="unit_data_display_length_au">Satuan astronomis</string>
     <string name="unit_data_display_length_ld">Jarak bulan</string>
     <string name="unit_data_display_length_pc">Parsec</string>
-    <string name="unit_data_default_area_0">m2</string>
-    <string name="unit_data_default_area_1">cm2</string>
+    <string name="unit_data_default_area_0">sq.m</string>
+    <string name="unit_data_default_area_1">sq.cm</string>
     <string name="unit_data_display_area_sq.m">Meter persegi</string>
     <string name="unit_data_display_area_sq.km">Kilometer persegi</string>
     <string name="unit_data_display_area_ha">Hektar</string>
@@ -246,11 +254,12 @@
     <string name="unit_data_display_weight_liang">Liang</string>
     <string name="unit_data_display_weight_qian">Qian</string>
     <string name="unit_data_display_weight_dan">Dan</string>
+    <string name="unit_data_display_weight_taijin">Jin (Taiwan)</string>
     <string name="unit_data_display_temperature_c">Celsius</string>
     <string name="unit_data_display_temperature_f">Fahrenheit</string>
     <string name="unit_data_display_temperature_k">Kelvin</string>
     <string name="unit_data_display_temperature_r">Rankine</string>
-    <string name="unit_data_display_temperature_re">Reamur</string>
+    <string name="unit_data_display_temperature_re">Réaumur</string>
     <string name="unit_data_display_time_s">Detik</string>
     <string name="unit_data_display_time_ms">Milidetik</string>
     <string name="unit_data_display_time_us">Mikrodetik</string>
@@ -285,8 +294,21 @@
     <string name="city">Kota</string>
     <string name="combine_loan">Kredit gabungan</string>
     <string name="commercial_loan">Kredit komersil</string>
+    <string name="current_rate_remind_commercial" />
     <string name="day">hari</string>
     <string name="dateformat">dd/MM/yyyy</string>
+    <string name="current_rate_remind_fund" />
+    <string name="fund" />
+    <string name="fund_loan" />
+    <string name="income_type" />
+    <string name="month" />
+    <string name="social_security" />
+    <string name="start_calculate" />
+    <string name="tax_edittext_hint" />
+    <string name="tax_title_primary" />
+    <string name="tax_title_secondary" />
+    <string name="times" />
+    <string name="year" />
     <string name="preference_settings">Setelan</string>
     <string name="preference_use_degress_title">Gunakan sudut</string>
     <string name="preference_use_degress_summary">Ganti radian dengan sudut di fungsi trigonometri</string>
@@ -298,5 +320,11 @@
     <string name="preference_follow_weibo_title">Sina Weibo</string>
     <string name="preference_follow_web_title">Situs web resmi</string>
     <string name="preference_alert_follow_wechat">Salin dan tempel ke WeChat untuk mengikuti</string>
+    <string name="preference_alert_follow_qq_group">Salin dan tempel ke QQ untuk umpan balik</string>
     <string name="preference_alert_follow_wechat_button">Salin</string>
+    <string name="preference_follow_qq_group">Grup QQ:523274279</string>
+    <string name="preference_check_update_summary_current_version">Versi sekarang: %s</string>
+    <string name="preference_check_update_summary_new_version">Pembaruan tersedia: %s</string>
+    <string name="description_title">Tentang Kalkulator</string>
+    <string name="description_content">Selain fitur dasarnya, Kalkulator juga bekerja sebagai multifungsi kalkulator untuk menghitung tukar mata uang, pinjaman, dan pajak. Pastikan Anda telah mengetahui apa yang bisa dilakukan dengan fitur ini, sebelum Anda menghapus apl ini.</string>
 </resources>

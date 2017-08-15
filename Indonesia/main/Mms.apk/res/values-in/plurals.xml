@@ -4,16 +4,37 @@
         <item quantity="other">Hapus %1$s percakapan terpilih?</item>
     </plurals>
     <plurals name="slide_duration">
-        <item quantity="other">%s dtk</item>
+        <item quantity="other">%d dtk</item>
     </plurals>
     <plurals name="slide_audio_duration">
-        <item quantity="other">%s dtk</item>
+        <item quantity="other">%d dtk</item>
     </plurals>
     <plurals name="search_results_title">
         <item quantity="other">%1$s hasil utk %2$s\"</item>
     </plurals>
     <plurals name="recipient_count">
         <item quantity="other">%1$s orang</item>
+    </plurals>
+    <plurals name="to_count">
+        <item quantity="other">%d penerima</item>
+    </plurals>
+    <plurals name="send_to_count">
+        <item quantity="other">%1$s pesan terkirim</item>
+    </plurals>
+    <plurals name="group_message_failed_title">
+        <item quantity="other">Tidak dapat kirim ke %d kontak</item>
+    </plurals>
+    <plurals name="batch_delete_confirm_dialog_message">
+        <item quantity="other">Hapus %1$s pesan?</item>
+    </plurals>
+    <plurals name="timed_message_expired_title">
+        <item quantity="other">%d pesan dengan waktu belum dikirim</item>
+    </plurals>
+    <plurals name="timed_message_in_total">
+        <item quantity="other">(%d pesan)</item>
+    </plurals>
+    <plurals name="hint_search_sms">
+        <item quantity="other">%d pesan</item>
     </plurals>
     <plurals name="cloud_sms_count">
         <item quantity="other">%d pesan</item>
@@ -23,5 +44,8 @@
     </plurals>
     <plurals name="message_count">
         <item quantity="other">%1$s pesan</item>
+    </plurals>
+    <plurals name="custom_select_title_items_selected">
+        <item quantity="other">%d terpilih</item>
     </plurals>
 </resources>

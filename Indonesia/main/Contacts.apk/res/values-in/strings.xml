@@ -1,34 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="rcs_profile_name">Kartu Fetion saya</string>
-    <string name="rcs_profile_name_photo">Saya</string>
-    <string name="rcs_group_chat_name">Grup obrolan</string>
-    <string name="public_account_name">Akun publik</string>
-    <string name="rcs_account_type_title">Akun Fetion</string>
-    <string name="rcs_contact_detail_profile_binded_label">Current Fetion account</string>
-    <string name="qrcode_detail_menu_edit">Ubah kode QR</string>
-    <string name="qrcode_detail_menu_scan">Pindai</string>
-    <string name="qrcode_editor_flash">Kode QR telah diperbarui</string>
-    <string name="qrcode_editor_flash_failed">Tidak dapat memperbarui kode QR</string>
-    <string name="vcard_info_send_error">Tidak dapat kirim karena vCard bermasalah</string>
-    <string name="photo_labels_group">Foto profil</string>
-    <string name="rcs_send_vcard">Kirim vCard</string>
-    <string name="rcs_recipient_type_contact">Kirim ke kontak</string>
-    <string name="rcs_recipient_type_group">Kirim ke grup</string>
-    <string name="menu_bar_group_batch_edit">Beberapa kontak</string>
-    <string name="menu_bar_group_batch_move">Pindah ke grup</string>
-    <string name="menu_bar_group_batch_copy">Salin ke grup</string>
-    <string name="menu_bar_group_batch_remove">Hapus grup</string>
-    <string name="group_remove_success_toast">Berhasil memindahkan kontak</string>
-    <string name="group_move_fail_toast">Tidak dapat memindahkan kontak</string>
-    <string name="group_copy_fail_toast">Tidak dapat salin kontak</string>
-    <string name="callrecordview_menu_save_to_group">Simpan riwayat panggilan ke grup</string>
-    <string name="invalid_contacts_to_save_to_group">Tidak dapat simpan nomor tak dikenal</string>
-    <string name="invalid_contacts_excluded_to_save_to_group">Hanya masukan dengan kontak akan disimpan di grup</string>
-    <string name="pref_rcs_fetion_entry_title">Fetion settings</string>
-    <string name="rcs_fetion_not_exist">"Can't find Fetion plug-in"</string>
     <string name="contacts_setting_title">Setelan kontak</string>
-    <string name="search_contacts_setting">Setelan kontak;Tampilkan foto dan info; Tetapkan foto kontak; Impor dan ekspor; Bagikan; Impor dari kartu SD;Impor dari Kartu SIM;Impor dari ponsel lain;Ekspor dari kartu SD;Ekspor dari kartu SIM;Bagikan kontak;Berbagi kontak;Preferensi tampilan;Sembunyikan nomor tak lengkap;Tampilkan kontak kartu SIM;Atur daftar kontak;Grup cerdas;Kelola kontak;Gabungkan kontak duplikat;Gabungkan kontak berulang;Hapus kumpulan;Bersihkan data;Bangun ulang data indeks;T9;Kartu SIM;Penyimpanan Kartu SIM;Pemulihan kontak</string>
+    <string name="search_contacts_setting">Setelan kontak;Tampilkan foto dan info; Tetapkan foto kontak; Impor dan ekspor; Bagikan; Impor dari kartu SD;Impor dari Kartu SIM;Impor dari ponsel lain;Ekspor dari kartu SD;Ekspor dari kartu SIM;Bagikan kontak;Berbagi kontak;Preferensi tampilan;Sembunyikan nomor tak lengkap;Tampilkan kontak kartu SIM;Atur daftar kontak;Grup cerdas;Kelola kontak;Gabungkan kontak duplikat;Gabungkan kontak berulang;Hapus kumpulan;Bersihkan data;Bangun ulang data indeks;T9;Kartu SIM;Penyimpanan Kartu SIM;Pemulihan kontak;Foto kontak</string>
     <string name="path_contacts_setting">Aplikasi sistem/Kontak</string>
     <string name="path_simple_mode">Aplikasi sistem/Kontak/Tampilkan foto dan info</string>
     <string name="search_simple_mode">Tampilan;Tampilkan;info;foto;Kontak</string>
@@ -161,7 +134,9 @@
     <string name="savingContact">Menyimpan kontak…</string>
     <string name="savingDisplayGroups">Menyimpan opsi tampilan…</string>
     <string name="contactSavedToast">Kontak disimpan</string>
+    <string name="profileSavedToast">Profil tersimpan</string>
     <string name="contactSavedErrorToast">Gagal simpan perubahan kontak</string>
+    <string name="profileSavedErrorToast">Tidak dapat simpan perubahan info profil</string>
     <string name="groupSavedToast">Grup disimpan</string>
     <string name="groupSavedErrorToast">Gagal simpan perubahan grup</string>
     <string name="listTotalPhoneContactsZero">Tak ada kontak dgn nomor telepon</string>
@@ -316,7 +291,7 @@ Untuk tambah kontak ke daftar favorit:
     <string name="fail_reason_vcard_parse_error">Tidak dapat mengurai vCard karena alasan tak terduga.</string>
     <string name="fail_reason_not_supported">Format tdk didukung.</string>
     <string name="vcard_import_failed">Tidak dapat impor vCard %s.</string>
-    <string name="import_failure_no_vcard_file">Tidak ditemukan berkas vCard di penyimpanan.</string>
+    <string name="import_failure_no_vcard_file">Tidak ada berkas vCard di penyimpanan.</string>
     <string name="fail_reason_failed_to_collect_vcard_meta_info">Tdk dpt mengumpulkan info meta berkas vCard.</string>
     <string name="fail_reason_failed_to_read_files">Satu berkas atau lebih tdk dpt diimpor (%s).</string>
     <string name="fail_reason_unknown">Kesalahan tak diketahui.</string>
@@ -553,7 +528,7 @@ Pilih salah satu opsi di bawah ini:"</string>
     <string name="social_widget_loading">Memuat…</string>
     <string name="contacts_unavailable_create_contact">Buat kontak baru</string>
     <string name="contacts_unavailable_add_account">Masuk ke akun</string>
-    <string name="contacts_unavailable_import_contacts">Impor kontak dari berkas</string>
+    <string name="contacts_unavailable_import_contacts">Impor dari berkas</string>
     <string name="create_group_dialog_title">Buat grup baru</string>
     <string name="create_group_item_label">Buat grup baru</string>
     <string name="delete_group_dialog_title">Hapus grup</string>
@@ -602,6 +577,9 @@ Pilih salah satu opsi di bawah ini:"</string>
     <string name="description_call_log_outgoing_call">Panggilan keluar</string>
     <string name="description_call_log_missed_call">Panggilan tak terjawab</string>
     <string name="description_call_log_voicemail">Pesan suara</string>
+    <string name="description_call_log_incoming_forwarding_call">Panggilan diteruskan masuk</string>
+    <string name="description_call_log_missed_forwarding_call">Panggilan terusan tidak terjawab</string>
+    <string name="description_call_log_new_contact">Kontak baru</string>
     <string name="description_add_contact">Tambah kontak</string>
     <string name="description_view_contact">Lihat kontak %1$s</string>
     <string name="description_call">Panggil %1$s</string>
@@ -631,6 +609,7 @@ Pilih salah satu opsi di bawah ini:"</string>
     <string name="dialog_voicemail_not_ready_message">Utk atur pesan suara, masuk ke Menu > Setelan.</string>
     <string name="dialog_voicemail_airplane_mode_message">Untuk panggil pesan suara, matikan mode Pesawat.</string>
     <string name="action_menu_overflow_description">Opsi lainnya</string>
+    <string name="update_sim_contact_photo_toast">Tidak dapat setel foto profil untuk kontak SIM</string>
     <string name="import_from_sim">Impor dari kartu SIM</string>
     <string name="export_to_sim_title">Mengekspor…</string>
     <string name="import_from_sim1">Impor dari kartu SIM 1</string>
@@ -706,6 +685,7 @@ Kartu kontak dimatikan"</string>
     <string name="miprofile_save_alertdialog_title">Kartu kontak telah diterima</string>
     <string name="miprofile_save_alertdialog_message">Kartu Anda akan otomatis dikirim ke kontak ini.</string>
     <string name="miprofile_notice_text">Ketuk untuk lihat foto profil kontak</string>
+    <string name="miprofile_notice_close">Tutup</string>
     <string name="miprofile_switch_on_alertdialog_title">Perbarui foto profil</string>
     <string name="miprofile_switch_on_alertdialog_message">Tukar kartu kontak untuk lihat foto profil yang diperbarui.</string>
     <string name="miprofile_switch_on_alertdialog_positive">Hidupkan</string>
@@ -776,8 +756,8 @@ Kartu kontak dimatikan"</string>
     <string name="callrecordview_menu_delete_called">Hapus panggilan keluar</string>
     <string name="callrecordview_menu_delete_accepted">Hapus panggilan terjawab</string>
     <string name="callrecordview_menu_delete_stranger">Hapus nomor tak dikenal</string>
-    <string name="callrecordview_menu_delete_new">Hapus riwayat panggilan dengan kontak baru</string>
-    <string name="callrecordview_menu_delete_sim">Hapus %s riwayat panggilan</string>
+    <string name="callrecordview_menu_delete_new">Hapus riwayat panggilan kontak baru</string>
+    <string name="callrecordview_menu_delete_sim">Bersihkan riwayat panggilan (%s)</string>
     <string name="callrecordview_menu_delete_confirm">%s?</string>
     <string name="callrecordview_menu_delete_one">Hapus dari riwayat panggilan</string>
     <string name="callrecordview_menu_add_call_note">Tambah catatan panggilan</string>
@@ -790,9 +770,9 @@ Kartu kontak dimatikan"</string>
     <string name="dialer_empty_text_no_call_log">Tak ada kontak terkini</string>
     <string name="callrecordview_menu_recharge">Isi ulang</string>
     <string name="callrecordview_menu_mobiledata">Beli data</string>
-    <string name="callrecordview_menu_voip">Mi Voice</string>
     <string name="callrecordview_menu_livetalk">Paket isi ulang</string>
     <string name="callrecordview_menu_ip">Panggil IP otomatis</string>
+    <string name="callrecordview_menu_misim">Mi SIM</string>
     <string name="callrecordview_menu_blocklist">Daftar blokir</string>
     <string name="callrecordview_menu_settings">Setelan</string>
     <string name="callrecordview_menu_show">Penyaring</string>
@@ -800,7 +780,7 @@ Kartu kontak dimatikan"</string>
     <string name="callrecordview_menu_conference">Panggilan konferensi</string>
     <string name="openDialKeyboard">Papan panggilan</string>
     <string name="t9_search_guide_pinyin_title1">Masukkan nomor untuk temukan kontak</string>
-    <string name="t9_search_guide_pinyin_title2">Masukkan \"9\" dan \"4\" untuk cari \"<font fgcolor="">W</font>ashington <font fgcolor="">I</font>rving\"</string>
+    <string name="t9_search_guide_pinyin_title2">Masukkan \"9\" dan \"4\" untuk mencari \"<font fgcolor="">X</font>avier <font fgcolor="">H</font>enry\"</string>
     <string name="t9_search_guide_zhuyin_title1">Masukkan nomor untuk temukan kontak</string>
     <string name="t9_search_guide_zhuyin_title2">Masukkan \"5\" dan \"6\" untuk cari \"<font fgcolor="">J</font>eff <font fgcolor="">M</font>ax\"</string>
     <string name="date_time_set">Atur</string>
@@ -822,6 +802,7 @@ Kartu kontak dimatikan"</string>
     <string name="calllog_menu_send_sms">Kirim pesan</string>
     <string name="call_sim1_menu_title">Panggil di SIM1</string>
     <string name="call_sim2_menu_title">Panggil di SIM2</string>
+    <string name="call_sim_menu_title_suffix">(Utama)</string>
     <string name="menu_call_ip_number">Panggil panggilan IP (panggil %s)</string>
     <string name="menu_dial_ip_number">Panggil panggilan IP</string>
     <string name="delete_contact_calllog_title">Hapus riwayat panggilan?</string>
@@ -835,6 +816,8 @@ Kartu kontak dimatikan"</string>
     <string name="multi_number_menu_delete">Hapus</string>
     <string name="video_call">Panggilan video</string>
     <string name="copy_number">Salin</string>
+    <string name="call_sim1_description">SIM 1</string>
+    <string name="call_sim2_description">SIM 2</string>
     <string name="edit_contact_card_title">Pilih item untuk dibagikan</string>
     <string name="preview_contact_card_title">Mengimpor kontak…</string>
     <string name="import_contact_card_button">Impor kontak</string>
@@ -849,6 +832,8 @@ Kartu kontak dimatikan"</string>
     <string name="menuMoreDescription">Lainnya</string>
     <string name="photo_fragment">Foto</string>
     <string name="photo_load_failed">Tidak dapat unggah foto</string>
+    <string name="empty_divider_title" />
+    <string name="noContactHelpTextAccountsInfo" />
     <string name="noContactHelpTextImportXiaomiAccountInfo">Pulihkan data kontak dari Akun Mi</string>
     <string name="recent_contacts_label">Terkini</string>
     <string name="noRecentContacts">Tak ada kontak terkini</string>
@@ -931,11 +916,15 @@ Kartu kontak dimatikan"</string>
     <string name="cloud_antispam_title">Nomor pemanggil</string>
     <string name="share_over_limit">Tidak bisa berbagi ke lebih dari 1000 kontak</string>
     <string name="preference_key_trash_bin_title">Pulihkan kontak</string>
+    <string name="preference_other">Lainnya</string>
+    <string name="preference_show_yellowpage_tab_title">Show the YellowPage entry</string>
+    <string name="preference_show_yellowpage_tab_description">Jika Anda menutup tab Yellow Pages, maka fitur Yellow Pages tidak bisa bekerja dengan normal</string>
     <string name="account_default">Telepon</string>
     <string name="lunarBirthdayLabelsGroup">Tgl lahir lunar</string>
     <string name="option_view_contact">Lihat</string>
     <string name="option_edit_contact">Ubah</string>
     <string name="option_delete_contact">Hapus</string>
+    <string name="option_delete_batch_contacts">Delete batch</string>
     <string name="option_send_to_desktop">Letakkan di Layar utama</string>
     <string name="option_send_to_others">Teruskan</string>
     <string name="option_not_star">Hapus dr favorit</string>
@@ -959,7 +948,6 @@ Kartu kontak dimatikan"</string>
     <string name="custom_nickname_hint">Masukkan nama panggilan</string>
     <string name="open_contact">Lihat kontak</string>
     <string name="send_contact_shortcut_todesktop_success">Ditambahkan ke Layar utama</string>
-    <string name="date_picker_label">Ingatkan saya 3 hari sebelum dan 1x lagi pada harinya</string>
     <string name="today">Hari ini</string>
     <string name="next_birthday">Ultah berikutnya: %s</string>
     <string name="ringLabelsGroup">Nada dering</string>
@@ -971,6 +959,8 @@ Kartu kontak dimatikan"</string>
     <string name="antispam_provider_format">Diidentifikasi oleh %s</string>
     <string name="type_mx_msg">Mi Message</string>
     <string name="qr_card_card">Kode QR</string>
+    <string name="unknown_details_new_contact">New contact</string>
+    <string name="unfold_all">unfold all</string>
     <string name="menu_new_favorite_action_bar">Favoritkan</string>
     <string name="click_close">Ketuk utk tutup</string>
     <string name="phone_primary">Utama</string>
@@ -991,7 +981,8 @@ Kartu kontak dimatikan"</string>
     <string name="group_rename_fail_toast">Gagal mengganti nama grup</string>
     <string name="contact_unfavorite_toast">Telah dihapus dari favorit</string>
     <string name="group_member_remove_toast">Telah dihapus dari grup</string>
-    <string name="contact_delete_toast">Kontak telah dihapus</string>
+    <string name="contact_delete_toast">Berhasil hapus kontak</string>
+    <string name="profile_delete_toast">Berhasil hapus profil</string>
     <string name="duplicate_group_name">Grup dengan nama yang sama sudah ada</string>
     <string name="all_list_empty">Tak ada kontak</string>
     <string name="favorites_list_empty">Tak ada favorit</string>
@@ -1034,20 +1025,18 @@ Kartu kontak dimatikan"</string>
     <string name="smart_group_frequency_2">1 sampai 3 bulan</string>
     <string name="smart_group_frequency_3">3 sampai 6 bulan</string>
     <string name="smart_group_frequency_4">Lebih dari 6 bulan lalu</string>
-    <string name="contact_detail_calllog_call_record_tips">Rekam panggilan</string>
+    <string name="contact_detail_calllog_call_record_tips">Panggilan terekam</string>
     <string name="contact_detail_calllog_call_note_tips">Catatan</string>
     <string name="contact_detail_calllog_empty">Tak ada riwayat</string>
     <string name="import_from_onekey_migrate">Impor dengan Mi Mover</string>
     <string name="import_from_other_phone">Impor dari telepon lainnya</string>
-    <string name="device_brand_title">Pilih merek</string>
-    <string name="device_version_title">Pilih model</string>
     <string name="device_list_title">Pilih telepon</string>
     <string name="next">Berikutnya</string>
     <string name="previous">Sebelumnya</string>
     <string name="scan">Pindai</string>
     <string name="device_bluetooth_title">Transfer kontak</string>
-    <string name="device_version_header_no_bluetooth">Impor kontak memakai kartu SIM</string>
-    <string name="device_version_header_bluetooth">Pastikan Bluetooth hidup</string>
+    <string name="device_version_header_no_bluetooth">Impor via kartu SIM</string>
+    <string name="device_version_header_bluetooth">Impor via Bluetooth</string>
     <string name="none_paired">Tak ada perangkat yang dipasangkan</string>
     <string name="device_pairing_dialog_title">Pasangkan perangkat</string>
     <string name="device_pairing_dialog_message">Memasangkan…</string>
@@ -1061,16 +1050,17 @@ Kartu kontak dimatikan"</string>
     <string name="title_other_devices">Perangkat lain yang tersedia</string>
     <string name="button_scan">Pindai ulang</string>
     <string name="button_cancel_scan">Hentikan</string>
-    <string name="device_other_title">Telepon lain</string>
-    <string name="device_other_guide">Jika telepon Anda tak terdaftar, lakukan cara berikut ini</string>
-    <string name="my_phone_provider_bluetooth">Telepon saya ada Bluetooth</string>
-    <string name="my_phone_not_provider_bluetooth">Telepon saya tak ada Bluetooth</string>
+    <string name="device_other_title">Impor dari telepon lain</string>
+    <string name="device_other_guide">Telepon lain mendukung bluetooth?</string>
+    <string name="my_phone_provider_bluetooth">Iya</string>
+    <string name="my_phone_not_provider_bluetooth">Tidak</string>
     <string name="other_phone">Telepon lain</string>
     <string name="device_import_title">Impor</string>
     <string name="device_import_progress_begin_message">Mengimpor…</string>
     <string name="device_import_progress_end_message">Terimpor</string>
     <string name="device_import_progress_message">Mengimpor…</string>
     <string name="device_import_failed_message">Impor gagal</string>
+    <string name="hint_distance" />
     <string name="hint_more_contact">Gabung kontak berulang</string>
     <string name="device_import_account_dialog_title">Pilih akun</string>
     <string name="device_import_account_dialog_title_suffix">"
@@ -1087,6 +1077,17 @@ Kartu kontak dimatikan"</string>
     <string name="bluetooth_connection_failed_toast">Koneksi Bluetooth terganggu</string>
     <string name="device_import_progress_toast">%1$d kontak diimpor</string>
     <string name="no_contact_in_other_phone">Tak ada kontak terdeteksi</string>
+    <string name="device_transfer_by_bluetooth_message">"1. Hidupkan Bluetooth di perangkat lain. 
+
+- Untuk perangkat Android, Bluetooth dapat ditemukan di setelan jaringan. 
+- Untuk perangkat iOS, Bluetooth ada di Pengaturan. 
+
+2. Mode Dapat ditemukan juga harus dihidupkan di perangkat Android. 
+
+3. Ketuk \"Berikutnya\" dan berikan perizinan yang dibutuhkan Kontak."</string>
+    <string name="device_transfer_by_sim_message">"1. Simpan kontak dari perangkat lain ke kartu SIM 
+
+2. Buka Setelan di apl Kontak, lalu ke Impor/Ekspor kontak > Impor dari kartu SIM, tahan kartu SIM untuk dipilih, pilih kontak yang diinginkan, lalu ketuk \"Impor\"."</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="import_weibo_dialog_title">Impor kontak dari Weibo</string>
     <string name="import_weibo_fetch_followers">Mengambil kontak…</string>
@@ -1129,12 +1130,14 @@ Kartu kontak dimatikan"</string>
     <string name="close_dial_pad_description">Tutup papan panggilan</string>
     <string name="dial">Panggil</string>
     <string name="delete_dial_input">Hapus</string>
-    <string name="clear_digits">Bersihkan no. telepon</string>
+    <string name="clear_digits">Hapus nomor telepon</string>
     <string name="call_record_setting_miui">Setelan rekaman</string>
     <string name="accessibility_calllog_detail">Rincian riwayat panggilan</string>
+    <string name="accessibility_contact_detail">Rincian kontak</string>
     <string name="clear_copy_number_description">Hapus nomor telepon yang disalin</string>
     <string name="select_groups">Pilih grup</string>
     <string name="sim_capacity_content" formatted="false">%d total | %d terpakai</string>
+    <string name="sim_unloaded">Kartu SIM belum dipasang</string>
     <string name="sim_error_generic_failure">Terjadi kesalahan</string>
     <string name="sim_error_storage_full">Penyimpanan kartu SIM penuh</string>
     <string name="sim_error_text_too_long">Nama terlalu panjang</string>
@@ -1143,14 +1146,6 @@ Kartu kontak dimatikan"</string>
     <string name="sim_error_email_full">Tak ada cukup ruang di kartu SIM</string>
     <string name="sim_error_anr_full">Tak ada cukup ruang di kartu SIM</string>
     <string name="sim_error_password_error">Sandi yang Anda masukkan salah</string>
-    <string name="voip_name">Mi Voice</string>
-    <string name="voip_contacts_entry">Mi Voice</string>
-    <string name="voip_shortcut_name">Mi Voice</string>
-    <string name="voip_contact_label">Mi Voice</string>
-    <string name="voip_loading_contact">Tunggu sebentar…</string>
-    <string name="create_voip_shortcut_success">Pintasan terbuat</string>
-    <string name="no_voip_contacts">Tak ada kontak Mi Voice</string>
-    <string name="calls_voip_prompt">VoIP</string>
     <string name="yellowPageNavigationLabel">Yellow pages</string>
     <string name="yellowPageNavigationIconLabel">Yellow pages</string>
     <string name="login_ok">Masuk</string>
@@ -1165,13 +1160,13 @@ Kartu kontak dimatikan"</string>
     <string name="yellowpage_navigation_search_city_name_hint">Kota</string>
     <string name="yellowpage_navigation_search_select_city">Pilih kota</string>
     <string name="yellowpage_navigation_search_result_no_more">Tak ada hasil lainnya</string>
-    <string name="yellowpage_navigation_search_result_network_error">\"Tidak dapat terhubung ke jaringan\"</string>
+    <string name="yellowpage_navigation_search_result_network_error">Tidak dapat terhubung ke jaringan</string>
     <string name="yellowpage_navigation_search_result_service_error">Layanan tidak tersedia</string>
     <string name="yellowpage_navigation_search_result_unknown_error">Kesalahan tak diketahui</string>
     <string name="yellowpage_navigation_search_result_average_price">Rata2 CNY %d</string>
     <string name="yellowpage_navigation_send_to_desktop_succeeded">Ditambahkan ke Layar utama</string>
     <string name="yellowpage_navigation_send_to_desktop_downloading">Mengunduh…</string>
-    <string name="yellowpage_navigation_send_to_desktop_failed">\"Tidak dapat terhubung ke jaringan\"</string>
+    <string name="yellowpage_navigation_send_to_desktop_failed">Tidak dapat terhubung ke jaringan</string>
     <string name="yellowpage_navigation_balance_refresh_succeed">Sisa saldo dan data seluler telah diverifikasi</string>
     <string name="yellowpage_navigation_balance_refresh_failed">Sisa saldo dan data seluler tidak dapat diverifikasi, coba lagi nanti.</string>
     <string name="yellowpage_user_profile">Profil</string>
@@ -1183,22 +1178,27 @@ Kartu kontak dimatikan"</string>
     <string name="useful_numbers">Nomor berguna</string>
     <string name="service_more">Lainnya</string>
     <string name="call_left">Saldo telepon</string>
-    <string name="call_unit">USD</string>
+    <string name="call_unit">CNY</string>
     <string name="call_charge">Beli data</string>
     <string name="call_operator_init">Setel operator</string>
     <string name="call_problem_report">Lapor masalah</string>
     <string name="call_not_found"> --</string>
+    <string name="disclaimer_title">Pernyataan Penyangkalan</string>
+    <string name="disclaimer_text">"Yellow pages memperoleh info tentang saldo Anda dengan mengirimkan SMS. Operator Anda mungkin akan terlambat memperbarui info ini, sehingga nilai yang didapat kurang akurat. Jika Anda menemukan kesalahan, laporkan SMS permintaan info tersebut untuk membantu kami meningkatkan layanan ini. 
+
+Untuk menghindari permintaan info terlalu sering, kami akan memperbarui info saldo sekali dalam sehari."</string>
+    <string name="report_inquiry_mms">SMS laporan</string>
     <string name="data_charge">Beli data</string>
     <string name="data_already_used">Data terpakai</string>
     <string name="data_left">Data tersisa</string>
     <string name="data_unit_mb">MB</string>
     <string name="data_unit_gb">GB</string>
     <string name="set_data_package">Setel paket dulu dulu</string>
-    <string name="livetalk_charge">Biaya</string>
+    <string name="livetalk_charge">Isi saldo</string>
     <string name="livetalk_switch_on">Hidupkan</string>
-    <string name="livetalk_left">Sisa livetalk</string>
-    <string name="livetalk_title">Live talk</string>
-    <string name="live_talk_switch_on_toast">Live talk telah diaktifkan</string>
+    <string name="livetalk_left">Tersisa</string>
+    <string name="livetalk_title">Paket isi ulang</string>
+    <string name="live_talk_switch_on_toast">Berhasil hidupkan Paket isi ulang</string>
     <string name="button_join_service_number">Tambah nomor layanan</string>
     <string name="button_my_center">Profil</string>
     <string name="gallery">Galeri</string>
@@ -1213,19 +1213,16 @@ Kartu kontak dimatikan"</string>
     <string name="edit_contact_photo">Ubah foto kontak</string>
     <string name="qrcode_card_title">Kode QR</string>
     <string name="scan_qrcode_card_hint1">Pindai kode QR di atas</string>
+    <string name="scan_qrcode_card_hint2" />
     <string name="create_qrcode_fail_message">Tdk dpt buat kode QR</string>
-    <string name="phone_call_type_voip">Mi Voice</string>
-    <string name="phone_call_type_livetalk">Paket isi ulang</string>
     <string name="cloud_recommend_msg">Ketuk untuk sinkron kontak dengan Mi Cloud.</string>
-    <string name="voip_recommend_msg">Ketuk untuk gunakan Mi Voice</string>
     <string name="cloud_state_sync_finished">Tersinkron dengan Mi Cloud</string>
     <string name="cloud_state_syncing">Tersinkron dengan Mi Cloud</string>
     <string name="cloud_state_loading">Tunggu sebentar…</string>
     <string name="cloud_state_disabled">Sinkron dengan Mi Cloud mati</string>
     <string name="unknow_phone_number_call_failed">Tidak dapat memanggil nomor tak dikenal</string>
     <string name="unknow_phone_number_mms_failed">Tidak dapat kirim pesan ke nomor tak dikenal</string>
-    <string name="pref_rcs_backup_restore_title">Setelan pencadangan &amp; pemulihan</string>
-    <string name="more_call_logs">Dengarkan seluruh rekaman Anda di mi.com/micloud</string>
+    <string name="more_call_logs">Listen to all your call recordings at <a href="https://i.mi.com">i.mi.com</a></string>
     <string name="transfer_accounts">Transfer akun</string>
     <string name="phone_number_too_long_toast">Nomor terlalu panjang</string>
     <string name="dialer_menu_description">Tampil menu</string>
@@ -1247,6 +1244,7 @@ Kartu kontak dimatikan"</string>
     <string name="hybrid_service_unavailiable">Layanan tidak tersedia</string>
     <string name="hybrid_try_again">Coba lagi</string>
     <string name="contacts_hybrid_activity_label">Pulihkan kontak</string>
+    <string name="hybrid_webpage_not_available">Webpage not available</string>
     <string name="expandOpenViewDescription">Buka</string>
     <string name="expandCloseViewDescription">Tutup</string>
     <string name="editContactNameExpandOpenDescription">Buka nama</string>
@@ -1260,4 +1258,7 @@ Kartu kontak dimatikan"</string>
     <string name="tomorrow">Besok</string>
     <string name="low_memory_toast">Tidak dapat memakai fitur ini karena memori rendah</string>
     <string name="yellowpage_fc_toast">Tidak dapat memakai fitur ini karena ada masalah dengan Yellow pages.</string>
+    <string name="contact_search_history">Riwayat</string>
+    <string name="contact_clear_search_history">Hapus riwayat</string>
+    <string name="call_settings_primary_user_only">Call settings can only be changed by the primary user.</string>
 </resources>

@@ -9,7 +9,11 @@
     <string name="search_silent_mode">Heningkan dering saat rekam</string>
     <string name="search_enable_earpiece_title">Pakai penerima untuk putar audio</string>
     <string name="search_quliaty_title">Kualitas rekaman</string>
+    <string name="keywords_search_record_list">Perekam;Recorder;Transkrip;Rekam;Berbagi rekaman;Rekaman</string>
+    <string name="keywords_search_record">Rekaman baru;Tambah rekaman;Rekaman;Transkrip;Perekam;Perekam pidato;Rekam pidato;Rekam suara;Apl perekam;Recorder;Cara merekam;Cara merekam suara;Apa itu Perekam;Apa itu recorder;MIUI Recorder;MIUI Perekam</string>
+    <string name="keywords_search_call_record">Rekam panggilan;Rekam telepon;Perekaman telepon</string>
     <string name="app_name">Perekam</string>
+    <string name="record">Rekam</string>
     <string name="recording">Merekam</string>
     <string name="recording_stopped">Berhenti</string>
     <string name="timer_format" formatted="false">%02d:%02d</string>
@@ -40,7 +44,7 @@
     <string name="deleting_message">Menghapus…</string>
     <string name="rename_dialog_title">Ganti nama rekaman</string>
     <string name="rename_duplicate">Rekaman dengan nama yang sama sudah ada.</string>
-    <string name="rename_no_more_tip">Jangan tampil lagi</string>
+    <string name="rename_no_more_tip">Jangan tampilkan lagi</string>
     <string name="dialog_title_storage_full">Tak ada cukup ruang</string>
     <string name="dialog_content_storage_full">Perekaman dihentikan karena tak ada cukup ruang di memori internal perangkat Anda.</string>
     <string name="status_bar_recording">Merekam…</string>
@@ -50,6 +54,7 @@
     <string name="low_battery_error">Baterai kurang dari 5%. Matikan dan simpan rekaman Anda agar tidak hilang.</string>
     <string name="low_battery_error_confirm">Oke</string>
     <string name="record_name_hour">.</string>
+    <string name="record_name_minute" />
     <string name="sound_recorder_settings">Setelan</string>
     <string name="preference_led_indicator">Notifikasi layar kunci</string>
     <string name="preference_tip_rename">Beri nama rekaman manual</string>
@@ -140,7 +145,11 @@
     <string name="clear_records">Hapus sinkron rekaman</string>
     <string name="choose_call_records_count">%d rekaman</string>
     <string name="network_tip_dialog_title">Butuh koneksi internet</string>
-    <string name="network_tip_dialog_content">Mesin pengenalan ucapan perlu terhubung ke internet agar dapat bekerja dengan normal.</string>
+    <string name="network_tip_dialog_content">This app needs to connect to the internet, as well as read your contacts to label the recordings you record during calls.</string>
     <string name="network_tip_dialog_ok">Izinkan</string>
     <string name="network_tip_dialog_cancel">Batal</string>
+    <string name="head_set_tip_dialog_title">Pakai mikrofon internal</string>
+    <string name="head_set_tip_dialog_msg">Copot earphone agar dapat rekam suara dengan preset tertentu (contoh: Musik, Suara).</string>
+    <string name="head_set_tip_dialog_ok">Mengerti</string>
+    <string name="rename_fail_tip">Tidak dapat mengganti nama. Berkas dengan nama yang sama sudah ada.</string>
 </resources>

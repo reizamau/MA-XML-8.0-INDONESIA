@@ -2,10 +2,10 @@
 <resources>
     <string name="sina_share_pendding">Mengirim…</string>
     <string name="sina_share_success">Terkirim</string>
-    <string name="sina_share_fail">Gagal mengirim</string>
-    <string name="sina_token_expired_warning">Akun Weibo kedaluwarsa: Harap tautkan kembali</string>
-    <string name="sina_token_invalid_warning">Akun Weibo tidak valid: Harap tautkan kembali</string>
-    <string name="sina_share_fail_content_repeat">Tidak dapat berbagi, isi sudah ada…</string>
+    <string name="sina_share_fail">Tidak dapat kirim</string>
+    <string name="sina_token_expired_warning">Weibo account expired, add the account again.</string>
+    <string name="sina_token_invalid_warning">Weibo account is invalid, add the account again.</string>
+    <string name="sina_share_fail_content_repeat">"You've already shared this."</string>
     <string name="search_title_notes">@string/app_name</string>
     <string name="search_keyword_notes">Catatan;Memo</string>
     <string name="search_path_notes">Aplikasi sistem/Catatan</string>
@@ -15,7 +15,7 @@
     <string name="dlg_unhide_message">Menampilkan…</string>
     <string name="dlg_restore_message">Memulihkan…</string>
     <string name="dlg_quick_delete_title">Cepat hapus</string>
-    <string name="dlg_check_reminder">Jangan tampil lagi</string>
+    <string name="dlg_check_reminder">Jangan tampilkan lagi</string>
     <string name="dlg_title_set_password">Setel sandi</string>
     <string name="dlg_message_set_password">Sandi perlindungan privasi dipakai di pesan, foto, dan folder tersembunyi</string>
     <string name="dlg_title_use_privacy_password">Gunakan Sandi perlindungan privasi</string>
@@ -25,12 +25,12 @@
     <string name="dlg_btn_set_password">Setel sandi</string>
     <string name="rename_folder_dialog_tile">Ganti nama folder</string>
     <string name="delete_folder_dialog_tile">Hapus folder</string>
-    <string name="menu_hide">Sembunyi</string>
+    <string name="menu_hide">Sembunyikan</string>
     <string name="menu_unhide">Tampilkan</string>
     <string name="menu_move_to">Pindah ke</string>
     <string name="menu_send_as_text">Kirim sebagai teks</string>
     <string name="menu_restore">Pulihkan</string>
-    <string name="menu_delete_forever">Hapus selamanya</string>
+    <string name="menu_delete_forever">Hapus secara permanen</string>
     <string name="menu_send_as_image">Kirim sebagai gambar</string>
     <string name="menu_new_folder">Folder baru</string>
     <string name="sns_desc_image_preview">Pratinjau pesan</string>
@@ -57,13 +57,23 @@
     <string name="recover_notes_hint">Terjadi kesalahan, pergi ke i.mi.com untuk memulihkan catatan.</string>
     <string name="force_touch_menu_add">Tambah catatan</string>
     <string name="pref_title_skip_confirm_for_quick_delete">Cepat hapus</string>
-    <string name="pref_desc_skip_confirm_for_quick_delete">Tidak perlu tanya konfirmasi saat hapus catatan dengan gerakan</string>
-    <string name="pref_title_show_root_folder_in_homepage">Hanya tampil pesan cepat di halaman awal</string>
+    <string name="pref_desc_skip_confirm_for_quick_delete">Tidak perlu menanyakan konfirmasi saat hapus catatan dengan gerakan</string>
+    <string name="pref_title_show_root_folder_in_homepage">Hanya tampil catatan cepat di halaman awal</string>
     <string name="alert_title_hidden_note">Menerima pengingat catatan tersembunyi</string>
     <string name="hint_cannot_view_hidden_note_content">Tidak dapat lihat isi catatan tersembunyi</string>
     <string name="alert_title_restore">Pulihkan catatan</string>
     <string name="alert_message_restore">Tidak bisa buka catatan. Pulihkan dulu agar dapat mengubah isinya.</string>
-    <string name="note_sort_way">Pilih bagaimana Anda ingin menyortir catatan</string>
+    <string name="note_sort_way">Mengurutkan catatan</string>
+    <string name="trash_folder_reminder">Catatan yang Anda hapus akan dihapus secara permanen setelah 30 hari.</string>
+    <string name="cta_reminder">Apl ini butuh terhubung ke internet untuk mencadangkan catatan ke Mi Cloud, dan juga butuh membaca kontak Anda agar dapat memberi label catatan yang Anda buat saat sedang menelepon.</string>
+    <string name="menu_add_folder">Tambah ke folder</string>
+    <string name="dialog_share_title">Berbagi catatan</string>
+    <string name="dialog_share_as_text">Bagikan catatan sebagai teks</string>
+    <string name="dialog_share_as_pic">Bagikan catatan sebagai gambar</string>
+    <string name="note_description_title">Tentang Catatan</string>
+    <string name="note_description_content">Apl Catatan merupakan apl yang berguna untuk mencatat ide-ide Anda. Apl ini memiliki fitur pengingat dan dapat sinkron catatan ke Mi Cloud, sehingga dapat diakses dari mana saja, kapan saja. Pastikan Anda telah mengetahui apa yang bisa dilakukan dengan fitur ini sebelum Anda menghapus apl ini.</string>
+    <string name="db_downgrade_clear_date_reminder">"Switching to a different version of MIUI requires clearing the app data for Notes. Before you do that, make sure you've backed up your notes to Mi Cloud."</string>
+    <string name="db_downgrade_clear_button">Hapus data apl</string>
     <string name="app_name">Catatan</string>
     <string name="app_widget">Catatan</string>
     <string name="widget_havenot_content">Ketuk untuk buat catatan. Tahan widget untuk ubah ukuran.</string>
@@ -80,8 +90,8 @@
     <string name="menu_create_folder">Folder baru</string>
     <string name="menu_delete">Hapus</string>
     <string name="menu_folders">Folder</string>
-    <string name="menu_stick">Tandai</string>
-    <string name="menu_unstick">Lepas tanda</string>
+    <string name="menu_stick">Sematkan</string>
+    <string name="menu_unstick">Lepas semat</string>
     <string name="folder_exist">Folder dengan nama yang sama sudah ada</string>
     <string name="menu_send_to_desktop">Letakkan di Layar utama</string>
     <string name="menu_title_select_folder">Pilih folder</string>
@@ -96,6 +106,8 @@
     <string name="alert_message_delete_note">Hapus catatan ini?</string>
     <string name="format_move_notes_to_folder">Memindahkan %1$s ke %2$s</string>
     <string name="format_move_notes_out_folder">Mengeluarkan %1$s</string>
+    <string name="format_move_note_to_folder">Dipindahkan ke %1$s</string>
+    <string name="format_move_note_out_folder">Catatan ini telah dipindahkan</string>
     <string name="alert_title_edit_anyway">Catatan ini mengandung isi yg tdk didukung</string>
     <string name="alert_message_edit_anyway">Jika Anda mengubah catatan ini, beberapa isinya mungkin akan hilang.</string>
     <string name="alert_action_edit_anyway">Tetap mengubah</string>
@@ -133,7 +145,7 @@
     <string name="login_sync">Masuk &amp; sinkron</string>
     <string name="pref_title_note_style">Gaya</string>
     <string name="pref_title_common">Setelan tambahan</string>
-    <string name="pref_title_recover_help">Pulihkan catatan</string>
+    <string name="pref_title_cloud_trash_bin">Hapus catatan di Mi Cloud</string>
     <string name="dlg_delete_message">Menghapus…</string>
     <string name="permlab_accessNote">Akses catatan</string>
     <string name="permdesc_accessNote">Apl berbahaya mungkin akan menggunakan ini untuk akses data pribadi Anda.</string>
@@ -145,7 +157,7 @@
     <string name="sns_action_send">Kirim</string>
     <string name="sns_hint_title">Subjek (opsional)</string>
     <string name="sns_hint_content">Tulis pesan</string>
-    <string name="sns_footer_text">Dibuat dgn Mi Notes</string>
+    <string name="sns_footer_text">Dibuat dengan Mi Catatan</string>
     <string name="dlg_info_creating_message">Membuat pesan…</string>
     <string name="sns_message_disconnect">Tidak dapat terhubung ke jaringan. Periksa koneksi data dan coba lagi.</string>
     <string name="sns_content_default">Berbagi foto</string>
@@ -158,4 +170,31 @@
     <string name="welcome_note_for_cm">"Dan fitur-fitur bagus lainnya!
   - Sinkron dengan Mi Cloud
   - Setel pengingat"</string>
+    <string name="cloud_trash_bin_title">Hapus catatan di Mi Cloud</string>
+    <string name="done">Selesai</string>
+    <string name="menu_add_description">Tambah catatan</string>
+    <string name="action_mode_switcher_list_description">Tampilan daftar</string>
+    <string name="action_mode_switcher_grid_description">Tampilan kisi</string>
+    <string name="action_folder_description">Lihat folder</string>
+    <string name="action_settings_description">Buka Setelan</string>
+    <string name="menu_add_folder_description">Tambah folder</string>
+    <string name="toolbar_share_description">Berbagi catatan ini</string>
+    <string name="toolbar_theme_description">Pilih tema</string>
+    <string name="toolbar_delete_description">Hapus catatan ini</string>
+    <string name="toolbar_more_description">Lainnya</string>
+    <string name="toolbar_undo_description">Urungkan</string>
+    <string name="toolbar_redo_description">Ulangi</string>
+    <string name="toolbar_gallery_description">Tambah gambar</string>
+    <string name="toolbar_check_description">Tambah kotak centang</string>
+    <string name="edit_header_home_description">Kembali</string>
+    <string name="theme_white_description">Putih</string>
+    <string name="theme_yellow_description">Kuning</string>
+    <string name="theme_blue_description">Biru</string>
+    <string name="theme_green_description">Hijau</string>
+    <string name="theme_red_description">Merah</string>
+    <string name="set_alarm_description">Setel alarm</string>
+    <string name="cancel_alarm_description">Batalkan alarm</string>
+    <string name="edit_header_done_description">Selesai</string>
+    <string name="refuse_to_share_as_pic_because_of_content">This note is too big to share.</string>
+    <string name="refuse_to_share_as_pic_because_of_loading">Wait until the note is loaded and try again.</string>
 </resources>

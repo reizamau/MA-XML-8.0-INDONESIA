@@ -72,23 +72,32 @@
     <plurals name="album_count_and_size">
         <item quantity="other">%1$d item | %2$s</item>
     </plurals>
-    <plurals name="backuped">
-        <item quantity="other">%1$d item telah dicadangkan</item>
+    <plurals name="backuping_desc_normal">
+        <item quantity="other">%1$d foto atau video</item>
     </plurals>
-    <plurals name="backup_waiting">
-        <item quantity="other">%1$d foto/video belum dicadangkan</item>
+    <plurals name="backuping_desc_gprs">
+        <item quantity="other">%1$d foto atau video | %2$s</item>
     </plurals>
-    <plurals name="network_unsatisfied">
-        <item quantity="other">Jaringan bermasalah. %1$d foto/video belum dicadangkan.</item>
+    <plurals name="backup_after_hours">
+        <item quantity="other">Lanjutkan pencadangan setelah %d jam</item>
     </plurals>
-    <plurals name="sync_off">
-        <item quantity="other">Sinkron mati. %1$d foto/video belum dicadangkan.</item>
+    <plurals name="backup_pause_desc">
+        <item quantity="other">%d foto dan video | Dijeda</item>
     </plurals>
-    <plurals name="cloud_space_full">
-        <item quantity="other">Tidak dapat cadangkan %1$d item</item>
+    <plurals name="sync_error_title">
+        <item quantity="other">%d foto dan video belum dicadangkan</item>
     </plurals>
-    <plurals name="local_space_full">
-        <item quantity="other">Ruang lokal penuh. %1$d foto/video belum dicadangkan.</item>
+    <plurals name="sync_total_count">
+        <item quantity="other">%d foto &amp; video</item>
+    </plurals>
+    <plurals name="cloud_storage_photo_num">
+        <item quantity="other">%d foto</item>
+    </plurals>
+    <plurals name="cloud_storage_video_num">
+        <item quantity="other">%d video</item>
+    </plurals>
+    <plurals name="add_to_secret_successful">
+        <item quantity="other">%1$d foto ditambahkan ke album tersembunyi</item>
     </plurals>
     <plurals name="number_of_images_synced">
         <item quantity="other">%1$d foto</item>
@@ -103,7 +112,7 @@
         <item quantity="other">%1$d video menunggu untuk dicadangkan</item>
     </plurals>
     <plurals name="number_of_images_and_videos_to_upload">
-        <item quantity="other">%1$d foto/video belum dicadangkan</item>
+        <item quantity="other">%1$d foto &amp; video belum dicadangkan</item>
     </plurals>
     <plurals name="number_of_uploading_images">
         <item quantity="other">Mencadangkan %1$d foto…</item>
@@ -117,10 +126,19 @@
     <plurals name="download_error">
         <item quantity="other">Tidak dapat unduh %1$d berkas</item>
     </plurals>
+    <plurals name="download_retry_message">
+        <item quantity="other">Tidak bisa unduh %1$d berkas, periksa koneksi jaringan dan coba lagi</item>
+    </plurals>
     <plurals name="custom_select_title_items_selected">
         <item quantity="other">%d item terpilih</item>
     </plurals>
     <plurals name="fast_share_auto_render_failed">
         <item quantity="other">Lewati %1$d foto yang tidak dapat digambar.</item>
+    </plurals>
+    <plurals name="file_count_format">
+        <item quantity="other">Total %1$d foto</item>
+    </plurals>
+    <plurals name="quickly_discovery_message_format">
+        <item quantity="other">%1$d foto baru ditemukan</item>
     </plurals>
 </resources>

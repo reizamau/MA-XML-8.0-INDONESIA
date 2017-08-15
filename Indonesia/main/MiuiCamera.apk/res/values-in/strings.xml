@@ -3,6 +3,7 @@
     <string name="camera_setting">Kamera</string>
     <string name="path_settings">Aplikasi sistem/Kamera/Setelan</string>
     <string name="search_settings">Setelan kamera;Kualitas;Kualitas foto;Lokasi foto;Deteksi wajah;Suara kamera</string>
+    <string name="hibernate_hint">Ketuk layar untuk bangunkan Kamera</string>
     <string name="camera_error_title">Kamera bermasalah</string>
     <string name="cannot_connect_camera_once">Tidak dapat terhubung ke kamera</string>
     <string name="cannot_connect_camera_twice">Masih tidak dapat terhubung ke kamera. Coba mulai ulang perangkat.</string>
@@ -15,7 +16,7 @@
     <string name="preparing_sd">Memeriksa penyimpanan internal…</string>
     <string name="access_sd_fail">Tdk dpt akses penyimpanan USB.</string>
     <string name="confirm_restore_title">Pulihkan setelan bawaan</string>
-    <string name="confirm_restore_message">Pulihkan setelan bawaan Kamera?</string>
+    <string name="confirm_restore_message">Pulihkan setelan awal Kamera?</string>
     <string name="confirm_location_title">Ingat lokasi foto?</string>
     <string name="confirm_location_message">"Tandai foto dan video Anda dengan lokasi tempat mereka diambil.
 
@@ -26,6 +27,10 @@ Apl lain dapat akses informasi ini bersama dengan gambar yang tersimpan."</strin
     <string name="pref_camera_recordlocation_entry_off">Mati</string>
     <string name="pref_camera_recordlocation_entry_on">Hidup</string>
     <string name="pref_camera_sound_title">Suara kamera</string>
+    <string name="pref_camera_proximity_lock_title">Mode saku</string>
+    <string name="pref_camera_proximity_lock_summary">Kunci gerakan sentuhan saat ditaruh ke dalam saku</string>
+    <string name="screen_on_proximity_sensor_summary">"Don't cover the earphone area"</string>
+    <string name="screen_on_proximity_sensor_hint">To turn this feature off, press the Volume up and Back buttons simultaneously.</string>
     <string name="pref_front_mirror_title">Cermin kamera depan</string>
     <string name="pref_video_quality_title">Kualitas video</string>
     <string name="pref_video_quality_entry_4kuhd">4K</string>
@@ -50,6 +55,7 @@ Apl lain dapat akses informasi ini bersama dengan gambar yang tersimpan."</strin
     <string name="pref_camcorder_settings_category">Setelan kamera</string>
     <string name="pref_camera_picturesize_title_simple_mode">Bingkai kamera</string>
     <string name="pref_camera_picturesize_entry_standard">Standar 4:3</string>
+    <string name="pref_camera_picturesize_entry_widescreen">@string/pref_camera_picturesize_entry_fullscreen</string>
     <string name="pref_camera_picturesize_entry_fullscreen">Layar penuh 16:9</string>
     <string name="pref_camera_picturesize_entry_4208x3120">13M(4208x3120)</string>
     <string name="pref_camera_picturesize_entry_4208x2368">10M(4208x2368)</string>
@@ -102,6 +108,10 @@ Apl lain dapat akses informasi ini bersama dengan gambar yang tersimpan."</strin
     <string name="pref_camera_whitebalance_entry_manual">Manual</string>
     <string name="pref_camera_whitebalance_entry_measure">Pengukuran</string>
     <string name="pref_camera_coloreffect_title">Filter</string>
+    <string name="pref_camera_coloreffect_entry_sepia" />
+    <string name="pref_camera_coloreffect_entry_negative" />
+    <string name="pref_camera_coloreffect_entry_posterize" />
+    <string name="pref_camera_coloreffect_entry_aqua" />
     <string name="pref_camera_coloreffect_entry_instagram_clarendon">Color pop</string>
     <string name="pref_camera_coloreffect_entry_instagram_crema">Rustic</string>
     <string name="pref_camera_coloreffect_entry_vsco_f2">Matte</string>
@@ -114,7 +124,7 @@ Apl lain dapat akses informasi ini bersama dengan gambar yang tersimpan."</strin
     <string name="pref_camera_coloreffect_entry_long_face">Merenggang</string>
     <string name="pref_camera_coloreffect_entry_light_tunnel">Terowongan</string>
     <string name="pref_camera_coloreffect_entry_none">Normal</string>
-    <string name="pref_camera_coloreffect_entry_mono">H&amp;P</string>
+    <string name="pref_camera_coloreffect_entry_mono">Mono</string>
     <string name="pref_camera_coloreffect_entry_vivid">Jelas</string>
     <string name="pref_camera_coloreffect_entry_sketch">Sketsa</string>
     <string name="pref_camera_coloreffect_entry_fisheye">Mata ikan</string>
@@ -175,6 +185,8 @@ Apl lain dapat akses informasi ini bersama dengan gambar yang tersimpan."</strin
     <string name="accessibility_review_thumbnail">Foto terkini</string>
     <string name="accessibility_camera_picker">Alih kamera depan dan belakang</string>
     <string name="accessibility_stereo_button">Mode Kamera ganda</string>
+    <string name="accessibility_zoom_button">Mode zoom</string>
+    <string name="accessibility_portrait_button">Mode potret/tegak</string>
     <string name="pref_camera_autoexposure_title">Setelan pencahayaan otomatis</string>
     <string name="pref_camera_autoexposure_entry_frameaverage">Rata-rata bingkai</string>
     <string name="pref_camera_autoexposure_entry_centerweighted">Pembebanan di tengah</string>
@@ -213,6 +225,7 @@ Apl lain dapat akses informasi ini bersama dengan gambar yang tersimpan."</strin
     <string name="pref_video_captrue_ability_title">Pengambilan gambar saat rekam</string>
     <string name="see_qrcode_detals">Lihat rincian kode QR</string>
     <string name="pref_camera_watermark_title">Tambah info waktu di foto</string>
+    <string name="pref_dualcamera_watermark_title">Dual camera watermark</string>
     <string name="pref_camera_face_info_watermark_title">Tambah info umur di foto</string>
     <string name="pref_scan_qrcode_title">Pindai kode QR</string>
     <string name="pref_manual_exposure_title">Waktu cahaya</string>
@@ -244,6 +257,8 @@ Apl lain dapat akses informasi ini bersama dengan gambar yang tersimpan."</strin
     <string name="pref_camera_show_gender_age_entry_off">Nonaktif</string>
     <string name="pref_camera_show_gender_age_entry_on">Tampil umur &amp; jenis kelamin saat Percantik hidup</string>
     <string name="pref_camera_show_gender_age_entry_alias">Tampil umur saat Percantik hidup</string>
+    <string name="pref_camera_show_gender_age_label_on">Umur &amp; jenis kelamin</string>
+    <string name="pref_camera_show_gender_age_label_alias">Umur</string>
     <string name="face_beauty_age_alias_male_0_7">Pria 0-7</string>
     <string name="face_beauty_age_alias_male_8_17">Pria 8-17</string>
     <string name="face_beauty_age_alias_male_18_30">Pria 18-30</string>
@@ -280,6 +295,7 @@ Apl lain dapat akses informasi ini bersama dengan gambar yang tersimpan."</strin
     <string name="simple_mode_button_text_manual">Matikan Manual</string>
     <string name="pref_qc_focus_position_title">Fokus</string>
     <string name="pref_front_mirror_entry_auto">Saat wajah terdeteksi</string>
+    <string name="pref_front_mirror_label_auto">Auto</string>
     <string name="pref_front_mirror_entry_on">Hidup</string>
     <string name="pref_front_mirror_entry_off">Mati</string>
     <string name="pref_burst_shoot_title">Foto beruntun</string>
@@ -323,12 +339,12 @@ Apl lain dapat akses informasi ini bersama dengan gambar yang tersimpan."</strin
     <string name="pref_camera_snap_enable_title">Mode Ambil gambar cepat</string>
     <string name="pref_camera_snap_entry_take_picture">Mode Ambil foto cepat</string>
     <string name="pref_camera_snap_entry_take_movie">Mode Ambil video cepat</string>
+    <string name="pref_camera_snap_label_take_picture">Foto</string>
+    <string name="pref_camera_snap_label_take_movie">Video</string>
     <string name="pref_camera_snap_entry_off">Mati</string>
     <string name="pref_camera_snap_toast_when_volume_can_wake_screen">Tak bisa pakai mode Ambil gambar cepat saat \"Bangunkan dengan tombol Volume\" dihidupkan.</string>
     <string name="pref_camera_tilt_shift_title">Tilt-shift</string>
     <string name="simple_mode_button_text_tilt_shift">Matikan Tilt-shift</string>
-    <string name="pref_camera_fisheye_title">Mata ikan</string>
-    <string name="simple_mode_button_text_fisheye">Matikan Mata ikan</string>
     <string name="pref_camera_magic_mirror_title">Cermin ajaib</string>
     <string name="simple_mode_button_text_magic_mirror">Matikan Cermin ajaib</string>
     <string name="pano_how_to_use_prompt_align_reference_line">Sejajarkan panah dengan garis acuan</string>
@@ -340,6 +356,20 @@ Apl lain dapat akses informasi ini bersama dengan gambar yang tersimpan."</strin
     <string name="dual_camera_lens_covered_toast">Lensa tertutup.</string>
     <string name="dual_camera_use_hint">"Mode stereo membantu membuat latar belakang menjadi pudar.
 Jarak objek tidak boleh lebih dari 2 meter."</string>
+    <string name="pref_camera_zoom_mode_title">Lensa</string>
+    <string name="pref_camera_zoom_mode_entry_wide">Lebar</string>
+    <string name="pref_camera_zoom_mode_entry_tele">Tele</string>
+    <string name="pref_camera_portrait_mode_title">Mode potret/tegak</string>
+    <string name="pref_camera_portrait_mode_entry_off">Mode potret/tegak mati</string>
+    <string name="pref_camera_portrait_mode_entry_on">Mode potret/tegak hidup</string>
+    <string name="portrait_mode_lowlight_hint">Terlalu gelap</string>
+    <string name="portrait_mode_too_close_hint">Berdiri lebih jauh dari objek</string>
+    <string name="portrait_mode_too_far_hint">Jarak dengan subjek maksimal 2,5 meter</string>
+    <string name="portrait_mode_depth_effect_success_hint">Efek kedalaman</string>
+    <string name="portrait_with_facebeauty_hint">Percantik tersedia di mode Potret/tegak</string>
+    <string name="pref_camera_portrait_with_facebeauty_title">Percantik di mode Potret/tegak</string>
+    <string name="portrait_mode_use_hint">"Portrait mode helps you blur the background
+with more clear main body and more beautiful portrait"</string>
     <string name="pref_camera_square_mode_title">Kotak</string>
     <string name="simple_mode_button_text_square">Matikan mode Kotak</string>
     <string name="face_beauty_smart">Pintar</string>
@@ -350,26 +380,26 @@ Jarak objek tidak boleh lebih dari 2 meter."</string>
     <string name="pref_skin_beautify_eye_title">Mata</string>
     <string name="pref_skin_beautify_smooth_title">Kulit</string>
     <string name="pref_skin_beautify_color_title">Rona</string>
-    <string name="pref_camera_beautify_entry_auto">Otomatis</string>
     <string name="pref_camera_beautify_entry_low">Rendah</string>
     <string name="pref_camera_beautify_entry_normal">Sedang</string>
     <string name="pref_camera_beautify_entry_high">Tinggi</string>
     <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
-    <string name="camera_mode_options">Mode</string>
+    <string name="camera_mode_options">Pilihan</string>
     <string name="button_front_camera_title">Foto selfie</string>
     <string name="button_normal_video_title">Rekam video</string>
     <string name="button_fisheye_camera_title">Mata ikan</string>
     <string name="pref_camera_groupshot_mode_title">Grup selfie</string>
     <string name="simple_mode_button_text_groupshot">Matikan Grup selfie</string>
-    <string name="pref_groupshot_with_primitive_title">Simpan foto aslinya juga</string>
-    <string name="pref_camera_mono_mode_title">H&amp;P</string>
-    <string name="simple_mode_button_text_mono">Matikan H&amp;P</string>
+    <string name="pref_groupshot_with_primitive_title">Simpan foto asli seperti yang di mode Grup selfie</string>
+    <string name="groupshot_mode_use_hint">"Kamera akan mengambil beberapa foto
+dan membuat satu foto yang mana setiap orang terlihat paling bagus."</string>
     <string name="title_snap_double_confirm">Konfirmasi lagi</string>
     <string name="message_snap_double_confirm">Tekan lama tombol Volume dapat memicu NFC sekarang. Ganti fitur ini?</string>
     <string name="snap_confirmed">Ganti</string>
     <string name="snap_cancel">Batal</string>
-    <string name="pref_camera_raw_title">RAW</string>
-    <string name="simple_mode_button_text_raw">Matikan RAW</string>
     <string name="toast_saving">Menyimpan foto…</string>
     <string name="cannot_connect_camera_volte_call">Panggilan video sedang berlangsung, coba lagi nanti.</string>
+    <string name="install_confirmed">Instal</string>
+    <string name="confirm_install_scanner_title">Instal Pemindai</string>
+    <string name="confirm_install_scanner_message">Dengan Pemindai, Anda dapat memindai kode QR, barcode, dan lainnya. Anda tidak harus terhubung ke internet untuk menginstalnya.</string>
 </resources>

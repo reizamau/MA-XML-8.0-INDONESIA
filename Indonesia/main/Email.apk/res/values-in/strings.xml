@@ -24,7 +24,8 @@
     <string name="account_setting_message_body_load_text">Hanya isi</string>
     <string name="account_settings_action">Setelan akun</string>
     <string name="account_settings_background_attachments_label">Unduh lampiran</string>
-    <string name="account_settings_background_attachments_summary">Unduh lampiran dengan Wi-Fi</string>
+    <string name="account_settings_background_attachments_summary">Unduh lampiran dengan WLAN</string>
+    <string name="account_settings_background_attachments_summary_inter">Unduh lampiran dengan Wi-Fi</string>
     <string name="account_settings_data_usage">Setelan sinkron</string>
     <string name="account_settings_description_label">Nama akun</string>
     <string name="account_settings_edit_quick_responses_label">Balasan cepat</string>
@@ -200,11 +201,22 @@
     <string name="auto_advance_help_title">Setelah hapus pesan, lihat…</string>
     <string name="auto_advance_label">Arus hapus pesan</string>
     <string name="auto_advance_summary">Pilih pesan mana yang digulir setelah hapus sebuah pesan</string>
+    <string name="auto_remind_bind">Tambah</string>
+    <string name="auto_remind_discribe_text">Hidupkan untuk menerima pengingat otomatis</string>
+    <string name="auto_remind_text">Pengingat otomatis</string>
+    <string name="auto_remind_unbind">Berhenti</string>
     <string name="auto_sync_off">Sinkron otomatis nonaktif.</string>
+    <string name="automatic_remind_text">自动提醒</string>
+    <string name="bank_card_detail">Rincian kartu kredit</string>
     <string name="battery_saver">Penghemat baterai</string>
     <string name="battery_saver_keywords">penghemat baterai;hemat baterai;hemat daya</string>
     <string name="bcc">Bcc</string>
     <string name="bcc_heading">"Bcc: "</string>
+    <string name="bill_center_setting">Setelan tagihan</string>
+    <string name="bill_center_setting_head">Impor info dari akun-akun ini</string>
+    <string name="bill_cycle_text">Siklus penagihan</string>
+    <string name="bill_remind">Pengingat jatuh tempo pembayaran</string>
+    <string name="bill_remind_due">Jatuh tempo pembayaran %s, ketuk untuk lihat</string>
     <string name="blank_feedback_toast">Anda perlu menulis masukan</string>
     <string name="body_forward_email_text">[Terusan]</string>
     <string name="body_hint">Tulis email</string>
@@ -217,6 +229,7 @@
     <string name="calendar_remind_gridview_pick_date">Pilih tanggal</string>
     <string name="cancel">Batal</string>
     <string name="cancel_action">Batal</string>
+    <string name="cancel_pop3_attchemt_downloading">pop3类型的账号不能取消下载中的附件</string>
     <string name="cant_move_or_change_labels">Tidak dapat memindahkan item dari banyak akun</string>
     <string name="cc">Cc</string>
     <string name="cc_attribution">Cc: %1$s&lt;br></string>
@@ -302,6 +315,8 @@
     <string name="copy_email">Salin alamat email</string>
     <string name="copy_number">Salin nomor telepon</string>
     <string name="create_action">Baru</string>
+    <string name="credit_limit_text">Batas kredit</string>
+    <string name="cur_debt">Saldo akun</string>
     <string name="custom_from_account_label">Kirim email sebagai:</string>
     <string name="date_heading">"Tanggal: "</string>
     <string name="date_message_received">%1$s %2$s</string>
@@ -321,7 +336,6 @@
     <string name="device_not_activiey_lint1">Pengelola perangkat tidak teraktivasi</string>
     <string name="device_not_activiey_lint2">Layanan email tidak bekerja dengan Exchange</string>
     <string name="dialog_account_auto_sync_setting_no_open">Tidak bisa otomatis terima pesan baru. Sinkron mati.</string>
-    <string name="dialog_auto_sync_setting_no_open">Tidak bisa otomatis terima pesan baru. Sinkron mati.</string>
     <string name="dialog_change_sync_lookback">Email yang diterima %s yang lalu akan dihapus secara otomatis. Ketuk untuk ubah.</string>
     <string name="dialog_gmail_proxy_server_is_error">Server proxy Gmail bermasalah.</string>
     <string name="dialog_insufficient_space_on_external">Tak dapat unduh lampiran. Tak ada cukup ruang di penyimpanan eksternal.</string>
@@ -351,9 +365,13 @@
     <string name="download_confirm_title">Unduh lampiran</string>
     <string name="download_message_failed_for_too_large">Pesan terlalu besar untuk diunduh.</string>
     <string name="draft_count_format"> (%1$s)</string>
+    <string name="drawer_bank_bill">Laporan Bank</string>
+    <string name="drawer_classification">Kategori</string>
     <string name="drawer_close">Tutup laci navigasi</string>
     <string name="drawer_contacts">Kontak</string>
     <string name="drawer_open">Buka laci navigasi</string>
+    <string name="due">Jatuh tempo</string>
+    <string name="due_date_text">Pembayaran terakhir</string>
     <string name="edit_quick_response_dialog">Balasan cepat</string>
     <string name="email_netease">NetEase Mail</string>
     <string name="email_qq">QQ Mail</string>
@@ -367,6 +385,7 @@
     <string name="empty_trash">Kosongkan Sampah</string>
     <string name="empty_trash_dialog_title">Kosongkan Sampah?</string>
     <string name="enable_sync_in_account_settings">Hidupkan dalam %1$s.</string>
+    <string name="error">Bermasalah</string>
     <string name="exception_cancel">"
         Telah dibatalkan acara untuk
         tgl:
@@ -385,6 +404,7 @@
     <string name="feedback_sent">Terima kasih atas masukan Anda</string>
     <string name="feedback_user_edit_hint">Jelaskan masalah di sini. Kami akan mengirimkan email setelah kami melihatnya.</string>
     <string name="feedback_user_edit_tag">Dari MIUI</string>
+    <string name="fetch_bank_sender_list_failure">Tidak bisa peroleh info</string>
     <string name="fetching_attachment">Mengambil lampiran</string>
     <string name="file_deleted_success">Berkas dihapus</string>
     <string name="file_not_found">Tidak dapat menemukan berkas</string>
@@ -404,6 +424,7 @@
     <string name="forward_attribution_no_headers">---------- Pesan terusan ----------</string>
     <string name="forward_download_failed_ticker">Tidak dapat meneruskan satu atau beberapa lampiran.</string>
     <string name="forward_download_failed_title">Lampiran tidak diteruskan</string>
+    <string name="free_period_text">Periode bebas bunga</string>
     <string name="from_heading">"Dari: "</string>
     <string name="general_preference_confirm_delete_label">Konfirmasi sebelum hapus</string>
     <string name="general_preference_confirm_send_label">Konfirmasi sebelum kirim</string>
@@ -433,13 +454,17 @@
     <string name="hide_elided">▼ Sembunyi teks kutipan</string>
     <string name="hint_quick_reply_all">Balas semua</string>
     <string name="imap_name">IMAP</string>
+    <string name="imap_or_pop3_name">IMAP/POP3</string>
     <string name="imap_password_error">Sandi untuk server email masuk tidak benar</string>
+    <string name="import_button_text">Impor</string>
+    <string name="import_from_other_account">Impor dari akun lain</string>
     <string name="info_actionbar_normal_detail">Promosi</string>
-    <string name="info_item_hide">Sembunyikan</string>
+    <string name="info_item_hide">Hapus</string>
     <string name="info_switch_summary">Tampilkan promosi di bagian atas kotak masuk</string>
     <string name="info_switch_title">Promosi</string>
     <string name="inline_picture_deleted">Mengunduh gambar yang hilang…</string>
     <string name="input_password_prompt">Masukkan sandi</string>
+    <string name="interact_with_server_error">Tidak dapat terhubung ke server</string>
     <string name="invalid_recipient">Alamat %s tidak valid.</string>
     <string name="invalid_recipient_title">Penerima tidak valid</string>
     <string name="kilobytes">%s KB</string>
@@ -452,6 +477,7 @@
     <string name="local_search">Pencarian lokal</string>
     <string name="local_search_result">%s hasil pada pesan tersinkron</string>
     <string name="login">Masuk</string>
+    <string name="login139">Masuk dengan China Mobile</string>
     <string name="login_failed_ticker">%s gagal masuk.</string>
     <string name="login_failed_title">Tidak dapat masuk</string>
     <string name="long_press_to_select_tip">Sentuh &amp; tahan utk pilih satu percakapan, lalu sentuh utk pilih lebih banyak.</string>
@@ -459,7 +485,8 @@
     <string name="mail_body_turncated">Email ini terlalu besar untuk dimuat, hanya dapat menampilkan sebagian. Harap dibuka di komputer nanti.</string>
     <string name="mail_header_network_not_available">Anda tidak memiliki koneksi jaringan.</string>
     <string name="mailbox_list_account_selector_combined_view">Akun gabungan</string>
-    <string name="mailbox_name_display_ad">Iklan &amp; notifikasi</string>
+    <string name="mailbox_name_display_ad">Iklan</string>
+    <string name="mailbox_name_display_circular">Notifikasi</string>
     <string name="mailbox_name_display_drafts">Draf</string>
     <string name="mailbox_name_display_inbox">Kotak masuk</string>
     <string name="mailbox_name_display_junk">Spam</string>
@@ -541,7 +568,7 @@
     <string name="menu_search">Cari</string>
     <string name="menu_settings">Setelan</string>
     <string name="merged_mailbox_compose_select_account">Pilih akun</string>
-    <string name="message_body_load_set_description">Tampilkan ukuran email baru saat menggunakan data seluler</string>
+    <string name="message_body_load_set_description">Muat email saat menggunakan data seluler</string>
     <string name="message_compose_insert_quick_response_list_title">Masukkan balasan cepat</string>
     <string name="message_decode_error">Tidak dapat urai kode pesan</string>
     <string name="message_details_title">Rincian pesan</string>
@@ -558,12 +585,14 @@
     <string name="mibill_privacy_policy_description">Izinkan Mi Dompet untuk otomatis analisa dan kelola tagihan. Fitur ini akan dimatikan secara default untuk alamat email yang berkaitan dengan pekerjaan.</string>
     <string name="mibill_privacy_policy_link">Dengan menggunakan fitur ini, Anda menyetujui <a href="https://www.mipay.com/res/doc/eula/email.html">Persyaratan Layanan</a> kami</string>
     <string name="mibill_privacy_policy_title">Otomatis kelola tagihan</string>
+    <string name="min_payment_text">Pembayaran minimum</string>
     <string name="more_atts_remaining">Tersisa %1$d lagi</string>
     <string name="more_context">Lainnya</string>
     <string name="move_to_selection_dialog_title">Pindah ke folder lain</string>
     <string name="multiple_new_message_notification_item"><b>%1$s</b>"   %2$s"</string>
     <string name="mute">Heningkan</string>
     <string name="network_error">Tak ada koneksi</string>
+    <string name="network_invaild">Tidak dapat terhubung ke jaringan</string>
     <string name="network_not_available">Tidak dapat terhubung ke jaringan</string>
     <string name="network_try_again">Periksa koneksi jaringan dan coba lagi</string>
     <string name="network_unavailable">Jaringan tidak tersedia</string>
@@ -573,11 +602,16 @@
     <string name="no">Tidak</string>
     <string name="no_application_found">Tidak menemukan apl untuk buka lampiran ini.</string>
     <string name="no_application_found_title">Buka lampiran ini</string>
+    <string name="no_bill_discribe">"Tidak dapat menemukan tagihan.
+Coba ganti ke akun email lainnya."</string>
     <string name="no_contacts">Tak ada kontak.</string>
     <string name="no_content_in_body">[Tak ada isi]</string>
     <string name="no_conversations">Tak ada pesan</string>
+    <string name="no_filtrable_email_account">Tidak ada akun untuk disaring</string>
     <string name="no_mails">Tak ada email.</string>
     <string name="no_matched_attachment">Tak ada hasil.</string>
+    <string name="no_recognize_describe">"Tidak dapat menemukan email yang berisi tiket atau pemesanan (booking).
+Coba di kotak masuk yang lain."</string>
     <string name="not_subject">(Tak ada subjek)</string>
     <string name="not_synced_title">Akun tdk tersinkron</string>
     <string name="notification_action_archive">Arsipkan</string>
@@ -592,6 +626,7 @@
     <string name="oauth_error_description">Tidak dapat otentikasi</string>
     <string name="oauth_gmail_login_notify">Masukkan nama pengguna dan sandi Akun Google pada halaman masuk berikut ini.</string>
     <string name="oauth_login_continue">Lanjutkan</string>
+    <string name="oauth_login_continue_qq">Dapatkan kode akses dan masuk ></string>
     <string name="ok">Oke</string>
     <string name="okay_action">Oke</string>
     <string name="outbox_alert_button_no_resend">Jangan kirim</string>
@@ -615,7 +650,10 @@
     <string name="outbox_alert_select_operation">Pilih aksi</string>
     <string name="outbox_alert_title_sent_failed">Tidak dapat kirim email</string>
     <string name="outbox_no_mails">Kosong</string>
+    <string name="over_due">Telat</string>
     <string name="parase_setup_data">Mendapatkan data…</string>
+    <string name="parse_bill_discribe">Memproses tagihan kartu kredit…</string>
+    <string name="parse_recognize_describe">Menganalisa email…</string>
     <string name="password_expire_warning_content_title">Sandi layar kunci akan kedaluwarsa</string>
     <string name="password_expire_warning_dialog_content_fmt">Anda perlu mengubah PIN atau sandi layar kunci segera mungkin atau data untuk %s akan terhapus. Anda ingin ubah sekarang?</string>
     <string name="password_expire_warning_dialog_title">Sandi layar kunci akan kedaluwarsa</string>
@@ -648,6 +686,8 @@
     <string name="photo_load_failed">Tidak dapat memuat gambar</string>
     <string name="photo_view_count" formatted="false">%d dari %d</string>
     <string name="please_fill_in_your_mailbox_information2">Masukkan info kotak surat Anda</string>
+    <string name="pls_parse_bill_discribe">"Menganalisa tagihan dan info perjalanan di email Anda
+agar dapat menerima notifikasi pengingat tentang pembayaran dan perjalanan"</string>
     <string name="policy_app_blacklist">Melarang apl tertentu</string>
     <string name="policy_app_whitelist">Izinkan apl tertentu</string>
     <string name="policy_bluetooth_restricted">Batasi penggunaan Bluetooth</string>
@@ -664,7 +704,8 @@
     <string name="policy_dont_allow_text_messaging">Jangan izinkan pesan teks</string>
     <string name="policy_dont_allow_unsigned_apps">Jangan izinkan apl yang tak terdaftar</string>
     <string name="policy_dont_allow_unsigned_installers">Jangan izinkan instal apl yang tdk ditandatangani</string>
-    <string name="policy_dont_allow_wifi">Jangan izinkan Wi-Fi</string>
+    <string name="policy_dont_allow_wifi">Jangan izinkan WLAN</string>
+    <string name="policy_dont_allow_wifi_inter">Jangan izinkan Wi-Fi</string>
     <string name="policy_email_age">Batasi jumlah email tersinkron</string>
     <string name="policy_html_truncation">Batasi ukuran HTML email</string>
     <string name="policy_password_expiration">Setel batas waktu sandi</string>
@@ -689,17 +730,29 @@
     <string name="previous_action">Kembali</string>
     <string name="print">Print</string>
     <string name="prompt_title">Tanya</string>
+    <string name="protocol_setting_toast">Ketuk sudut kanan atas untuk pergi ke Setelan setelah Anda menyetujui</string>
     <string name="pull_to_refresh">Tarik ke bawah untuk segarkan</string>
     <string name="push_wps_better_confirm_download">Unduh</string>
     <string name="push_wps_better_confirm_exit">Tidak sekarang</string>
     <string name="push_wps_better_confirm_message">Coba gunakan WPS Office untuk buka lampiran ini.</string>
-    <string name="push_wps_better_confirm_noshow_hint">Jangan tampil lagi</string>
+    <string name="push_wps_better_confirm_noshow_hint">Jangan tampilkan lagi</string>
     <string name="push_wps_better_confirm_title">Coba WPS Office</string>
     <string name="push_wps_confirm_cancel">Tidak sekarang</string>
     <string name="push_wps_confirm_download">Unduh</string>
     <string name="push_wps_confirm_message">Coba gunakan WPS Office untuk buka lampiran ini.</string>
     <string name="push_wps_confirm_title">Coba WPS Office</string>
     <string name="push_wps_no_response_app">Tak ada aplikasi yang ditemukan untuk menangani aksi ini</string>
+    <string name="qq_bar_open_imap">Bantuan</string>
+    <string name="qq_bar_send_message">Kirim SMS</string>
+    <string name="qq_login_basecode">Masuk ke situs web QQ Mail. Masukkan sandi independen.</string>
+    <string name="qq_login_get_auth">Hidupkan perlindungan sandi jika Anda tidak menerima SMS</string>
+    <string name="qq_login_open_imap">Ketuk \"Bantuan\" untuk hidupkan IMAP/SMTP</string>
+    <string name="qq_login_origin_setting">Masukkan nama pengguna dan sandi untuk masuk ></string>
+    <string name="qq_login_send_message">Ketuk \"Kirim SMS\" untuk memperoleh kode verifikasi</string>
+    <string name="qq_login_webview">Masuk ke situs web QQ Mail. Masukkan sandi Anda.</string>
+    <string name="qq_next_generation_auth_toast">Hidupkan perlindungan sandi di browser Anda</string>
+    <string name="qq_uthentication_failed">Tidak dapat verifikasi akun, masuk lagi</string>
+    <string name="qq_webview_loading">Tunggu sebentar…</string>
     <string name="questionnair_body_invisibility">Pesan tidak ditampilkan</string>
     <string name="questionnair_confirm_delete">Hapus</string>
     <string name="questionnair_instability">Sering bermasalah</string>
@@ -726,6 +779,32 @@
     <string name="read_string">percakapan sudah dibaca</string>
     <string name="recipient_needed">Tambah paling sedikit satu penerima.</string>
     <string name="recipient_needed_title">Peringatan</string>
+    <string name="recognize_hotel_check_in_date">Waktu check in</string>
+    <string name="recognize_hotel_hotel_money">Harga %1$s</string>
+    <string name="recognize_hotel_notification_content">Selamat menikmati waktu Anda di sini!</string>
+    <string name="recognize_hotel_notification_title">Anda memesan kamar di %1$s mulai dari %3$s/%2$s. Cek ulang info booking Anda sebelum tiba di sana.</string>
+    <string name="recognize_hotel_order_money">Total</string>
+    <string name="recognize_hotel_other_money">Biaya lainnya %1$s</string>
+    <string name="recognize_hotel_reverse_date">Check in sebelum %1$s:%2$s %3$s</string>
+    <string name="recognize_hotel_room_type">Kamar</string>
+    <string name="recognize_hotel_room_type_value">%1$s × %2$s</string>
+    <string name="recognize_hotel_title">Booking hotel</string>
+    <string name="recognize_hotel_user_names">Tamu</string>
+    <string name="recognize_hotel_user_names_value">%1$s+%2$s</string>
+    <string name="recognize_setting_title">Setelan travel</string>
+    <string name="recognize_ticket_air_notification_content">Selamat menikmati penerbangan Anda!</string>
+    <string name="recognize_ticket_air_notification_title">Penerbangan %3$s (%2$s/%1$s) akan segera lepas landas. Periksa ulang info penerbangan Anda.</string>
+    <string name="recognize_ticket_air_state_stopover">经停</string>
+    <string name="recognize_ticket_air_state_transfer">中转</string>
+    <string name="recognize_ticket_air_user_name">Penumpang:</string>
+    <string name="recognize_ticket_title">Tiket pesawat &amp; kereta</string>
+    <string name="recognize_ticket_train_alter">Diubah</string>
+    <string name="recognize_ticket_train_depart_date">Berangkat tanggal %2$s/%1$s pukul %3$s:%4$s</string>
+    <string name="recognize_ticket_train_notification_content">Selamat menikmati perjalanan Anda!</string>
+    <string name="recognize_ticket_train_notification_title">Kereta %3$s (%2$s/%1$s) akan segera berangkat. Cek ulang tiket Anda.</string>
+    <string name="recognize_ticket_train_return">Dikembalikan</string>
+    <string name="recognize_ticket_train_user_name">Penumpang: %1$s</string>
+    <string name="recognize_title">Informasi travel</string>
     <string name="reduce_the_receiving_frequencye_summary">Frekuensi sinkron kotak masuk berkurang saat Jangan ganggu hidup</string>
     <string name="reduce_the_receiving_frequencye_title">Frekuensi sinkron berkurang</string>
     <string name="refresh">Segarkan</string>
@@ -793,6 +872,8 @@
     <string name="ser_resp_err_map_pserr">Nama pengguna atau sandi salah</string>
     <string name="ser_resp_err_map_serclosed">Server %s tertutup</string>
     <string name="ser_resp_err_map_ssl">"Pilih 'SSL/TLS (terima semua sertifikat)' di 'Tipe keamanan'"</string>
+    <string name="service_protocol_discribe"><u>Saya telah membaca dan menyetujui Perjanjian Layanan WPS Mail</u></string>
+    <string name="service_protocol_title">Perjanjian Layanan</string>
     <string name="set_network">Atur jaringan</string>
     <string name="settings_activity_title">Setelan</string>
     <string name="share_choose">Pilih berkas untuk dibagikan</string>
@@ -836,6 +917,7 @@
     <string name="toast_bar_invalid_account">Anda perlu masuk lagi</string>
     <string name="toast_bar_no_connection_network">Anda tidak memiliki koneksi internet</string>
     <string name="toast_bar_open_gmail_synchronization">Ketuk untuk guna server proxy untuk Gmail</string>
+    <string name="today_text">Hari ini</string>
     <string name="too_large_to_attach_additional">Ukuran berkas tak boleh melebihi %1$s.</string>
     <string name="too_large_to_attach_multiple">Satu atau lebih berkas tidak terlampir. Ukuran tak boleh melebihi %1$s.</string>
     <string name="too_large_to_attach_single">Tidak dapat melampirkan berkas lebih besar dari %1$s.</string>
@@ -855,7 +937,10 @@
     di antara web, perangkat Anda lainnya, dan %1$s Anda."</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">Hidupkan</string>
     <string name="turn_auto_sync_on_dialog_title">Hidupkan sinkron otomatis?</string>
+    <string name="unbind_dialog_text">"解除绑定后不再解析邮件信息
+确认解除绑定?"</string>
     <string name="undo">Urungkan</string>
+    <string name="unknow">Tak diketahui</string>
     <string name="unread_string">percakapan belum dibaca</string>
     <string name="unsent_messages_in_outbox">%1$s tdk terkirim di %2$s</string>
     <string name="unzip_file_failed">Tidak dapat ekstrak berkas</string>
@@ -871,11 +956,21 @@
     <string name="upload_logs_keywords">unggah log</string>
     <string name="uploading_logs">Tunggu sebentar…</string>
     <string name="validation_failed_prompt">Tidak dapat verifikasi akun, periksa setelan server untuk %s</string>
+    <string name="veiled_address" />
+    <string name="veiled_alternate_text" />
+    <string name="veiled_alternate_text_unknown_person" />
+    <string name="veiled_summary_unknown_person" />
     <string name="via_domain">via %1$s</string>
     <string name="view_more_conversations">Tampil percakapan lainnya</string>
     <string name="wait_for_manual_sync_body">"Akun ini tdk disetel utk otomatis sinkron.
  Sentuh "<b>Sinkron Skrg</b>utk sinkron surat sekali atau <b>Ganti setelan Sinkron</b> utk menyetel akun ini menjadi otomatis sinkron.</string>
     <string name="wait_for_sync_title">Menunggu untuk sinkron</string>
+    <string name="webview_logout">Anda bisa coba masuk lagi</string>
+    <string name="webview_logout_cancel">Jangan sekarang</string>
+    <string name="webview_logout_sure">Coba lagi</string>
+    <string name="webview_sslerror_handle_cancel">Batal</string>
+    <string name="webview_sslerror_handle_continue">Lanjut</string>
+    <string name="webview_sslerror_handle_hitmessage">Terjadi kesalahan sertifikat, tetap lanjutkan?</string>
     <string name="widget_all_mail">Semua email</string>
     <string name="widget_large_unread_count">%d+</string>
     <string name="widget_other_views">Lainnya</string>
@@ -886,4 +981,5 @@
     <string name="you_are_in_mobile_network">Kirim log dengan koneksi data seluler? Jika Anda melampaui batas paket data, maka Anda dapat dikenakan biaya tambahan oleh operator.</string>
     <string name="youfuli">Promosi</string>
     <string name="zip_viewer_no_file">Tak ada berkas.</string>
+    <string name="dialog_auto_sync_setting_no_open">Tidak bisa otomatis terima pesan baru. Sinkron mati.</string>
 </resources>

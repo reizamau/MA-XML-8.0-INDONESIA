@@ -9,6 +9,8 @@
     <string name="download_retry">Tidak dapat unduh, coba lagi.</string>
     <string name="install_retry">Tidak dapat instal, coba lagi.</string>
     <string name="installed">berhasil diinstal.</string>
+    <string name="start_download">Mengunduh</string>
+    <string name="waiting">Menunggu</string>
     <string name="introduction">Tentang layanan iklan</string>
     <string name="dismiss">Saya tidak mau lihat ini</string>
     <string name="provider_title">Penyedia iklan</string>
@@ -18,7 +20,7 @@
     <string name="bad_content">Isinya tidak berkualitas</string>
     <string name="ad_service_introduction">Tentang layanan iklan</string>
     <string name="loading">Tunggu sebentar…</string>
-    <string name="feedback_information">Terima kasih atas masukan Anda, kami akan menampilkan sesuatu yang lebih baik lain kali.</string>
+    <string name="feedback_information">Terima kasih atas masukan Anda.</string>
     <string name="ERROR_FILE_ERROR">Berkas bermasalah</string>
     <string name="ERROR_UNHANDLED_HTTP_CODE">Kode HTTP bermasalah</string>
     <string name="ERROR_HTTP_DATA_ERROR">Data HTTP bermasalah</string>
@@ -31,6 +33,26 @@
     <string name="PAUSED_WAITING_FOR_NETWORK">Tidak dapat terhubung ke jaringan</string>
     <string name="PAUSED_QUEUED_FOR_WIFI">Tidak dapat terhubung ke Wi-Fi</string>
     <string name="PAUSED_UNKNOWN">Terjadi kesalahan yang tak diketahui</string>
+    <string name="DEFAULT_MENU_ITEM_SHARE">share</string>
+    <string name="DEFAULT_MENU_ITEM_OPEN_IN_BROWSER">open in browser</string>
+    <string name="DEFAULT_MENU_ITEM_ADD_DESKTOP_SHORTCUT">add desktop shortcut</string>
+    <string name="DEFAULT_SHARE_PAGE_TEXT">"I'm enjoying 【%1$s】 | %2$s"</string>
+    <string name="DEFAULT_MENU_TITLE">more</string>
     <string name="skip_ad">Lewati</string>
     <string name="ad_flag_text">Iklan</string>
+    <string name="mimo_download_card_title">Perhatian</string>
+    <string name="mimo_download_card_info">Mengunduh info…</string>
+    <string name="mimo_download_card_hide">Sembunyikan</string>
+    <string name="mimo_download_card_cancel">Batal</string>
+    <string name="mimo_notification_title">Mengunduh plug-in</string>
+    <string name="mimo_notification_download_fail">Tidak dapat mengunduh</string>
+    <string name="app_installed_notification_description">" has been installed, take a look."</string>
+    <string name="ok">OK</string>
+    <string name="nativeStory_receive_param">An error occurred</string>
+    <string name="videoview_load_fail">"Couldn't load video"</string>
+    <string name="imageview_load_fail">"Couldn't load image"</string>
+    <string name="app_not_install">"Couldn't install app"</string>
+    <string name="dropspinner_attention">"Can't be blank"</string>
+    <string name="surprise_picture">the surprise picture</string>
+    <string name="save_picture">save the picture [%s] to the galley</string>
 </resources>

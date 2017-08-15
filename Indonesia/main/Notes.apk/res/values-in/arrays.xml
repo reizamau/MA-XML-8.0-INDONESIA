@@ -9,8 +9,8 @@
         <item>Galeri</item>
     </string-array>
     <string-array name="note_sort_way">
-        <item>Diurutkan berdasarkan tanggal pembuatan</item>
-        <item>Diurutkan berdasarkan tanggal modifikasi</item>
+        <item>Per tgl dibuat</item>
+        <item>Per tgl dimodifikasi</item>
     </string-array>
     <string-array name="contact_entries">
         <item>Nama</item>

@@ -12,9 +12,6 @@
     <plurals name="numSelectedFile">
         <item quantity="other">%1$d terpilih</item>
     </plurals>
-    <plurals name="items_file">
-        <item quantity="other"> (%1$d item)</item>
-    </plurals>
     <plurals name="items_picture">
         <item quantity="other"> (%1$d item)</item>
     </plurals>
@@ -39,38 +36,11 @@
     <plurals name="days_ago">
         <item quantity="other">%1$d hari lalu</item>
     </plurals>
-    <plurals name="seconds">
-        <item quantity="other">%1$d detik</item>
-    </plurals>
-    <plurals name="mins">
-        <item quantity="other">%1$d menit</item>
-    </plurals>
-    <plurals name="hours">
-        <item quantity="other">%1$d jam</item>
-    </plurals>
-    <plurals name="days">
-        <item quantity="other">%1$d hari</item>
-    </plurals>
     <plurals name="found_new_files">
         <item quantity="other">Ditemukan %1$d berkas baru</item>
     </plurals>
-    <plurals name="file_notify_title">
-        <item quantity="other">Menerima %1$d berkas dari %2$s</item>
-    </plurals>
-    <plurals name="file_notify_title_wechat_video">
-        <item quantity="other">Menerima %1$d berkas dari WeChat</item>
-    </plurals>
-    <plurals name="file_notify_title_wechat_video_expire">
-        <item quantity="other">%1$d video WeChat akan segera kedaluwarsa</item>
-    </plurals>
     <plurals name="backup_message_wechat_video">
         <item quantity="other">%1$d video di percakapan WeChat akan segera kedaluwarsa. Cadangkan ke penyimpanan internal perangkat?</item>
-    </plurals>
-    <plurals name="file_notify_title_wechat_sticker">
-        <item quantity="other">%1$d stiker WeChat baru hari ini</item>
-    </plurals>
-    <plurals name="file_notify_title_wechat_video_auto_backup">
-        <item quantity="other">%1$d video WeChat telah dicadangkan.</item>
     </plurals>
     <plurals name="remote_video_update">
         <item quantity="other">Menemukan %1$s video baru</item>
@@ -80,15 +50,6 @@
     </plurals>
     <plurals name="video_play_num">
         <item quantity="other">%1$s dilihat</item>
-    </plurals>
-    <plurals name="video_num">
-        <item quantity="other">%1$s video</item>
-    </plurals>
-    <plurals name="follower_num">
-        <item quantity="other">pengikut</item>
-    </plurals>
-    <plurals name="user_upload_items">
-        <item quantity="other">video</item>
     </plurals>
     <plurals name="video_count">
         <item quantity="other">&lt;font color=#fc7050>%d&lt;/font> video</item>
@@ -120,13 +81,25 @@
     <plurals name="follow_count">
         <item quantity="other">&lt;font color=#fc7050>%d&lt;/font> pengikut</item>
     </plurals>
-    <plurals name="video_like_num">
-        <item quantity="other">%1$s suka</item>
-    </plurals>
     <plurals name="gems">
         <item quantity="other">%1$s permata</item>
     </plurals>
     <plurals name="more_gems">
-        <item quantity="other">Kumpulkan &lt;font color=#fc7050>&lt;b>%d&lt;/b>&lt;/font> permata lagi utk berpartisipasi dalam undian</item>
+        <item quantity="other">Kumpulkan &lt;font color=#fc7050>&lt;b>%d&lt;/b>&lt;/font> permata lagi agar dapat berpartisipasi di undian berhadiah.</item>
+    </plurals>
+    <plurals name="clockin_days">
+        <item quantity="other">Masuk %1$s hari berturut-turut</item>
+    </plurals>
+    <plurals name="clockin_new_chip">
+        <item quantity="other">Anda dapat &lt;font color=#faea47>&lt;b>%d&lt;/b>&lt;/font> poin</item>
+    </plurals>
+    <plurals name="clockin_day_count">
+        <item quantity="other">Masuk %1$s hari berturut-turut, ayo semangat!</item>
+    </plurals>
+    <plurals name="total_topic_num">
+        <item quantity="other">%1$s topik</item>
+    </plurals>
+    <plurals name="total_user_num">
+        <item quantity="other">%1$s orang</item>
     </plurals>
 </resources>

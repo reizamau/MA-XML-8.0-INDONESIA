@@ -62,8 +62,8 @@
     <string name="activate_popup_desc_voip_privacy_prefix">Layanan VoIP didukung oleh Weihui. Lihat Weihui</string>
     <string name="activate_popup_desc_voip_privacy">Kebijakan Privasi</string>
     <string name="activate_popup_title_register_account">Buat Akun Mi</string>
-    <string name="activate_popup_desc_register_account">Anda dapat dikenakan biaya oleh operator untuk SMS pembuatan Akun Mi Anda.</string>
-    <string name="activate_popup_desc_register_account_intl">Anda dapat dikenakan biaya oleh operator untuk SMS internasional pembuatan Akun Mi Anda.</string>
+    <string name="activate_popup_desc_register_account">Sebuah SMS keluar mungkin dibutuhkan untuk membuat Akun Mi Anda. Anda akan dikenakan biaya oleh operator untuk SMS tersebut.</string>
+    <string name="activate_popup_desc_register_account_intl">Sebuah SMS interlokal keluar mungkin dibutuhkan untuk membuat Akun Mi Anda. Anda akan dikenakan biaya oleh operator untuk SMS tersebut.</string>
     <string name="activate_popup_desc_register_account_downlink">Masukkan nomor telepon Anda</string>
     <string name="activate_popup_title_failed_send_sms">Tidak dapat kirim pesan teks</string>
     <string name="activate_popup_desc_failed_send_sms">Tidak dapat kirim pesan aktivasi. Pastikan kartu SIM Anda telah diaktivasi.</string>

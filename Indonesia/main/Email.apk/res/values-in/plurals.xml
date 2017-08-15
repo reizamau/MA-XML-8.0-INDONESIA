@@ -39,11 +39,23 @@
     <plurals name="conversation_spammed">
         <item quantity="other">%1$d percakapan telah dilaporkan sebagai spam.</item>
     </plurals>
+    <plurals name="day">
+        <item quantity="other">%d hari</item>
+    </plurals>
+    <plurals name="day_after">
+        <item quantity="other">%d hari lagi</item>
+    </plurals>
+    <plurals name="day_before">
+        <item quantity="other">%d hari lalu</item>
+    </plurals>
     <plurals name="draft">
         <item quantity="other">Draf</item>
     </plurals>
     <plurals name="empty_folder_dialog_message">
         <item quantity="other">%1$d pesan akan dihapus permanen.</item>
+    </plurals>
+    <plurals name="month">
+        <item quantity="other">%d bulan</item>
     </plurals>
     <plurals name="move_conversation">
         <item quantity="other">Pindahkan %1$d percakapan</item>
