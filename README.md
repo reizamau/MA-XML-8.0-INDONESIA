@@ -1,8 +1,8 @@
 # TRANSLATE MIUI BAHASA INDONESIA 
 
-Untuk mi4c
+Update MIUI9- 8.3.8 Developer
 
-If you get error please contact me 
+If you get error please contact me at:
 
 
 vanzdobz@gmail.com
